@@ -1,0 +1,5 @@
+periodo,nos,arestas,densidade,clustering_medio,componentes,diametro_gcc,eficiencia_global,degenerescencia
+completa,32,472,0.952,0.986,1,2,0.976,29
+inicio,32,470,0.948,0.982,1,2,0.974,29
+meio,31,446,0.959,0.968,1,2,0.98,26
+fim,26,237,0.729,0.86,1,2,0.865,15

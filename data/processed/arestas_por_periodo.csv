@@ -1,0 +1,1626 @@
+periodo,a,b,peso,jaccard
+completa,Agostinho,Albino,7,0.5385
+completa,Agostinho,Alexandre,7,0.5
+completa,Agostinho,Anna das Dores,7,0.4667
+completa,Agostinho,Augusta Carne-Molle,7,0.4667
+completa,Agostinho,Bertoleza,6,0.3529
+completa,Agostinho,Botelho,3,0.2143
+completa,Agostinho,Bruno,5,0.3571
+completa,Agostinho,Domingos,3,0.25
+completa,Agostinho,Dona Isabel,6,0.4
+completa,Agostinho,Estella,3,0.2143
+completa,Agostinho,Firmo,5,0.2941
+completa,Agostinho,Florinda,6,0.4286
+completa,Agostinho,Henrique,3,0.2308
+completa,Agostinho,Izaura,3,0.2727
+completa,Agostinho,Jeronymo,6,0.3158
+completa,Agostinho,João Romão,9,0.4286
+completa,Agostinho,João da Costa,3,0.3
+completa,Agostinho,Leandra (Machona),8,0.4706
+completa,Agostinho,Leocadia,6,0.4615
+completa,Agostinho,Leonor,4,0.3333
+completa,Agostinho,Libório,3,0.25
+completa,Agostinho,Manoel,3,0.25
+completa,Agostinho,Marciana,6,0.4286
+completa,Agostinho,Miranda,6,0.3
+completa,Agostinho,Nênêm,9,0.75
+completa,Agostinho,Paula (Bruxa),6,0.375
+completa,Agostinho,Piedade de Jesus,6,0.3333
+completa,Agostinho,Pombinha,6,0.4
+completa,Agostinho,Rita Bahiana,7,0.3889
+completa,Agostinho,Zulmira,4,0.25
+completa,Albino,Alexandre,7,0.4375
+completa,Albino,Anna das Dores,9,0.6
+completa,Albino,Augusta Carne-Molle,10,0.7143
+completa,Albino,Bertoleza,6,0.3158
+completa,Albino,Botelho,3,0.1875
+completa,Albino,Bruno,7,0.5
+completa,Albino,Domingos,5,0.4167
+completa,Albino,Dona Isabel,8,0.5333
+completa,Albino,Estella,4,0.2667
+completa,Albino,Firmo,7,0.4118
+completa,Albino,Florinda,8,0.5714
+completa,Albino,Henrique,4,0.2857
+completa,Albino,Izaura,4,0.3333
+completa,Albino,Jeronymo,9,0.5
+completa,Albino,João Romão,11,0.5238
+completa,Albino,João da Costa,3,0.25
+completa,Albino,Leandra (Machona),11,0.6875
+completa,Albino,Leocadia,8,0.6154
+completa,Albino,Leonor,5,0.3846
+completa,Albino,Libório,4,0.3077
+completa,Albino,Manoel,6,0.5455
+completa,Albino,Marciana,8,0.5714
+completa,Albino,Miranda,8,0.4
+completa,Albino,Nênêm,9,0.6429
+completa,Albino,Paula (Bruxa),8,0.5
+completa,Albino,Piedade de Jesus,8,0.4444
+completa,Albino,Pombinha,6,0.3529
+completa,Albino,Rita Bahiana,8,0.4211
+completa,Albino,Zulmira,5,0.2941
+completa,Alexandre,Anna das Dores,10,0.6667
+completa,Alexandre,Augusta Carne-Molle,10,0.6667
+completa,Alexandre,Bertoleza,8,0.4444
+completa,Alexandre,Botelho,2,0.1111
+completa,Alexandre,Bruno,7,0.4667
+completa,Alexandre,Domingos,5,0.3846
+completa,Alexandre,Dona Isabel,9,0.6
+completa,Alexandre,Estella,3,0.1765
+completa,Alexandre,Firmo,8,0.4706
+completa,Alexandre,Florinda,7,0.4375
+completa,Alexandre,Henrique,4,0.2667
+completa,Alexandre,Izaura,3,0.2143
+completa,Alexandre,Jeronymo,10,0.5556
+completa,Alexandre,João Romão,11,0.5
+completa,Alexandre,João da Costa,4,0.3333
+completa,Alexandre,Leandra (Machona),12,0.75
+completa,Alexandre,Leocadia,8,0.5714
+completa,Alexandre,Leonor,5,0.3571
+completa,Alexandre,Libório,5,0.3846
+completa,Alexandre,Manoel,4,0.2857
+completa,Alexandre,Marciana,7,0.4375
+completa,Alexandre,Miranda,9,0.45
+completa,Alexandre,Nênêm,8,0.5
+completa,Alexandre,Paula (Bruxa),9,0.5625
+completa,Alexandre,Piedade de Jesus,10,0.5882
+completa,Alexandre,Pombinha,8,0.5
+completa,Alexandre,Rita Bahiana,11,0.6471
+completa,Alexandre,Zulmira,3,0.15
+completa,Anna das Dores,Augusta Carne-Molle,10,0.625
+completa,Anna das Dores,Bertoleza,9,0.5
+completa,Anna das Dores,Botelho,4,0.2353
+completa,Anna das Dores,Bruno,9,0.6429
+completa,Anna das Dores,Domingos,5,0.3571
+completa,Anna das Dores,Dona Isabel,9,0.5625
+completa,Anna das Dores,Estella,5,0.3125
+completa,Anna das Dores,Firmo,9,0.5294
+completa,Anna das Dores,Florinda,7,0.4118
+completa,Anna das Dores,Henrique,5,0.3333
+completa,Anna das Dores,Izaura,4,0.2857
+completa,Anna das Dores,Jeronymo,10,0.5263
+completa,Anna das Dores,João Romão,12,0.5455
+completa,Anna das Dores,João da Costa,4,0.3077
+completa,Anna das Dores,Leandra (Machona),13,0.8125
+completa,Anna das Dores,Leocadia,8,0.5333
+completa,Anna das Dores,Leonor,6,0.4286
+completa,Anna das Dores,Libório,6,0.4615
+completa,Anna das Dores,Manoel,4,0.2667
+completa,Anna das Dores,Marciana,7,0.4118
+completa,Anna das Dores,Miranda,11,0.5789
+completa,Anna das Dores,Nênêm,10,0.6667
+completa,Anna das Dores,Paula (Bruxa),10,0.625
+completa,Anna das Dores,Piedade de Jesus,9,0.4737
+completa,Anna das Dores,Pombinha,8,0.4706
+completa,Anna das Dores,Rita Bahiana,11,0.6111
+completa,Anna das Dores,Zulmira,5,0.2632
+completa,Augusta Carne-Molle,Bertoleza,8,0.4211
+completa,Augusta Carne-Molle,Botelho,2,0.1053
+completa,Augusta Carne-Molle,Bruno,8,0.5333
+completa,Augusta Carne-Molle,Domingos,5,0.3571
+completa,Augusta Carne-Molle,Dona Isabel,9,0.5625
+completa,Augusta Carne-Molle,Estella,3,0.1667
+completa,Augusta Carne-Molle,Firmo,8,0.4444
+completa,Augusta Carne-Molle,Florinda,9,0.6
+completa,Augusta Carne-Molle,Henrique,4,0.25
+completa,Augusta Carne-Molle,Izaura,4,0.2857
+completa,Augusta Carne-Molle,Jeronymo,11,0.6111
+completa,Augusta Carne-Molle,João Romão,13,0.619
+completa,Augusta Carne-Molle,João da Costa,3,0.2143
+completa,Augusta Carne-Molle,Leandra (Machona),13,0.8125
+completa,Augusta Carne-Molle,Leocadia,8,0.5333
+completa,Augusta Carne-Molle,Leonor,5,0.3333
+completa,Augusta Carne-Molle,Libório,5,0.3571
+completa,Augusta Carne-Molle,Manoel,6,0.4615
+completa,Augusta Carne-Molle,Marciana,9,0.6
+completa,Augusta Carne-Molle,Miranda,9,0.4286
+completa,Augusta Carne-Molle,Nênêm,9,0.5625
+completa,Augusta Carne-Molle,Paula (Bruxa),9,0.5294
+completa,Augusta Carne-Molle,Piedade de Jesus,11,0.6471
+completa,Augusta Carne-Molle,Pombinha,7,0.3889
+completa,Augusta Carne-Molle,Rita Bahiana,11,0.6111
+completa,Augusta Carne-Molle,Zulmira,4,0.2
+completa,Bertoleza,Botelho,6,0.375
+completa,Bertoleza,Bruno,6,0.3333
+completa,Bertoleza,Domingos,4,0.25
+completa,Bertoleza,Dona Isabel,8,0.4444
+completa,Bertoleza,Estella,7,0.4667
+completa,Bertoleza,Firmo,9,0.5
+completa,Bertoleza,Florinda,7,0.3889
+completa,Bertoleza,Henrique,5,0.3125
+completa,Bertoleza,Izaura,4,0.2667
+completa,Bertoleza,Jeronymo,9,0.4286
+completa,Bertoleza,João Romão,14,0.6667
+completa,Bertoleza,João da Costa,3,0.2
+completa,Bertoleza,Leandra (Machona),10,0.5
+completa,Bertoleza,Leocadia,5,0.2632
+completa,Bertoleza,Leonor,6,0.4
+completa,Bertoleza,Libório,4,0.25
+completa,Bertoleza,Manoel,4,0.25
+completa,Bertoleza,Marciana,7,0.3889
+completa,Bertoleza,Miranda,12,0.6316
+completa,Bertoleza,Nênêm,7,0.3684
+completa,Bertoleza,Paula (Bruxa),8,0.4211
+completa,Bertoleza,Piedade de Jesus,9,0.45
+completa,Bertoleza,Pombinha,10,0.625
+completa,Bertoleza,Rita Bahiana,11,0.5789
+completa,Bertoleza,Zulmira,8,0.4706
+completa,Botelho,Bruno,3,0.2
+completa,Botelho,Domingos,1,0.0769
+completa,Botelho,Dona Isabel,3,0.1765
+completa,Botelho,Estella,6,0.6
+completa,Botelho,Firmo,4,0.2353
+completa,Botelho,Florinda,2,0.1176
+completa,Botelho,Henrique,5,0.5
+completa,Botelho,Izaura,3,0.3
+completa,Botelho,Jeronymo,4,0.2
+completa,Botelho,João Romão,8,0.381
+completa,Botelho,Leandra (Machona),4,0.2
+completa,Botelho,Leocadia,2,0.125
+completa,Botelho,Leonor,4,0.3636
+completa,Botelho,Libório,2,0.1667
+completa,Botelho,Manoel,1,0.0769
+completa,Botelho,Marciana,2,0.1176
+completa,Botelho,Miranda,7,0.3889
+completa,Botelho,Nênêm,4,0.25
+completa,Botelho,Paula (Bruxa),4,0.2353
+completa,Botelho,Piedade de Jesus,3,0.15
+completa,Botelho,Pombinha,5,0.3333
+completa,Botelho,Rita Bahiana,4,0.2
+completa,Botelho,Valentim,1,0.125
+completa,Botelho,Zulmira,8,0.7273
+completa,Bruno,Domingos,4,0.3333
+completa,Bruno,Dona Isabel,7,0.4667
+completa,Bruno,Estella,3,0.2
+completa,Bruno,Firmo,7,0.4375
+completa,Bruno,Florinda,6,0.4
+completa,Bruno,Henrique,4,0.3077
+completa,Bruno,Izaura,4,0.3636
+completa,Bruno,Jeronymo,8,0.4444
+completa,Bruno,João Romão,9,0.4091
+completa,Bruno,João da Costa,3,0.2727
+completa,Bruno,Leandra (Machona),9,0.5294
+completa,Bruno,Leocadia,8,0.6667
+completa,Bruno,Leonor,4,0.3077
+completa,Bruno,Libório,6,0.6
+completa,Bruno,Manoel,3,0.2308
+completa,Bruno,Marciana,6,0.4
+completa,Bruno,Miranda,9,0.5
+completa,Bruno,Nênêm,8,0.5714
+completa,Bruno,Paula (Bruxa),8,0.5333
+completa,Bruno,Piedade de Jesus,8,0.4706
+completa,Bruno,Pombinha,7,0.4667
+completa,Bruno,Rita Bahiana,9,0.5294
+completa,Bruno,Zulmira,4,0.2353
+completa,Domingos,Dona Isabel,6,0.5
+completa,Domingos,Estella,2,0.1667
+completa,Domingos,Firmo,5,0.3571
+completa,Domingos,Florinda,5,0.4167
+completa,Domingos,Henrique,2,0.1818
+completa,Domingos,Izaura,3,0.375
+completa,Domingos,Jeronymo,5,0.2941
+completa,Domingos,João Romão,5,0.2273
+completa,Domingos,João da Costa,4,0.6667
+completa,Domingos,Leandra (Machona),6,0.375
+completa,Domingos,Leocadia,5,0.4545
+completa,Domingos,Leonor,4,0.4444
+completa,Domingos,Libório,3,0.3333
+completa,Domingos,Manoel,5,0.7143
+completa,Domingos,Marciana,5,0.4167
+completa,Domingos,Miranda,4,0.2105
+completa,Domingos,Nênêm,5,0.3846
+completa,Domingos,Paula (Bruxa),6,0.4615
+completa,Domingos,Piedade de Jesus,5,0.3125
+completa,Domingos,Pombinha,5,0.3846
+completa,Domingos,Rita Bahiana,5,0.2941
+completa,Domingos,Zulmira,2,0.1333
+completa,Dona Isabel,Estella,4,0.25
+completa,Dona Isabel,Firmo,9,0.5625
+completa,Dona Isabel,Florinda,10,0.7692
+completa,Dona Isabel,Henrique,5,0.3571
+completa,Dona Isabel,Izaura,4,0.3077
+completa,Dona Isabel,Jeronymo,11,0.6471
+completa,Dona Isabel,João Romão,11,0.5
+completa,Dona Isabel,João da Costa,4,0.3333
+completa,Dona Isabel,Leandra (Machona),11,0.6471
+completa,Dona Isabel,Leocadia,8,0.5714
+completa,Dona Isabel,Leonor,6,0.4615
+completa,Dona Isabel,Libório,5,0.3846
+completa,Dona Isabel,Manoel,5,0.3846
+completa,Dona Isabel,Marciana,10,0.7692
+completa,Dona Isabel,Miranda,8,0.381
+completa,Dona Isabel,Nênêm,9,0.6
+completa,Dona Isabel,Paula (Bruxa),11,0.7857
+completa,Dona Isabel,Piedade de Jesus,9,0.5
+completa,Dona Isabel,Pombinha,10,0.7143
+completa,Dona Isabel,Rita Bahiana,10,0.5556
+completa,Dona Isabel,Zulmira,4,0.2105
+completa,Estella,Firmo,4,0.2353
+completa,Estella,Florinda,3,0.1875
+completa,Estella,Henrique,6,0.6667
+completa,Estella,Izaura,4,0.4444
+completa,Estella,Jeronymo,3,0.1429
+completa,Estella,João Romão,8,0.381
+completa,Estella,João da Costa,1,0.0909
+completa,Estella,Leandra (Machona),5,0.2632
+completa,Estella,Leocadia,2,0.125
+completa,Estella,Leonor,5,0.5
+completa,Estella,Libório,2,0.1667
+completa,Estella,Manoel,2,0.1667
+completa,Estella,Marciana,3,0.1875
+completa,Estella,Miranda,8,0.4706
+completa,Estella,Nênêm,4,0.25
+completa,Estella,Paula (Bruxa),4,0.2353
+completa,Estella,Piedade de Jesus,2,0.0952
+completa,Estella,Pombinha,5,0.3333
+completa,Estella,Rita Bahiana,4,0.2
+completa,Estella,Valentim,1,0.125
+completa,Estella,Zulmira,8,0.7273
+completa,Firmo,Florinda,8,0.5
+completa,Firmo,Henrique,5,0.3333
+completa,Firmo,Izaura,4,0.2857
+completa,Firmo,Jeronymo,12,0.7059
+completa,Firmo,João Romão,11,0.4783
+completa,Firmo,João da Costa,4,0.3077
+completa,Firmo,Leandra (Machona),10,0.5263
+completa,Firmo,Leocadia,7,0.4375
+completa,Firmo,Leonor,6,0.4286
+completa,Firmo,Libório,5,0.3571
+completa,Firmo,Manoel,5,0.3571
+completa,Firmo,Marciana,8,0.5
+completa,Firmo,Miranda,11,0.5789
+completa,Firmo,Nênêm,7,0.3889
+completa,Firmo,Paula (Bruxa),9,0.5294
+completa,Firmo,Piedade de Jesus,11,0.6471
+completa,Firmo,Pombinha,10,0.6667
+completa,Firmo,Rita Bahiana,13,0.8125
+completa,Firmo,Zulmira,6,0.3333
+completa,Florinda,Henrique,4,0.2857
+completa,Florinda,Izaura,4,0.3333
+completa,Florinda,Jeronymo,10,0.5882
+completa,Florinda,João Romão,10,0.4545
+completa,Florinda,João da Costa,3,0.25
+completa,Florinda,Leandra (Machona),9,0.5
+completa,Florinda,Leocadia,7,0.5
+completa,Florinda,Leonor,5,0.3846
+completa,Florinda,Libório,4,0.3077
+completa,Florinda,Manoel,5,0.4167
+completa,Florinda,Marciana,11,1.0
+completa,Florinda,Miranda,6,0.2727
+completa,Florinda,Nênêm,8,0.5333
+completa,Florinda,Paula (Bruxa),9,0.6
+completa,Florinda,Piedade de Jesus,9,0.5294
+completa,Florinda,Pombinha,8,0.5333
+completa,Florinda,Rita Bahiana,9,0.5
+completa,Florinda,Zulmira,3,0.1579
+completa,Henrique,Izaura,4,0.5
+completa,Henrique,Jeronymo,4,0.2105
+completa,Henrique,João Romão,7,0.3333
+completa,Henrique,João da Costa,1,0.1
+completa,Henrique,Leandra (Machona),5,0.2778
+completa,Henrique,Leocadia,3,0.2143
+completa,Henrique,Leonor,5,0.5556
+completa,Henrique,Libório,3,0.3
+completa,Henrique,Manoel,2,0.1818
+completa,Henrique,Marciana,4,0.2857
+completa,Henrique,Miranda,7,0.4118
+completa,Henrique,Nênêm,4,0.2667
+completa,Henrique,Paula (Bruxa),5,0.3333
+completa,Henrique,Piedade de Jesus,3,0.1579
+completa,Henrique,Pombinha,6,0.4615
+completa,Henrique,Rita Bahiana,5,0.2778
+completa,Henrique,Valentim,1,0.1429
+completa,Henrique,Zulmira,6,0.5
+completa,Izaura,Jeronymo,3,0.1667
+completa,Izaura,João Romão,5,0.2381
+completa,Izaura,João da Costa,2,0.2857
+completa,Izaura,Leandra (Machona),4,0.2353
+completa,Izaura,Leocadia,3,0.25
+completa,Izaura,Leonor,5,0.7143
+completa,Izaura,Libório,3,0.375
+completa,Izaura,Manoel,3,0.375
+completa,Izaura,Marciana,4,0.3333
+completa,Izaura,Miranda,5,0.2941
+completa,Izaura,Nênêm,4,0.3077
+completa,Izaura,Paula (Bruxa),4,0.2857
+completa,Izaura,Piedade de Jesus,3,0.1765
+completa,Izaura,Pombinha,4,0.3077
+completa,Izaura,Rita Bahiana,4,0.2353
+completa,Izaura,Valentim,1,0.2
+completa,Izaura,Zulmira,4,0.3333
+completa,Jeronymo,João Romão,14,0.6087
+completa,Jeronymo,João da Costa,3,0.1765
+completa,Jeronymo,Leandra (Machona),13,0.6842
+completa,Jeronymo,Leocadia,9,0.5294
+completa,Jeronymo,Leonor,5,0.2778
+completa,Jeronymo,Libório,5,0.2941
+completa,Jeronymo,Manoel,5,0.2941
+completa,Jeronymo,Marciana,10,0.5882
+completa,Jeronymo,Miranda,11,0.5
+completa,Jeronymo,Nênêm,9,0.4737
+completa,Jeronymo,Paula (Bruxa),10,0.5263
+completa,Jeronymo,Piedade de Jesus,14,0.8235
+completa,Jeronymo,Pombinha,10,0.5556
+completa,Jeronymo,Rita Bahiana,14,0.7778
+completa,Jeronymo,Zulmira,5,0.2273
+completa,João Romão,João da Costa,3,0.1364
+completa,João Romão,Leandra (Machona),15,0.6818
+completa,João Romão,Leocadia,9,0.4091
+completa,João Romão,Leonor,7,0.3333
+completa,João Romão,Libório,5,0.2273
+completa,João Romão,Manoel,6,0.2857
+completa,João Romão,Marciana,10,0.4545
+completa,João Romão,Miranda,16,0.7273
+completa,João Romão,Nênêm,11,0.5
+completa,João Romão,Paula (Bruxa),12,0.5455
+completa,João Romão,Piedade de Jesus,13,0.5652
+completa,João Romão,Pombinha,11,0.5
+completa,João Romão,Rita Bahiana,14,0.6087
+completa,João Romão,Valentim,1,0.0476
+completa,João Romão,Zulmira,11,0.5238
+completa,João da Costa,Leandra (Machona),4,0.25
+completa,João da Costa,Leocadia,4,0.4
+completa,João da Costa,Leonor,3,0.375
+completa,João da Costa,Libório,2,0.25
+completa,João da Costa,Manoel,3,0.4286
+completa,João da Costa,Marciana,3,0.25
+completa,João da Costa,Miranda,3,0.1667
+completa,João da Costa,Nênêm,4,0.3333
+completa,João da Costa,Paula (Bruxa),4,0.3077
+completa,João da Costa,Piedade de Jesus,3,0.1875
+completa,João da Costa,Pombinha,4,0.3333
+completa,João da Costa,Rita Bahiana,4,0.25
+completa,João da Costa,Zulmira,1,0.0714
+completa,Leandra (Machona),Leocadia,9,0.5294
+completa,Leandra (Machona),Leonor,6,0.3529
+completa,Leandra (Machona),Libório,6,0.375
+completa,Leandra (Machona),Manoel,6,0.375
+completa,Leandra (Machona),Marciana,9,0.5
+completa,Leandra (Machona),Miranda,12,0.5714
+completa,Leandra (Machona),Nênêm,11,0.6471
+completa,Leandra (Machona),Paula (Bruxa),11,0.6111
+completa,Leandra (Machona),Piedade de Jesus,12,0.6316
+completa,Leandra (Machona),Pombinha,9,0.4737
+completa,Leandra (Machona),Rita Bahiana,13,0.6842
+completa,Leandra (Machona),Zulmira,6,0.2857
+completa,Leocadia,Leonor,4,0.3077
+completa,Leocadia,Libório,4,0.3333
+completa,Leocadia,Manoel,4,0.3333
+completa,Leocadia,Marciana,7,0.5
+completa,Leocadia,Miranda,7,0.35
+completa,Leocadia,Nênêm,8,0.5714
+completa,Leocadia,Paula (Bruxa),8,0.5333
+completa,Leocadia,Piedade de Jesus,8,0.4706
+completa,Leocadia,Pombinha,7,0.4667
+completa,Leocadia,Rita Bahiana,8,0.4444
+completa,Leocadia,Zulmira,3,0.1667
+completa,Leonor,Libório,3,0.3
+completa,Leonor,Manoel,4,0.4444
+completa,Leonor,Marciana,5,0.3846
+completa,Leonor,Miranda,6,0.3333
+completa,Leonor,Nênêm,5,0.3571
+completa,Leonor,Paula (Bruxa),6,0.4286
+completa,Leonor,Piedade de Jesus,4,0.2222
+completa,Leonor,Pombinha,6,0.4615
+completa,Leonor,Rita Bahiana,6,0.3529
+completa,Leonor,Valentim,1,0.1429
+completa,Leonor,Zulmira,5,0.3846
+completa,Libório,Manoel,2,0.2
+completa,Libório,Marciana,4,0.3077
+completa,Libório,Miranda,6,0.3529
+completa,Libório,Nênêm,5,0.3846
+completa,Libório,Paula (Bruxa),6,0.4615
+completa,Libório,Piedade de Jesus,6,0.4
+completa,Libório,Pombinha,5,0.3846
+completa,Libório,Rita Bahiana,6,0.375
+completa,Libório,Zulmira,2,0.1333
+completa,Manoel,Marciana,5,0.4167
+completa,Manoel,Miranda,4,0.2105
+completa,Manoel,Nênêm,4,0.2857
+completa,Manoel,Paula (Bruxa),5,0.3571
+completa,Manoel,Piedade de Jesus,5,0.3125
+completa,Manoel,Pombinha,4,0.2857
+completa,Manoel,Rita Bahiana,5,0.2941
+completa,Manoel,Zulmira,3,0.2143
+completa,Marciana,Miranda,6,0.2727
+completa,Marciana,Nênêm,8,0.5333
+completa,Marciana,Paula (Bruxa),9,0.6
+completa,Marciana,Piedade de Jesus,9,0.5294
+completa,Marciana,Pombinha,8,0.5333
+completa,Marciana,Rita Bahiana,9,0.5
+completa,Marciana,Zulmira,3,0.1579
+completa,Miranda,Nênêm,8,0.381
+completa,Miranda,Paula (Bruxa),9,0.4286
+completa,Miranda,Piedade de Jesus,11,0.5238
+completa,Miranda,Pombinha,10,0.5263
+completa,Miranda,Rita Bahiana,13,0.65
+completa,Miranda,Valentim,1,0.0588
+completa,Miranda,Zulmira,10,0.5556
+completa,Nênêm,Paula (Bruxa),9,0.5625
+completa,Nênêm,Piedade de Jesus,8,0.4211
+completa,Nênêm,Pombinha,8,0.5
+completa,Nênêm,Rita Bahiana,9,0.4737
+completa,Nênêm,Zulmira,5,0.2778
+completa,Paula (Bruxa),Piedade de Jesus,9,0.4737
+completa,Paula (Bruxa),Pombinha,9,0.5625
+completa,Paula (Bruxa),Rita Bahiana,10,0.5263
+completa,Paula (Bruxa),Zulmira,5,0.2632
+completa,Piedade de Jesus,Pombinha,9,0.5
+completa,Piedade de Jesus,Rita Bahiana,14,0.8235
+completa,Piedade de Jesus,Zulmira,4,0.1818
+completa,Pombinha,Rita Bahiana,11,0.6471
+completa,Pombinha,Zulmira,6,0.3529
+completa,Rita Bahiana,Zulmira,6,0.2857
+completa,Valentim,Zulmira,1,0.0909
+inicio,Agostinho,Albino,4,0.6667
+inicio,Agostinho,Alexandre,4,0.8
+inicio,Agostinho,Anna das Dores,4,0.8
+inicio,Agostinho,Augusta Carne-Molle,4,0.6667
+inicio,Agostinho,Bertoleza,3,0.6
+inicio,Agostinho,Botelho,1,0.2
+inicio,Agostinho,Bruno,4,0.8
+inicio,Agostinho,Domingos,2,0.4
+inicio,Agostinho,Dona Isabel,4,0.6667
+inicio,Agostinho,Estella,2,0.3333
+inicio,Agostinho,Firmo,4,1.0
+inicio,Agostinho,Florinda,4,0.6667
+inicio,Agostinho,Henrique,3,0.6
+inicio,Agostinho,Izaura,3,0.6
+inicio,Agostinho,Jeronymo,3,0.5
+inicio,Agostinho,João Romão,4,0.5
+inicio,Agostinho,João da Costa,2,0.5
+inicio,Agostinho,Leandra (Machona),4,0.6667
+inicio,Agostinho,Leocadia,4,0.6667
+inicio,Agostinho,Leonor,3,0.6
+inicio,Agostinho,Libório,3,0.75
+inicio,Agostinho,Manoel,2,0.4
+inicio,Agostinho,Marciana,4,0.6667
+inicio,Agostinho,Miranda,4,0.6667
+inicio,Agostinho,Nênêm,4,0.8
+inicio,Agostinho,Paula (Bruxa),4,0.6667
+inicio,Agostinho,Piedade de Jesus,3,0.6
+inicio,Agostinho,Pombinha,4,1.0
+inicio,Agostinho,Rita Bahiana,4,1.0
+inicio,Agostinho,Zulmira,2,0.3333
+inicio,Albino,Alexandre,5,0.8333
+inicio,Albino,Anna das Dores,5,0.8333
+inicio,Albino,Augusta Carne-Molle,6,1.0
+inicio,Albino,Bertoleza,3,0.4286
+inicio,Albino,Botelho,1,0.1429
+inicio,Albino,Bruno,5,0.8333
+inicio,Albino,Domingos,3,0.5
+inicio,Albino,Dona Isabel,6,1.0
+inicio,Albino,Estella,2,0.25
+inicio,Albino,Firmo,4,0.6667
+inicio,Albino,Florinda,6,1.0
+inicio,Albino,Henrique,3,0.4286
+inicio,Albino,Izaura,3,0.4286
+inicio,Albino,Jeronymo,5,0.8333
+inicio,Albino,João Romão,6,0.75
+inicio,Albino,João da Costa,2,0.3333
+inicio,Albino,Leandra (Machona),6,1.0
+inicio,Albino,Leocadia,6,1.0
+inicio,Albino,Leonor,3,0.4286
+inicio,Albino,Libório,3,0.5
+inicio,Albino,Manoel,3,0.5
+inicio,Albino,Marciana,6,1.0
+inicio,Albino,Miranda,4,0.5
+inicio,Albino,Nênêm,5,0.8333
+inicio,Albino,Paula (Bruxa),6,1.0
+inicio,Albino,Piedade de Jesus,4,0.6667
+inicio,Albino,Pombinha,4,0.6667
+inicio,Albino,Rita Bahiana,4,0.6667
+inicio,Albino,Zulmira,2,0.25
+inicio,Alexandre,Anna das Dores,4,0.6667
+inicio,Alexandre,Augusta Carne-Molle,5,0.8333
+inicio,Alexandre,Bertoleza,3,0.5
+inicio,Alexandre,Botelho,1,0.1667
+inicio,Alexandre,Bruno,4,0.6667
+inicio,Alexandre,Domingos,3,0.6
+inicio,Alexandre,Dona Isabel,5,0.8333
+inicio,Alexandre,Estella,2,0.2857
+inicio,Alexandre,Firmo,4,0.8
+inicio,Alexandre,Florinda,5,0.8333
+inicio,Alexandre,Henrique,3,0.5
+inicio,Alexandre,Izaura,3,0.5
+inicio,Alexandre,Jeronymo,4,0.6667
+inicio,Alexandre,João Romão,5,0.625
+inicio,Alexandre,João da Costa,2,0.4
+inicio,Alexandre,Leandra (Machona),5,0.8333
+inicio,Alexandre,Leocadia,5,0.8333
+inicio,Alexandre,Leonor,3,0.5
+inicio,Alexandre,Libório,3,0.6
+inicio,Alexandre,Manoel,3,0.6
+inicio,Alexandre,Marciana,5,0.8333
+inicio,Alexandre,Miranda,4,0.5714
+inicio,Alexandre,Nênêm,4,0.6667
+inicio,Alexandre,Paula (Bruxa),5,0.8333
+inicio,Alexandre,Piedade de Jesus,4,0.8
+inicio,Alexandre,Pombinha,4,0.8
+inicio,Alexandre,Rita Bahiana,4,0.8
+inicio,Alexandre,Zulmira,2,0.2857
+inicio,Anna das Dores,Augusta Carne-Molle,5,0.8333
+inicio,Anna das Dores,Bertoleza,3,0.5
+inicio,Anna das Dores,Botelho,1,0.1667
+inicio,Anna das Dores,Bruno,5,1.0
+inicio,Anna das Dores,Domingos,2,0.3333
+inicio,Anna das Dores,Dona Isabel,5,0.8333
+inicio,Anna das Dores,Estella,2,0.2857
+inicio,Anna das Dores,Firmo,4,0.8
+inicio,Anna das Dores,Florinda,5,0.8333
+inicio,Anna das Dores,Henrique,3,0.5
+inicio,Anna das Dores,Izaura,3,0.5
+inicio,Anna das Dores,Jeronymo,4,0.6667
+inicio,Anna das Dores,João Romão,5,0.625
+inicio,Anna das Dores,João da Costa,2,0.4
+inicio,Anna das Dores,Leandra (Machona),5,0.8333
+inicio,Anna das Dores,Leocadia,5,0.8333
+inicio,Anna das Dores,Leonor,3,0.5
+inicio,Anna das Dores,Libório,3,0.6
+inicio,Anna das Dores,Manoel,2,0.3333
+inicio,Anna das Dores,Marciana,5,0.8333
+inicio,Anna das Dores,Miranda,4,0.5714
+inicio,Anna das Dores,Nênêm,5,1.0
+inicio,Anna das Dores,Paula (Bruxa),5,0.8333
+inicio,Anna das Dores,Piedade de Jesus,3,0.5
+inicio,Anna das Dores,Pombinha,4,0.8
+inicio,Anna das Dores,Rita Bahiana,4,0.8
+inicio,Anna das Dores,Zulmira,2,0.2857
+inicio,Augusta Carne-Molle,Bertoleza,3,0.4286
+inicio,Augusta Carne-Molle,Botelho,1,0.1429
+inicio,Augusta Carne-Molle,Bruno,5,0.8333
+inicio,Augusta Carne-Molle,Domingos,3,0.5
+inicio,Augusta Carne-Molle,Dona Isabel,6,1.0
+inicio,Augusta Carne-Molle,Estella,2,0.25
+inicio,Augusta Carne-Molle,Firmo,4,0.6667
+inicio,Augusta Carne-Molle,Florinda,6,1.0
+inicio,Augusta Carne-Molle,Henrique,3,0.4286
+inicio,Augusta Carne-Molle,Izaura,3,0.4286
+inicio,Augusta Carne-Molle,Jeronymo,5,0.8333
+inicio,Augusta Carne-Molle,João Romão,6,0.75
+inicio,Augusta Carne-Molle,João da Costa,2,0.3333
+inicio,Augusta Carne-Molle,Leandra (Machona),6,1.0
+inicio,Augusta Carne-Molle,Leocadia,6,1.0
+inicio,Augusta Carne-Molle,Leonor,3,0.4286
+inicio,Augusta Carne-Molle,Libório,3,0.5
+inicio,Augusta Carne-Molle,Manoel,3,0.5
+inicio,Augusta Carne-Molle,Marciana,6,1.0
+inicio,Augusta Carne-Molle,Miranda,4,0.5
+inicio,Augusta Carne-Molle,Nênêm,5,0.8333
+inicio,Augusta Carne-Molle,Paula (Bruxa),6,1.0
+inicio,Augusta Carne-Molle,Piedade de Jesus,4,0.6667
+inicio,Augusta Carne-Molle,Pombinha,4,0.6667
+inicio,Augusta Carne-Molle,Rita Bahiana,4,0.6667
+inicio,Augusta Carne-Molle,Zulmira,2,0.25
+inicio,Bertoleza,Botelho,1,0.2
+inicio,Bertoleza,Bruno,3,0.5
+inicio,Bertoleza,Domingos,2,0.4
+inicio,Bertoleza,Dona Isabel,3,0.4286
+inicio,Bertoleza,Estella,3,0.6
+inicio,Bertoleza,Firmo,3,0.6
+inicio,Bertoleza,Florinda,3,0.4286
+inicio,Bertoleza,Henrique,2,0.3333
+inicio,Bertoleza,Izaura,3,0.6
+inicio,Bertoleza,Jeronymo,2,0.2857
+inicio,Bertoleza,João Romão,4,0.5
+inicio,Bertoleza,João da Costa,2,0.5
+inicio,Bertoleza,Leandra (Machona),3,0.4286
+inicio,Bertoleza,Leocadia,3,0.4286
+inicio,Bertoleza,Leonor,3,0.6
+inicio,Bertoleza,Libório,2,0.4
+inicio,Bertoleza,Manoel,2,0.4
+inicio,Bertoleza,Marciana,3,0.4286
+inicio,Bertoleza,Miranda,4,0.6667
+inicio,Bertoleza,Nênêm,3,0.5
+inicio,Bertoleza,Paula (Bruxa),3,0.4286
+inicio,Bertoleza,Piedade de Jesus,2,0.3333
+inicio,Bertoleza,Pombinha,3,0.6
+inicio,Bertoleza,Rita Bahiana,3,0.6
+inicio,Bertoleza,Zulmira,3,0.6
+inicio,Botelho,Bruno,1,0.1667
+inicio,Botelho,Dona Isabel,1,0.1429
+inicio,Botelho,Estella,2,0.5
+inicio,Botelho,Firmo,1,0.2
+inicio,Botelho,Florinda,1,0.1429
+inicio,Botelho,Henrique,2,0.5
+inicio,Botelho,Izaura,2,0.5
+inicio,Botelho,Jeronymo,1,0.1667
+inicio,Botelho,João Romão,2,0.25
+inicio,Botelho,Leandra (Machona),1,0.1429
+inicio,Botelho,Leocadia,1,0.1429
+inicio,Botelho,Leonor,2,0.5
+inicio,Botelho,Libório,1,0.25
+inicio,Botelho,Marciana,1,0.1429
+inicio,Botelho,Miranda,2,0.3333
+inicio,Botelho,Nênêm,1,0.1667
+inicio,Botelho,Paula (Bruxa),1,0.1429
+inicio,Botelho,Piedade de Jesus,1,0.2
+inicio,Botelho,Pombinha,1,0.2
+inicio,Botelho,Rita Bahiana,1,0.2
+inicio,Botelho,Valentim,1,0.5
+inicio,Botelho,Zulmira,2,0.5
+inicio,Bruno,Domingos,2,0.3333
+inicio,Bruno,Dona Isabel,5,0.8333
+inicio,Bruno,Estella,2,0.2857
+inicio,Bruno,Firmo,4,0.8
+inicio,Bruno,Florinda,5,0.8333
+inicio,Bruno,Henrique,3,0.5
+inicio,Bruno,Izaura,3,0.5
+inicio,Bruno,Jeronymo,4,0.6667
+inicio,Bruno,João Romão,5,0.625
+inicio,Bruno,João da Costa,2,0.4
+inicio,Bruno,Leandra (Machona),5,0.8333
+inicio,Bruno,Leocadia,5,0.8333
+inicio,Bruno,Leonor,3,0.5
+inicio,Bruno,Libório,3,0.6
+inicio,Bruno,Manoel,2,0.3333
+inicio,Bruno,Marciana,5,0.8333
+inicio,Bruno,Miranda,4,0.5714
+inicio,Bruno,Nênêm,5,1.0
+inicio,Bruno,Paula (Bruxa),5,0.8333
+inicio,Bruno,Piedade de Jesus,3,0.5
+inicio,Bruno,Pombinha,4,0.8
+inicio,Bruno,Rita Bahiana,4,0.8
+inicio,Bruno,Zulmira,2,0.2857
+inicio,Domingos,Dona Isabel,3,0.5
+inicio,Domingos,Estella,1,0.1667
+inicio,Domingos,Firmo,2,0.4
+inicio,Domingos,Florinda,3,0.5
+inicio,Domingos,Henrique,1,0.1667
+inicio,Domingos,Izaura,2,0.4
+inicio,Domingos,Jeronymo,2,0.3333
+inicio,Domingos,João Romão,3,0.375
+inicio,Domingos,João da Costa,2,0.6667
+inicio,Domingos,Leandra (Machona),3,0.5
+inicio,Domingos,Leocadia,3,0.5
+inicio,Domingos,Leonor,2,0.4
+inicio,Domingos,Libório,1,0.2
+inicio,Domingos,Manoel,3,1.0
+inicio,Domingos,Marciana,3,0.5
+inicio,Domingos,Miranda,2,0.2857
+inicio,Domingos,Nênêm,2,0.3333
+inicio,Domingos,Paula (Bruxa),3,0.5
+inicio,Domingos,Piedade de Jesus,2,0.4
+inicio,Domingos,Pombinha,2,0.4
+inicio,Domingos,Rita Bahiana,2,0.4
+inicio,Domingos,Zulmira,1,0.1667
+inicio,Dona Isabel,Estella,2,0.25
+inicio,Dona Isabel,Firmo,4,0.6667
+inicio,Dona Isabel,Florinda,6,1.0
+inicio,Dona Isabel,Henrique,3,0.4286
+inicio,Dona Isabel,Izaura,3,0.4286
+inicio,Dona Isabel,Jeronymo,5,0.8333
+inicio,Dona Isabel,João Romão,6,0.75
+inicio,Dona Isabel,João da Costa,2,0.3333
+inicio,Dona Isabel,Leandra (Machona),6,1.0
+inicio,Dona Isabel,Leocadia,6,1.0
+inicio,Dona Isabel,Leonor,3,0.4286
+inicio,Dona Isabel,Libório,3,0.5
+inicio,Dona Isabel,Manoel,3,0.5
+inicio,Dona Isabel,Marciana,6,1.0
+inicio,Dona Isabel,Miranda,4,0.5
+inicio,Dona Isabel,Nênêm,5,0.8333
+inicio,Dona Isabel,Paula (Bruxa),6,1.0
+inicio,Dona Isabel,Piedade de Jesus,4,0.6667
+inicio,Dona Isabel,Pombinha,4,0.6667
+inicio,Dona Isabel,Rita Bahiana,4,0.6667
+inicio,Dona Isabel,Zulmira,2,0.25
+inicio,Estella,Firmo,2,0.3333
+inicio,Estella,Florinda,2,0.25
+inicio,Estella,Henrique,3,0.6
+inicio,Estella,Izaura,3,0.6
+inicio,Estella,Jeronymo,1,0.125
+inicio,Estella,João Romão,4,0.5
+inicio,Estella,João da Costa,1,0.2
+inicio,Estella,Leandra (Machona),2,0.25
+inicio,Estella,Leocadia,2,0.25
+inicio,Estella,Leonor,3,0.6
+inicio,Estella,Libório,1,0.1667
+inicio,Estella,Manoel,1,0.1667
+inicio,Estella,Marciana,2,0.25
+inicio,Estella,Miranda,4,0.6667
+inicio,Estella,Nênêm,2,0.2857
+inicio,Estella,Paula (Bruxa),2,0.25
+inicio,Estella,Piedade de Jesus,1,0.1429
+inicio,Estella,Pombinha,2,0.3333
+inicio,Estella,Rita Bahiana,2,0.3333
+inicio,Estella,Valentim,1,0.25
+inicio,Estella,Zulmira,4,1.0
+inicio,Firmo,Florinda,4,0.6667
+inicio,Firmo,Henrique,3,0.6
+inicio,Firmo,Izaura,3,0.6
+inicio,Firmo,Jeronymo,3,0.5
+inicio,Firmo,João Romão,4,0.5
+inicio,Firmo,João da Costa,2,0.5
+inicio,Firmo,Leandra (Machona),4,0.6667
+inicio,Firmo,Leocadia,4,0.6667
+inicio,Firmo,Leonor,3,0.6
+inicio,Firmo,Libório,3,0.75
+inicio,Firmo,Manoel,2,0.4
+inicio,Firmo,Marciana,4,0.6667
+inicio,Firmo,Miranda,4,0.6667
+inicio,Firmo,Nênêm,4,0.8
+inicio,Firmo,Paula (Bruxa),4,0.6667
+inicio,Firmo,Piedade de Jesus,3,0.6
+inicio,Firmo,Pombinha,4,1.0
+inicio,Firmo,Rita Bahiana,4,1.0
+inicio,Firmo,Zulmira,2,0.3333
+inicio,Florinda,Henrique,3,0.4286
+inicio,Florinda,Izaura,3,0.4286
+inicio,Florinda,Jeronymo,5,0.8333
+inicio,Florinda,João Romão,6,0.75
+inicio,Florinda,João da Costa,2,0.3333
+inicio,Florinda,Leandra (Machona),6,1.0
+inicio,Florinda,Leocadia,6,1.0
+inicio,Florinda,Leonor,3,0.4286
+inicio,Florinda,Libório,3,0.5
+inicio,Florinda,Manoel,3,0.5
+inicio,Florinda,Marciana,6,1.0
+inicio,Florinda,Miranda,4,0.5
+inicio,Florinda,Nênêm,5,0.8333
+inicio,Florinda,Paula (Bruxa),6,1.0
+inicio,Florinda,Piedade de Jesus,4,0.6667
+inicio,Florinda,Pombinha,4,0.6667
+inicio,Florinda,Rita Bahiana,4,0.6667
+inicio,Florinda,Zulmira,2,0.25
+inicio,Henrique,Izaura,3,0.6
+inicio,Henrique,Jeronymo,2,0.2857
+inicio,Henrique,João Romão,4,0.5
+inicio,Henrique,João da Costa,1,0.2
+inicio,Henrique,Leandra (Machona),3,0.4286
+inicio,Henrique,Leocadia,3,0.4286
+inicio,Henrique,Leonor,3,0.6
+inicio,Henrique,Libório,2,0.4
+inicio,Henrique,Manoel,1,0.1667
+inicio,Henrique,Marciana,3,0.4286
+inicio,Henrique,Miranda,4,0.6667
+inicio,Henrique,Nênêm,3,0.5
+inicio,Henrique,Paula (Bruxa),3,0.4286
+inicio,Henrique,Piedade de Jesus,2,0.3333
+inicio,Henrique,Pombinha,3,0.6
+inicio,Henrique,Rita Bahiana,3,0.6
+inicio,Henrique,Valentim,1,0.25
+inicio,Henrique,Zulmira,3,0.6
+inicio,Izaura,Jeronymo,2,0.2857
+inicio,Izaura,João Romão,4,0.5
+inicio,Izaura,João da Costa,2,0.5
+inicio,Izaura,Leandra (Machona),3,0.4286
+inicio,Izaura,Leocadia,3,0.4286
+inicio,Izaura,Leonor,4,1.0
+inicio,Izaura,Libório,2,0.4
+inicio,Izaura,Manoel,2,0.4
+inicio,Izaura,Marciana,3,0.4286
+inicio,Izaura,Miranda,4,0.6667
+inicio,Izaura,Nênêm,3,0.5
+inicio,Izaura,Paula (Bruxa),3,0.4286
+inicio,Izaura,Piedade de Jesus,2,0.3333
+inicio,Izaura,Pombinha,3,0.6
+inicio,Izaura,Rita Bahiana,3,0.6
+inicio,Izaura,Valentim,1,0.25
+inicio,Izaura,Zulmira,3,0.6
+inicio,Jeronymo,João Romão,5,0.625
+inicio,Jeronymo,João da Costa,1,0.1667
+inicio,Jeronymo,Leandra (Machona),5,0.8333
+inicio,Jeronymo,Leocadia,5,0.8333
+inicio,Jeronymo,Leonor,2,0.2857
+inicio,Jeronymo,Libório,3,0.6
+inicio,Jeronymo,Manoel,2,0.3333
+inicio,Jeronymo,Marciana,5,0.8333
+inicio,Jeronymo,Miranda,3,0.375
+inicio,Jeronymo,Nênêm,4,0.6667
+inicio,Jeronymo,Paula (Bruxa),5,0.8333
+inicio,Jeronymo,Piedade de Jesus,4,0.8
+inicio,Jeronymo,Pombinha,3,0.5
+inicio,Jeronymo,Rita Bahiana,3,0.5
+inicio,Jeronymo,Zulmira,1,0.125
+inicio,João Romão,João da Costa,2,0.25
+inicio,João Romão,Leandra (Machona),6,0.75
+inicio,João Romão,Leocadia,6,0.75
+inicio,João Romão,Leonor,4,0.5
+inicio,João Romão,Libório,3,0.375
+inicio,João Romão,Manoel,3,0.375
+inicio,João Romão,Marciana,6,0.75
+inicio,João Romão,Miranda,6,0.75
+inicio,João Romão,Nênêm,5,0.625
+inicio,João Romão,Paula (Bruxa),6,0.75
+inicio,João Romão,Piedade de Jesus,4,0.5
+inicio,João Romão,Pombinha,4,0.5
+inicio,João Romão,Rita Bahiana,4,0.5
+inicio,João Romão,Valentim,1,0.125
+inicio,João Romão,Zulmira,4,0.5
+inicio,João da Costa,Leandra (Machona),2,0.3333
+inicio,João da Costa,Leocadia,2,0.3333
+inicio,João da Costa,Leonor,2,0.5
+inicio,João da Costa,Libório,1,0.25
+inicio,João da Costa,Manoel,2,0.6667
+inicio,João da Costa,Marciana,2,0.3333
+inicio,João da Costa,Miranda,2,0.3333
+inicio,João da Costa,Nênêm,2,0.4
+inicio,João da Costa,Paula (Bruxa),2,0.3333
+inicio,João da Costa,Piedade de Jesus,1,0.2
+inicio,João da Costa,Pombinha,2,0.5
+inicio,João da Costa,Rita Bahiana,2,0.5
+inicio,João da Costa,Zulmira,1,0.2
+inicio,Leandra (Machona),Leocadia,6,1.0
+inicio,Leandra (Machona),Leonor,3,0.4286
+inicio,Leandra (Machona),Libório,3,0.5
+inicio,Leandra (Machona),Manoel,3,0.5
+inicio,Leandra (Machona),Marciana,6,1.0
+inicio,Leandra (Machona),Miranda,4,0.5
+inicio,Leandra (Machona),Nênêm,5,0.8333
+inicio,Leandra (Machona),Paula (Bruxa),6,1.0
+inicio,Leandra (Machona),Piedade de Jesus,4,0.6667
+inicio,Leandra (Machona),Pombinha,4,0.6667
+inicio,Leandra (Machona),Rita Bahiana,4,0.6667
+inicio,Leandra (Machona),Zulmira,2,0.25
+inicio,Leocadia,Leonor,3,0.4286
+inicio,Leocadia,Libório,3,0.5
+inicio,Leocadia,Manoel,3,0.5
+inicio,Leocadia,Marciana,6,1.0
+inicio,Leocadia,Miranda,4,0.5
+inicio,Leocadia,Nênêm,5,0.8333
+inicio,Leocadia,Paula (Bruxa),6,1.0
+inicio,Leocadia,Piedade de Jesus,4,0.6667
+inicio,Leocadia,Pombinha,4,0.6667
+inicio,Leocadia,Rita Bahiana,4,0.6667
+inicio,Leocadia,Zulmira,2,0.25
+inicio,Leonor,Libório,2,0.4
+inicio,Leonor,Manoel,2,0.4
+inicio,Leonor,Marciana,3,0.4286
+inicio,Leonor,Miranda,4,0.6667
+inicio,Leonor,Nênêm,3,0.5
+inicio,Leonor,Paula (Bruxa),3,0.4286
+inicio,Leonor,Piedade de Jesus,2,0.3333
+inicio,Leonor,Pombinha,3,0.6
+inicio,Leonor,Rita Bahiana,3,0.6
+inicio,Leonor,Valentim,1,0.25
+inicio,Leonor,Zulmira,3,0.6
+inicio,Libório,Manoel,1,0.2
+inicio,Libório,Marciana,3,0.5
+inicio,Libório,Miranda,3,0.5
+inicio,Libório,Nênêm,3,0.6
+inicio,Libório,Paula (Bruxa),3,0.5
+inicio,Libório,Piedade de Jesus,3,0.75
+inicio,Libório,Pombinha,3,0.75
+inicio,Libório,Rita Bahiana,3,0.75
+inicio,Libório,Zulmira,1,0.1667
+inicio,Manoel,Marciana,3,0.5
+inicio,Manoel,Miranda,2,0.2857
+inicio,Manoel,Nênêm,2,0.3333
+inicio,Manoel,Paula (Bruxa),3,0.5
+inicio,Manoel,Piedade de Jesus,2,0.4
+inicio,Manoel,Pombinha,2,0.4
+inicio,Manoel,Rita Bahiana,2,0.4
+inicio,Manoel,Zulmira,1,0.1667
+inicio,Marciana,Miranda,4,0.5
+inicio,Marciana,Nênêm,5,0.8333
+inicio,Marciana,Paula (Bruxa),6,1.0
+inicio,Marciana,Piedade de Jesus,4,0.6667
+inicio,Marciana,Pombinha,4,0.6667
+inicio,Marciana,Rita Bahiana,4,0.6667
+inicio,Marciana,Zulmira,2,0.25
+inicio,Miranda,Nênêm,4,0.5714
+inicio,Miranda,Paula (Bruxa),4,0.5
+inicio,Miranda,Piedade de Jesus,3,0.4286
+inicio,Miranda,Pombinha,4,0.6667
+inicio,Miranda,Rita Bahiana,4,0.6667
+inicio,Miranda,Valentim,1,0.1667
+inicio,Miranda,Zulmira,4,0.6667
+inicio,Nênêm,Paula (Bruxa),5,0.8333
+inicio,Nênêm,Piedade de Jesus,3,0.5
+inicio,Nênêm,Pombinha,4,0.8
+inicio,Nênêm,Rita Bahiana,4,0.8
+inicio,Nênêm,Zulmira,2,0.2857
+inicio,Paula (Bruxa),Piedade de Jesus,4,0.6667
+inicio,Paula (Bruxa),Pombinha,4,0.6667
+inicio,Paula (Bruxa),Rita Bahiana,4,0.6667
+inicio,Paula (Bruxa),Zulmira,2,0.25
+inicio,Piedade de Jesus,Pombinha,3,0.6
+inicio,Piedade de Jesus,Rita Bahiana,3,0.6
+inicio,Piedade de Jesus,Zulmira,1,0.1429
+inicio,Pombinha,Rita Bahiana,4,1.0
+inicio,Pombinha,Zulmira,2,0.3333
+inicio,Rita Bahiana,Zulmira,2,0.3333
+inicio,Valentim,Zulmira,1,0.25
+meio,Agostinho,Albino,1,0.3333
+meio,Agostinho,Alexandre,1,0.25
+meio,Agostinho,Anna das Dores,1,0.2
+meio,Agostinho,Augusta Carne-Molle,1,0.25
+meio,Agostinho,Bertoleza,1,0.2
+meio,Agostinho,Domingos,1,0.3333
+meio,Agostinho,Dona Isabel,1,0.2
+meio,Agostinho,Firmo,1,0.125
+meio,Agostinho,Florinda,1,0.25
+meio,Agostinho,Jeronymo,1,0.125
+meio,Agostinho,João Romão,1,0.1667
+meio,Agostinho,João da Costa,1,0.5
+meio,Agostinho,Leandra (Machona),1,0.1667
+meio,Agostinho,Leocadia,1,0.5
+meio,Agostinho,Leonor,1,0.3333
+meio,Agostinho,Manoel,1,0.3333
+meio,Agostinho,Marciana,1,0.25
+meio,Agostinho,Nênêm,1,0.3333
+meio,Agostinho,Paula (Bruxa),1,0.2
+meio,Agostinho,Piedade de Jesus,1,0.1429
+meio,Agostinho,Pombinha,1,0.2
+meio,Agostinho,Rita Bahiana,1,0.125
+meio,Albino,Alexandre,1,0.1667
+meio,Albino,Anna das Dores,2,0.3333
+meio,Albino,Augusta Carne-Molle,3,0.75
+meio,Albino,Bertoleza,2,0.3333
+meio,Albino,Botelho,1,0.25
+meio,Albino,Bruno,1,0.25
+meio,Albino,Domingos,2,0.5
+meio,Albino,Dona Isabel,2,0.3333
+meio,Albino,Estella,1,0.25
+meio,Albino,Firmo,3,0.375
+meio,Albino,Florinda,2,0.4
+meio,Albino,Henrique,1,0.25
+meio,Albino,Izaura,1,0.3333
+meio,Albino,Jeronymo,3,0.375
+meio,Albino,João Romão,3,0.5
+meio,Albino,João da Costa,1,0.25
+meio,Albino,Leandra (Machona),3,0.5
+meio,Albino,Leocadia,1,0.25
+meio,Albino,Leonor,2,0.5
+meio,Albino,Libório,1,0.25
+meio,Albino,Manoel,3,1.0
+meio,Albino,Marciana,2,0.4
+meio,Albino,Miranda,2,0.2857
+meio,Albino,Nênêm,2,0.5
+meio,Albino,Paula (Bruxa),2,0.3333
+meio,Albino,Piedade de Jesus,3,0.4286
+meio,Albino,Pombinha,2,0.3333
+meio,Albino,Rita Bahiana,3,0.375
+meio,Albino,Zulmira,2,0.5
+meio,Alexandre,Anna das Dores,4,0.8
+meio,Alexandre,Augusta Carne-Molle,2,0.3333
+meio,Alexandre,Bertoleza,3,0.5
+meio,Alexandre,Botelho,1,0.2
+meio,Alexandre,Bruno,1,0.2
+meio,Alexandre,Domingos,2,0.4
+meio,Alexandre,Dona Isabel,3,0.5
+meio,Alexandre,Estella,1,0.2
+meio,Alexandre,Firmo,4,0.5
+meio,Alexandre,Florinda,1,0.1429
+meio,Alexandre,Henrique,1,0.2
+meio,Alexandre,Jeronymo,4,0.5
+meio,Alexandre,João Romão,3,0.4286
+meio,Alexandre,João da Costa,2,0.5
+meio,Alexandre,Leandra (Machona),4,0.6667
+meio,Alexandre,Leocadia,2,0.5
+meio,Alexandre,Leonor,2,0.4
+meio,Alexandre,Libório,1,0.2
+meio,Alexandre,Manoel,1,0.1667
+meio,Alexandre,Marciana,1,0.1429
+meio,Alexandre,Miranda,3,0.4286
+meio,Alexandre,Nênêm,2,0.4
+meio,Alexandre,Paula (Bruxa),3,0.5
+meio,Alexandre,Piedade de Jesus,3,0.375
+meio,Alexandre,Pombinha,3,0.5
+meio,Alexandre,Rita Bahiana,4,0.5
+meio,Alexandre,Zulmira,1,0.1667
+meio,Anna das Dores,Augusta Carne-Molle,3,0.5
+meio,Anna das Dores,Bertoleza,4,0.6667
+meio,Anna das Dores,Botelho,2,0.4
+meio,Anna das Dores,Bruno,2,0.4
+meio,Anna das Dores,Domingos,3,0.6
+meio,Anna das Dores,Dona Isabel,4,0.6667
+meio,Anna das Dores,Estella,2,0.4
+meio,Anna das Dores,Firmo,5,0.625
+meio,Anna das Dores,Florinda,2,0.2857
+meio,Anna das Dores,Henrique,2,0.4
+meio,Anna das Dores,Izaura,1,0.2
+meio,Anna das Dores,Jeronymo,5,0.625
+meio,Anna das Dores,João Romão,4,0.5714
+meio,Anna das Dores,João da Costa,2,0.4
+meio,Anna das Dores,Leandra (Machona),5,0.8333
+meio,Anna das Dores,Leocadia,2,0.4
+meio,Anna das Dores,Leonor,3,0.6
+meio,Anna das Dores,Libório,2,0.4
+meio,Anna das Dores,Manoel,2,0.3333
+meio,Anna das Dores,Marciana,2,0.2857
+meio,Anna das Dores,Miranda,4,0.5714
+meio,Anna das Dores,Nênêm,3,0.6
+meio,Anna das Dores,Paula (Bruxa),4,0.6667
+meio,Anna das Dores,Piedade de Jesus,4,0.5
+meio,Anna das Dores,Pombinha,4,0.6667
+meio,Anna das Dores,Rita Bahiana,5,0.625
+meio,Anna das Dores,Zulmira,2,0.3333
+meio,Augusta Carne-Molle,Bertoleza,3,0.5
+meio,Augusta Carne-Molle,Botelho,1,0.2
+meio,Augusta Carne-Molle,Bruno,1,0.2
+meio,Augusta Carne-Molle,Domingos,2,0.4
+meio,Augusta Carne-Molle,Dona Isabel,2,0.2857
+meio,Augusta Carne-Molle,Estella,1,0.2
+meio,Augusta Carne-Molle,Firmo,4,0.5
+meio,Augusta Carne-Molle,Florinda,2,0.3333
+meio,Augusta Carne-Molle,Henrique,1,0.2
+meio,Augusta Carne-Molle,Izaura,1,0.25
+meio,Augusta Carne-Molle,Jeronymo,4,0.5
+meio,Augusta Carne-Molle,João Romão,4,0.6667
+meio,Augusta Carne-Molle,João da Costa,1,0.2
+meio,Augusta Carne-Molle,Leandra (Machona),4,0.6667
+meio,Augusta Carne-Molle,Leocadia,1,0.2
+meio,Augusta Carne-Molle,Leonor,2,0.4
+meio,Augusta Carne-Molle,Libório,1,0.2
+meio,Augusta Carne-Molle,Manoel,3,0.75
+meio,Augusta Carne-Molle,Marciana,2,0.3333
+meio,Augusta Carne-Molle,Miranda,3,0.4286
+meio,Augusta Carne-Molle,Nênêm,2,0.4
+meio,Augusta Carne-Molle,Paula (Bruxa),2,0.2857
+meio,Augusta Carne-Molle,Piedade de Jesus,4,0.5714
+meio,Augusta Carne-Molle,Pombinha,2,0.2857
+meio,Augusta Carne-Molle,Rita Bahiana,4,0.5
+meio,Augusta Carne-Molle,Zulmira,2,0.4
+meio,Bertoleza,Botelho,2,0.4
+meio,Bertoleza,Bruno,1,0.1667
+meio,Bertoleza,Domingos,2,0.3333
+meio,Bertoleza,Dona Isabel,4,0.6667
+meio,Bertoleza,Estella,2,0.4
+meio,Bertoleza,Firmo,5,0.625
+meio,Bertoleza,Florinda,3,0.5
+meio,Bertoleza,Henrique,2,0.4
+meio,Bertoleza,Izaura,1,0.2
+meio,Bertoleza,Jeronymo,5,0.625
+meio,Bertoleza,João Romão,5,0.8333
+meio,Bertoleza,João da Costa,1,0.1667
+meio,Bertoleza,Leandra (Machona),4,0.5714
+meio,Bertoleza,Leocadia,1,0.1667
+meio,Bertoleza,Leonor,3,0.6
+meio,Bertoleza,Libório,1,0.1667
+meio,Bertoleza,Manoel,2,0.3333
+meio,Bertoleza,Marciana,3,0.5
+meio,Bertoleza,Miranda,4,0.5714
+meio,Bertoleza,Nênêm,2,0.3333
+meio,Bertoleza,Paula (Bruxa),4,0.6667
+meio,Bertoleza,Piedade de Jesus,4,0.5
+meio,Bertoleza,Pombinha,4,0.6667
+meio,Bertoleza,Rita Bahiana,5,0.625
+meio,Bertoleza,Zulmira,2,0.3333
+meio,Botelho,Bruno,1,0.3333
+meio,Botelho,Domingos,1,0.25
+meio,Botelho,Dona Isabel,2,0.4
+meio,Botelho,Estella,2,1.0
+meio,Botelho,Firmo,2,0.25
+meio,Botelho,Florinda,1,0.2
+meio,Botelho,Henrique,2,1.0
+meio,Botelho,Izaura,1,0.5
+meio,Botelho,Jeronymo,2,0.25
+meio,Botelho,João Romão,2,0.3333
+meio,Botelho,Leandra (Machona),2,0.3333
+meio,Botelho,Leonor,2,0.6667
+meio,Botelho,Libório,1,0.3333
+meio,Botelho,Manoel,1,0.25
+meio,Botelho,Marciana,1,0.2
+meio,Botelho,Miranda,2,0.3333
+meio,Botelho,Nênêm,1,0.25
+meio,Botelho,Paula (Bruxa),2,0.4
+meio,Botelho,Piedade de Jesus,1,0.125
+meio,Botelho,Pombinha,2,0.4
+meio,Botelho,Rita Bahiana,2,0.25
+meio,Botelho,Zulmira,2,0.6667
+meio,Bruno,Domingos,2,0.6667
+meio,Bruno,Dona Isabel,2,0.4
+meio,Bruno,Estella,1,0.3333
+meio,Bruno,Firmo,2,0.25
+meio,Bruno,Florinda,1,0.2
+meio,Bruno,Henrique,1,0.3333
+meio,Bruno,Izaura,1,0.5
+meio,Bruno,Jeronymo,2,0.25
+meio,Bruno,João Romão,1,0.1429
+meio,Bruno,João da Costa,1,0.3333
+meio,Bruno,Leandra (Machona),2,0.3333
+meio,Bruno,Leocadia,1,0.3333
+meio,Bruno,Leonor,1,0.25
+meio,Bruno,Libório,2,1.0
+meio,Bruno,Manoel,1,0.25
+meio,Bruno,Marciana,1,0.2
+meio,Bruno,Miranda,2,0.3333
+meio,Bruno,Nênêm,2,0.6667
+meio,Bruno,Paula (Bruxa),2,0.4
+meio,Bruno,Piedade de Jesus,2,0.2857
+meio,Bruno,Pombinha,2,0.4
+meio,Bruno,Rita Bahiana,2,0.25
+meio,Bruno,Zulmira,1,0.25
+meio,Domingos,Dona Isabel,3,0.6
+meio,Domingos,Estella,1,0.25
+meio,Domingos,Firmo,3,0.375
+meio,Domingos,Florinda,2,0.4
+meio,Domingos,Henrique,1,0.25
+meio,Domingos,Izaura,1,0.3333
+meio,Domingos,Jeronymo,3,0.375
+meio,Domingos,João Romão,2,0.2857
+meio,Domingos,João da Costa,2,0.6667
+meio,Domingos,Leandra (Machona),3,0.5
+meio,Domingos,Leocadia,2,0.6667
+meio,Domingos,Leonor,2,0.5
+meio,Domingos,Libório,2,0.6667
+meio,Domingos,Manoel,2,0.5
+meio,Domingos,Marciana,2,0.4
+meio,Domingos,Miranda,2,0.2857
+meio,Domingos,Nênêm,3,1.0
+meio,Domingos,Paula (Bruxa),3,0.6
+meio,Domingos,Piedade de Jesus,3,0.4286
+meio,Domingos,Pombinha,3,0.6
+meio,Domingos,Rita Bahiana,3,0.375
+meio,Domingos,Zulmira,1,0.2
+meio,Dona Isabel,Estella,2,0.4
+meio,Dona Isabel,Firmo,5,0.625
+meio,Dona Isabel,Florinda,3,0.5
+meio,Dona Isabel,Henrique,2,0.4
+meio,Dona Isabel,Izaura,1,0.2
+meio,Dona Isabel,Jeronymo,5,0.625
+meio,Dona Isabel,João Romão,4,0.5714
+meio,Dona Isabel,João da Costa,2,0.4
+meio,Dona Isabel,Leandra (Machona),4,0.5714
+meio,Dona Isabel,Leocadia,2,0.4
+meio,Dona Isabel,Leonor,3,0.6
+meio,Dona Isabel,Libório,2,0.4
+meio,Dona Isabel,Manoel,2,0.3333
+meio,Dona Isabel,Marciana,3,0.5
+meio,Dona Isabel,Miranda,4,0.5714
+meio,Dona Isabel,Nênêm,3,0.6
+meio,Dona Isabel,Paula (Bruxa),5,1.0
+meio,Dona Isabel,Piedade de Jesus,4,0.5
+meio,Dona Isabel,Pombinha,5,1.0
+meio,Dona Isabel,Rita Bahiana,5,0.625
+meio,Dona Isabel,Zulmira,2,0.3333
+meio,Estella,Firmo,2,0.25
+meio,Estella,Florinda,1,0.2
+meio,Estella,Henrique,2,1.0
+meio,Estella,Izaura,1,0.5
+meio,Estella,Jeronymo,2,0.25
+meio,Estella,João Romão,2,0.3333
+meio,Estella,Leandra (Machona),2,0.3333
+meio,Estella,Leonor,2,0.6667
+meio,Estella,Libório,1,0.3333
+meio,Estella,Manoel,1,0.25
+meio,Estella,Marciana,1,0.2
+meio,Estella,Miranda,2,0.3333
+meio,Estella,Nênêm,1,0.25
+meio,Estella,Paula (Bruxa),2,0.4
+meio,Estella,Piedade de Jesus,1,0.125
+meio,Estella,Pombinha,2,0.4
+meio,Estella,Rita Bahiana,2,0.25
+meio,Estella,Zulmira,2,0.6667
+meio,Firmo,Florinda,4,0.5
+meio,Firmo,Henrique,2,0.25
+meio,Firmo,Izaura,1,0.125
+meio,Firmo,Jeronymo,8,1.0
+meio,Firmo,João Romão,6,0.75
+meio,Firmo,João da Costa,2,0.25
+meio,Firmo,Leandra (Machona),6,0.75
+meio,Firmo,Leocadia,2,0.25
+meio,Firmo,Leonor,3,0.375
+meio,Firmo,Libório,2,0.25
+meio,Firmo,Manoel,3,0.375
+meio,Firmo,Marciana,4,0.5
+meio,Firmo,Miranda,6,0.75
+meio,Firmo,Nênêm,3,0.375
+meio,Firmo,Paula (Bruxa),5,0.625
+meio,Firmo,Piedade de Jesus,7,0.875
+meio,Firmo,Pombinha,5,0.625
+meio,Firmo,Rita Bahiana,8,1.0
+meio,Firmo,Zulmira,3,0.375
+meio,Florinda,Henrique,1,0.2
+meio,Florinda,Izaura,1,0.25
+meio,Florinda,Jeronymo,4,0.5
+meio,Florinda,João Romão,3,0.4286
+meio,Florinda,João da Costa,1,0.2
+meio,Florinda,Leandra (Machona),2,0.25
+meio,Florinda,Leocadia,1,0.2
+meio,Florinda,Leonor,2,0.4
+meio,Florinda,Libório,1,0.2
+meio,Florinda,Manoel,2,0.4
+meio,Florinda,Marciana,4,1.0
+meio,Florinda,Miranda,2,0.25
+meio,Florinda,Nênêm,2,0.4
+meio,Florinda,Paula (Bruxa),3,0.5
+meio,Florinda,Piedade de Jesus,4,0.5714
+meio,Florinda,Pombinha,3,0.5
+meio,Florinda,Rita Bahiana,4,0.5
+meio,Florinda,Zulmira,1,0.1667
+meio,Henrique,Izaura,1,0.5
+meio,Henrique,Jeronymo,2,0.25
+meio,Henrique,João Romão,2,0.3333
+meio,Henrique,Leandra (Machona),2,0.3333
+meio,Henrique,Leonor,2,0.6667
+meio,Henrique,Libório,1,0.3333
+meio,Henrique,Manoel,1,0.25
+meio,Henrique,Marciana,1,0.2
+meio,Henrique,Miranda,2,0.3333
+meio,Henrique,Nênêm,1,0.25
+meio,Henrique,Paula (Bruxa),2,0.4
+meio,Henrique,Piedade de Jesus,1,0.125
+meio,Henrique,Pombinha,2,0.4
+meio,Henrique,Rita Bahiana,2,0.25
+meio,Henrique,Zulmira,2,0.6667
+meio,Izaura,Jeronymo,1,0.125
+meio,Izaura,João Romão,1,0.1667
+meio,Izaura,Leandra (Machona),1,0.1667
+meio,Izaura,Leonor,1,0.3333
+meio,Izaura,Libório,1,0.5
+meio,Izaura,Manoel,1,0.3333
+meio,Izaura,Marciana,1,0.25
+meio,Izaura,Miranda,1,0.1667
+meio,Izaura,Nênêm,1,0.3333
+meio,Izaura,Paula (Bruxa),1,0.2
+meio,Izaura,Piedade de Jesus,1,0.1429
+meio,Izaura,Pombinha,1,0.2
+meio,Izaura,Rita Bahiana,1,0.125
+meio,Izaura,Zulmira,1,0.3333
+meio,Jeronymo,João Romão,6,0.75
+meio,Jeronymo,João da Costa,2,0.25
+meio,Jeronymo,Leandra (Machona),6,0.75
+meio,Jeronymo,Leocadia,2,0.25
+meio,Jeronymo,Leonor,3,0.375
+meio,Jeronymo,Libório,2,0.25
+meio,Jeronymo,Manoel,3,0.375
+meio,Jeronymo,Marciana,4,0.5
+meio,Jeronymo,Miranda,6,0.75
+meio,Jeronymo,Nênêm,3,0.375
+meio,Jeronymo,Paula (Bruxa),5,0.625
+meio,Jeronymo,Piedade de Jesus,7,0.875
+meio,Jeronymo,Pombinha,5,0.625
+meio,Jeronymo,Rita Bahiana,8,1.0
+meio,Jeronymo,Zulmira,3,0.375
+meio,João Romão,João da Costa,1,0.1429
+meio,João Romão,Leandra (Machona),5,0.7143
+meio,João Romão,Leocadia,1,0.1429
+meio,João Romão,Leonor,3,0.5
+meio,João Romão,Libório,1,0.1429
+meio,João Romão,Manoel,3,0.5
+meio,João Romão,Marciana,3,0.4286
+meio,João Romão,Miranda,5,0.7143
+meio,João Romão,Nênêm,2,0.2857
+meio,João Romão,Paula (Bruxa),4,0.5714
+meio,João Romão,Piedade de Jesus,5,0.625
+meio,João Romão,Pombinha,4,0.5714
+meio,João Romão,Rita Bahiana,6,0.75
+meio,João Romão,Zulmira,3,0.5
+meio,João da Costa,Leandra (Machona),2,0.3333
+meio,João da Costa,Leocadia,2,1.0
+meio,João da Costa,Leonor,1,0.25
+meio,João da Costa,Libório,1,0.3333
+meio,João da Costa,Manoel,1,0.25
+meio,João da Costa,Marciana,1,0.2
+meio,João da Costa,Miranda,1,0.1429
+meio,João da Costa,Nênêm,2,0.6667
+meio,João da Costa,Paula (Bruxa),2,0.4
+meio,João da Costa,Piedade de Jesus,2,0.2857
+meio,João da Costa,Pombinha,2,0.4
+meio,João da Costa,Rita Bahiana,2,0.25
+meio,Leandra (Machona),Leocadia,2,0.3333
+meio,Leandra (Machona),Leonor,3,0.5
+meio,Leandra (Machona),Libório,2,0.3333
+meio,Leandra (Machona),Manoel,3,0.5
+meio,Leandra (Machona),Marciana,2,0.25
+meio,Leandra (Machona),Miranda,5,0.7143
+meio,Leandra (Machona),Nênêm,3,0.5
+meio,Leandra (Machona),Paula (Bruxa),4,0.5714
+meio,Leandra (Machona),Piedade de Jesus,5,0.625
+meio,Leandra (Machona),Pombinha,4,0.5714
+meio,Leandra (Machona),Rita Bahiana,6,0.75
+meio,Leandra (Machona),Zulmira,3,0.5
+meio,Leocadia,Leonor,1,0.25
+meio,Leocadia,Libório,1,0.3333
+meio,Leocadia,Manoel,1,0.25
+meio,Leocadia,Marciana,1,0.2
+meio,Leocadia,Miranda,1,0.1429
+meio,Leocadia,Nênêm,2,0.6667
+meio,Leocadia,Paula (Bruxa),2,0.4
+meio,Leocadia,Piedade de Jesus,2,0.2857
+meio,Leocadia,Pombinha,2,0.4
+meio,Leocadia,Rita Bahiana,2,0.25
+meio,Leonor,Libório,1,0.25
+meio,Leonor,Manoel,2,0.5
+meio,Leonor,Marciana,2,0.4
+meio,Leonor,Miranda,2,0.2857
+meio,Leonor,Nênêm,2,0.5
+meio,Leonor,Paula (Bruxa),3,0.6
+meio,Leonor,Piedade de Jesus,2,0.25
+meio,Leonor,Pombinha,3,0.6
+meio,Leonor,Rita Bahiana,3,0.375
+meio,Leonor,Zulmira,2,0.5
+meio,Libório,Manoel,1,0.25
+meio,Libório,Marciana,1,0.2
+meio,Libório,Miranda,2,0.3333
+meio,Libório,Nênêm,2,0.6667
+meio,Libório,Paula (Bruxa),2,0.4
+meio,Libório,Piedade de Jesus,2,0.2857
+meio,Libório,Pombinha,2,0.4
+meio,Libório,Rita Bahiana,2,0.25
+meio,Libório,Zulmira,1,0.25
+meio,Manoel,Marciana,2,0.4
+meio,Manoel,Miranda,2,0.2857
+meio,Manoel,Nênêm,2,0.5
+meio,Manoel,Paula (Bruxa),2,0.3333
+meio,Manoel,Piedade de Jesus,3,0.4286
+meio,Manoel,Pombinha,2,0.3333
+meio,Manoel,Rita Bahiana,3,0.375
+meio,Manoel,Zulmira,2,0.5
+meio,Marciana,Miranda,2,0.25
+meio,Marciana,Nênêm,2,0.4
+meio,Marciana,Paula (Bruxa),3,0.5
+meio,Marciana,Piedade de Jesus,4,0.5714
+meio,Marciana,Pombinha,3,0.5
+meio,Marciana,Rita Bahiana,4,0.5
+meio,Marciana,Zulmira,1,0.1667
+meio,Miranda,Nênêm,2,0.2857
+meio,Miranda,Paula (Bruxa),4,0.5714
+meio,Miranda,Piedade de Jesus,5,0.625
+meio,Miranda,Pombinha,4,0.5714
+meio,Miranda,Rita Bahiana,6,0.75
+meio,Miranda,Zulmira,3,0.5
+meio,Nênêm,Paula (Bruxa),3,0.6
+meio,Nênêm,Piedade de Jesus,3,0.4286
+meio,Nênêm,Pombinha,3,0.6
+meio,Nênêm,Rita Bahiana,3,0.375
+meio,Nênêm,Zulmira,1,0.2
+meio,Paula (Bruxa),Piedade de Jesus,4,0.5
+meio,Paula (Bruxa),Pombinha,5,1.0
+meio,Paula (Bruxa),Rita Bahiana,5,0.625
+meio,Paula (Bruxa),Zulmira,2,0.3333
+meio,Piedade de Jesus,Pombinha,4,0.5
+meio,Piedade de Jesus,Rita Bahiana,7,0.875
+meio,Piedade de Jesus,Zulmira,2,0.25
+meio,Pombinha,Rita Bahiana,5,0.625
+meio,Pombinha,Zulmira,2,0.3333
+meio,Rita Bahiana,Zulmira,3,0.375
+fim,Agostinho,Albino,2,0.5
+fim,Agostinho,Alexandre,2,0.4
+fim,Agostinho,Anna das Dores,2,0.4
+fim,Agostinho,Augusta Carne-Molle,2,0.4
+fim,Agostinho,Bertoleza,2,0.2857
+fim,Agostinho,Botelho,2,0.3333
+fim,Agostinho,Bruno,1,0.1667
+fim,Agostinho,Dona Isabel,1,0.25
+fim,Agostinho,Estella,1,0.2
+fim,Agostinho,Florinda,1,0.25
+fim,Agostinho,Jeronymo,2,0.4
+fim,Agostinho,João Romão,4,0.5714
+fim,Agostinho,Leandra (Machona),3,0.6
+fim,Agostinho,Leocadia,1,0.2
+fim,Agostinho,Marciana,1,0.25
+fim,Agostinho,Miranda,2,0.2857
+fim,Agostinho,Nênêm,4,1.0
+fim,Agostinho,Paula (Bruxa),1,0.2
+fim,Agostinho,Piedade de Jesus,2,0.3333
+fim,Agostinho,Pombinha,1,0.1667
+fim,Agostinho,Rita Bahiana,2,0.3333
+fim,Agostinho,Zulmira,2,0.3333
+fim,Albino,Alexandre,1,0.25
+fim,Albino,Anna das Dores,2,0.6667
+fim,Albino,Augusta Carne-Molle,1,0.25
+fim,Albino,Bertoleza,1,0.1667
+fim,Albino,Botelho,1,0.2
+fim,Albino,Bruno,1,0.25
+fim,Albino,Estella,1,0.3333
+fim,Albino,Jeronymo,1,0.25
+fim,Albino,João Romão,2,0.2857
+fim,Albino,Leandra (Machona),2,0.5
+fim,Albino,Leocadia,1,0.3333
+fim,Albino,Miranda,2,0.4
+fim,Albino,Nênêm,2,0.5
+fim,Albino,Piedade de Jesus,1,0.2
+fim,Albino,Rita Bahiana,1,0.2
+fim,Albino,Zulmira,1,0.2
+fim,Alexandre,Anna das Dores,2,0.5
+fim,Alexandre,Augusta Carne-Molle,3,1.0
+fim,Alexandre,Bertoleza,2,0.3333
+fim,Alexandre,Bruno,2,0.5
+fim,Alexandre,Dona Isabel,1,0.3333
+fim,Alexandre,Florinda,1,0.3333
+fim,Alexandre,Jeronymo,2,0.5
+fim,Alexandre,João Romão,3,0.4286
+fim,Alexandre,Leandra (Machona),3,0.75
+fim,Alexandre,Leocadia,1,0.25
+fim,Alexandre,Libório,1,0.3333
+fim,Alexandre,Marciana,1,0.3333
+fim,Alexandre,Miranda,2,0.3333
+fim,Alexandre,Nênêm,2,0.4
+fim,Alexandre,Paula (Bruxa),1,0.25
+fim,Alexandre,Piedade de Jesus,3,0.75
+fim,Alexandre,Pombinha,1,0.2
+fim,Alexandre,Rita Bahiana,3,0.75
+fim,Anna das Dores,Augusta Carne-Molle,2,0.5
+fim,Anna das Dores,Bertoleza,2,0.3333
+fim,Anna das Dores,Botelho,1,0.1667
+fim,Anna das Dores,Bruno,2,0.5
+fim,Anna das Dores,Estella,1,0.25
+fim,Anna das Dores,Jeronymo,1,0.2
+fim,Anna das Dores,João Romão,3,0.4286
+fim,Anna das Dores,Leandra (Machona),3,0.75
+fim,Anna das Dores,Leocadia,1,0.25
+fim,Anna das Dores,Libório,1,0.3333
+fim,Anna das Dores,Miranda,3,0.6
+fim,Anna das Dores,Nênêm,2,0.4
+fim,Anna das Dores,Paula (Bruxa),1,0.25
+fim,Anna das Dores,Piedade de Jesus,2,0.4
+fim,Anna das Dores,Rita Bahiana,2,0.4
+fim,Anna das Dores,Zulmira,1,0.1667
+fim,Augusta Carne-Molle,Bertoleza,2,0.3333
+fim,Augusta Carne-Molle,Bruno,2,0.5
+fim,Augusta Carne-Molle,Dona Isabel,1,0.3333
+fim,Augusta Carne-Molle,Florinda,1,0.3333
+fim,Augusta Carne-Molle,Jeronymo,2,0.5
+fim,Augusta Carne-Molle,João Romão,3,0.4286
+fim,Augusta Carne-Molle,Leandra (Machona),3,0.75
+fim,Augusta Carne-Molle,Leocadia,1,0.25
+fim,Augusta Carne-Molle,Libório,1,0.3333
+fim,Augusta Carne-Molle,Marciana,1,0.3333
+fim,Augusta Carne-Molle,Miranda,2,0.3333
+fim,Augusta Carne-Molle,Nênêm,2,0.4
+fim,Augusta Carne-Molle,Paula (Bruxa),1,0.25
+fim,Augusta Carne-Molle,Piedade de Jesus,3,0.75
+fim,Augusta Carne-Molle,Pombinha,1,0.2
+fim,Augusta Carne-Molle,Rita Bahiana,3,0.75
+fim,Bertoleza,Botelho,3,0.5
+fim,Bertoleza,Bruno,2,0.3333
+fim,Bertoleza,Dona Isabel,1,0.2
+fim,Bertoleza,Estella,2,0.4
+fim,Bertoleza,Firmo,1,0.2
+fim,Bertoleza,Florinda,1,0.2
+fim,Bertoleza,Henrique,1,0.2
+fim,Bertoleza,Jeronymo,2,0.3333
+fim,Bertoleza,João Romão,5,0.7143
+fim,Bertoleza,Leandra (Machona),3,0.5
+fim,Bertoleza,Leocadia,1,0.1667
+fim,Bertoleza,Libório,1,0.2
+fim,Bertoleza,Marciana,1,0.2
+fim,Bertoleza,Miranda,4,0.6667
+fim,Bertoleza,Nênêm,2,0.2857
+fim,Bertoleza,Paula (Bruxa),1,0.1667
+fim,Bertoleza,Piedade de Jesus,3,0.5
+fim,Bertoleza,Pombinha,3,0.6
+fim,Bertoleza,Rita Bahiana,3,0.5
+fim,Bertoleza,Zulmira,3,0.5
+fim,Botelho,Bruno,1,0.1667
+fim,Botelho,Estella,2,0.5
+fim,Botelho,Firmo,1,0.25
+fim,Botelho,Henrique,1,0.25
+fim,Botelho,Jeronymo,1,0.1667
+fim,Botelho,João Romão,4,0.5714
+fim,Botelho,Leandra (Machona),1,0.1429
+fim,Botelho,Leocadia,1,0.2
+fim,Botelho,Miranda,3,0.5
+fim,Botelho,Nênêm,2,0.3333
+fim,Botelho,Paula (Bruxa),1,0.2
+fim,Botelho,Piedade de Jesus,1,0.1429
+fim,Botelho,Pombinha,2,0.4
+fim,Botelho,Rita Bahiana,1,0.1429
+fim,Botelho,Zulmira,4,1.0
+fim,Bruno,Firmo,1,0.3333
+fim,Bruno,Jeronymo,2,0.5
+fim,Bruno,João Romão,3,0.4286
+fim,Bruno,Leandra (Machona),2,0.4
+fim,Bruno,Leocadia,2,0.6667
+fim,Bruno,Libório,1,0.3333
+fim,Bruno,Miranda,3,0.6
+fim,Bruno,Nênêm,1,0.1667
+fim,Bruno,Paula (Bruxa),1,0.25
+fim,Bruno,Piedade de Jesus,3,0.75
+fim,Bruno,Pombinha,1,0.2
+fim,Bruno,Rita Bahiana,3,0.75
+fim,Bruno,Zulmira,1,0.1667
+fim,Dona Isabel,Florinda,1,1.0
+fim,Dona Isabel,Jeronymo,1,0.3333
+fim,Dona Isabel,João Romão,1,0.1429
+fim,Dona Isabel,Leandra (Machona),1,0.25
+fim,Dona Isabel,Marciana,1,1.0
+fim,Dona Isabel,Nênêm,1,0.25
+fim,Dona Isabel,Piedade de Jesus,1,0.25
+fim,Dona Isabel,Pombinha,1,0.3333
+fim,Dona Isabel,Rita Bahiana,1,0.25
+fim,Estella,Henrique,1,0.5
+fim,Estella,João Romão,2,0.2857
+fim,Estella,Leandra (Machona),1,0.2
+fim,Estella,Miranda,2,0.4
+fim,Estella,Nênêm,1,0.2
+fim,Estella,Pombinha,1,0.25
+fim,Estella,Zulmira,2,0.5
+fim,Firmo,Jeronymo,1,0.3333
+fim,Firmo,João Romão,1,0.1429
+fim,Firmo,Leocadia,1,0.5
+fim,Firmo,Miranda,1,0.2
+fim,Firmo,Piedade de Jesus,1,0.25
+fim,Firmo,Pombinha,1,0.3333
+fim,Firmo,Rita Bahiana,1,0.25
+fim,Firmo,Zulmira,1,0.25
+fim,Florinda,Jeronymo,1,0.3333
+fim,Florinda,João Romão,1,0.1429
+fim,Florinda,Leandra (Machona),1,0.25
+fim,Florinda,Marciana,1,1.0
+fim,Florinda,Nênêm,1,0.25
+fim,Florinda,Piedade de Jesus,1,0.25
+fim,Florinda,Pombinha,1,0.3333
+fim,Florinda,Rita Bahiana,1,0.25
+fim,Henrique,João Romão,1,0.1429
+fim,Henrique,Miranda,1,0.2
+fim,Henrique,Pombinha,1,0.3333
+fim,Henrique,Zulmira,1,0.25
+fim,Jeronymo,João Romão,3,0.4286
+fim,Jeronymo,Leandra (Machona),2,0.4
+fim,Jeronymo,Leocadia,2,0.6667
+fim,Jeronymo,Marciana,1,0.3333
+fim,Jeronymo,Miranda,2,0.3333
+fim,Jeronymo,Nênêm,2,0.4
+fim,Jeronymo,Piedade de Jesus,3,0.75
+fim,Jeronymo,Pombinha,2,0.5
+fim,Jeronymo,Rita Bahiana,3,0.75
+fim,Jeronymo,Zulmira,1,0.1667
+fim,João Romão,Leandra (Machona),4,0.5714
+fim,João Romão,Leocadia,2,0.2857
+fim,João Romão,Libório,1,0.1429
+fim,João Romão,Marciana,1,0.1429
+fim,João Romão,Miranda,5,0.7143
+fim,João Romão,Nênêm,4,0.5714
+fim,João Romão,Paula (Bruxa),2,0.2857
+fim,João Romão,Piedade de Jesus,4,0.5714
+fim,João Romão,Pombinha,3,0.4286
+fim,João Romão,Rita Bahiana,4,0.5714
+fim,João Romão,Zulmira,4,0.5714
+fim,Leandra (Machona),Leocadia,1,0.2
+fim,Leandra (Machona),Libório,1,0.25
+fim,Leandra (Machona),Marciana,1,0.25
+fim,Leandra (Machona),Miranda,3,0.5
+fim,Leandra (Machona),Nênêm,3,0.6
+fim,Leandra (Machona),Paula (Bruxa),1,0.2
+fim,Leandra (Machona),Piedade de Jesus,3,0.6
+fim,Leandra (Machona),Pombinha,1,0.1667
+fim,Leandra (Machona),Rita Bahiana,3,0.6
+fim,Leandra (Machona),Zulmira,1,0.1429
+fim,Leocadia,Miranda,2,0.4
+fim,Leocadia,Nênêm,1,0.2
+fim,Leocadia,Piedade de Jesus,2,0.5
+fim,Leocadia,Pombinha,1,0.25
+fim,Leocadia,Rita Bahiana,2,0.5
+fim,Leocadia,Zulmira,1,0.2
+fim,Libório,Miranda,1,0.2
+fim,Libório,Paula (Bruxa),1,0.5
+fim,Libório,Piedade de Jesus,1,0.25
+fim,Libório,Rita Bahiana,1,0.25
+fim,Marciana,Nênêm,1,0.25
+fim,Marciana,Piedade de Jesus,1,0.25
+fim,Marciana,Pombinha,1,0.3333
+fim,Marciana,Rita Bahiana,1,0.25
+fim,Miranda,Nênêm,2,0.2857
+fim,Miranda,Paula (Bruxa),1,0.1667
+fim,Miranda,Piedade de Jesus,3,0.5
+fim,Miranda,Pombinha,2,0.3333
+fim,Miranda,Rita Bahiana,3,0.5
+fim,Miranda,Zulmira,3,0.5
+fim,Nênêm,Paula (Bruxa),1,0.2
+fim,Nênêm,Piedade de Jesus,2,0.3333
+fim,Nênêm,Pombinha,1,0.1667
+fim,Nênêm,Rita Bahiana,2,0.3333
+fim,Nênêm,Zulmira,2,0.3333
+fim,Paula (Bruxa),Piedade de Jesus,1,0.2
+fim,Paula (Bruxa),Rita Bahiana,1,0.2
+fim,Paula (Bruxa),Zulmira,1,0.2
+fim,Piedade de Jesus,Pombinha,2,0.4
+fim,Piedade de Jesus,Rita Bahiana,4,1.0
+fim,Piedade de Jesus,Zulmira,1,0.1429
+fim,Pombinha,Rita Bahiana,2,0.4
+fim,Pombinha,Zulmira,2,0.4
+fim,Rita Bahiana,Zulmira,1,0.1429

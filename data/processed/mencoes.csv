@@ -1,0 +1,1347 @@
+capitulo,paragrafo,personagem,forma
+1,1,João Romão,João Romão
+1,2,Bertoleza,Bertoleza
+1,3,Bertoleza,Bertoleza
+1,4,João Romão,João Romão
+1,5,João Romão,João Romão
+1,5,Bertoleza,Bertoleza
+1,5,João Romão,Seu João
+1,5,João Romão,Seu João
+1,6,João Romão,João Romão
+1,8,Bertoleza,Bertoleza
+1,9,João Romão,João Romão
+1,9,Bertoleza,Bertoleza
+1,16,João Romão,João Romão
+1,16,Bertoleza,Bertoleza
+1,19,João Romão,João Romão
+1,19,Bertoleza,Bertoleza
+1,19,João Romão,Romão
+1,20,João Romão,João Romão
+1,22,João Romão,João Romão
+1,22,Bertoleza,Bertoleza
+1,24,João Romão,Romão
+1,26,João Romão,João Romão
+1,28,Estella,Dona Estella
+1,28,Zulmira,Zulmirinha
+1,28,Miranda,Miranda
+1,29,Estella,Dona Estella
+1,29,Estella,Dona Estella
+1,29,Miranda,Miranda
+1,29,Miranda,Miranda
+1,31,Estella,Estella
+1,31,Zulmira,Zulmira
+1,32,Miranda,Miranda
+1,33,Miranda,Miranda
+1,34,Miranda,Miranda
+1,34,Estella,Estella
+1,39,Miranda,Miranda
+1,41,Estella,Estella
+1,44,Miranda,Miranda
+1,46,Miranda,Miranda
+1,47,Estella,Dona Estella
+1,48,João Romão,João Romão
+1,48,Miranda,Miranda
+1,50,Miranda,Miranda
+1,50,João Romão,Romão
+1,51,Miranda,Miranda
+1,52,Bertoleza,Bertoleza
+1,78,João Romão,João Romão
+1,79,Miranda,Miranda
+1,80,João Romão,João Romão
+1,82,João Romão,João Romão
+1,82,Miranda,Miranda
+1,83,Estella,Estella
+1,84,João Romão,João Romão
+1,85,Bertoleza,Bertoleza
+1,88,João Romão,João Romão
+1,93,João Romão,João Romão
+1,95,Miranda,Miranda
+1,98,Miranda,Miranda
+1,99,Miranda,Miranda
+1,103,João Romão,João Romão
+1,103,Miranda,Miranda
+1,104,João Romão,Romão
+2,1,Miranda,Miranda
+2,6,Miranda,Miranda
+2,7,Miranda,Miranda
+2,7,Estella,Estella
+2,7,Zulmira,Zulmira
+2,11,João Romão,João Romão
+2,11,Estella,Estella
+2,13,Miranda,Miranda
+2,13,Estella,Estella
+2,16,Zulmira,Zulmira
+2,17,Miranda,Miranda
+2,18,Henrique,Henrique
+2,18,Miranda,Miranda
+2,19,Estella,Dona Estella
+2,19,Henrique,Henriquinho
+2,19,Henrique,Henrique
+2,19,Miranda,Miranda
+2,20,Estella,Dona Estella
+2,21,Estella,Dona Estella
+2,21,Valentim,Valentim
+2,22,Estella,Dona Estella
+2,22,João Romão,João Romão
+2,22,Valentim,Valentim
+2,22,Miranda,Miranda
+2,22,Izaura,Izaura
+2,22,Leonor,Leonor
+2,23,Estella,Dona Estella
+2,23,Valentim,Valentim
+2,23,Miranda,Miranda
+2,23,Miranda,Miranda
+2,23,Miranda,Miranda
+2,23,Zulmira,Zulmira
+2,24,Henrique,Henrique
+2,24,Botelho,Botelho
+2,25,Miranda,Miranda
+2,27,Miranda,Miranda
+2,27,Botelho,Botelho
+2,30,Estella,Dona Estella
+2,30,Botelho,Botelho
+2,32,Estella,Dona Estella
+2,32,Valentim,Valentim
+2,32,Botelho,Botelho
+2,33,Miranda,Miranda
+2,33,Estella,Estella
+2,33,Botelho,Botelho
+2,33,Botelho,Botelho
+2,36,Estella,Estella
+2,37,Miranda,Miranda
+2,38,Botelho,Botelho
+2,39,Henrique,Henrique
+2,39,Estella,Estella
+2,40,Botelho,Botelho
+2,42,Estella,Estella
+2,44,Estella,Estella
+2,46,Henrique,Henrique
+2,47,Botelho,Botelho
+2,50,Estella,Estella
+2,51,Estella,Dona Estella
+2,52,Henrique,Henrique
+2,52,Botelho,Botelho
+2,55,Estella,Dona Estella
+2,55,Henrique,Henrique
+2,57,Estella,Dona Estella
+2,57,Zulmira,Zulmira
+3,8,Miranda,Miranda
+3,8,Izaura,Izaura
+3,10,Leonor,Leonor
+3,14,Anna das Dores,Anna das Dores
+3,14,Anna das Dores,das Dores
+3,14,Anna das Dores,das Dores
+3,14,Agostinho,Agostinho
+3,14,Leandra (Machona),Leandra
+3,14,Leandra (Machona),Machona
+3,14,Nênêm,Nênêm
+3,15,Anna das Dores,das Dores
+3,15,Leandra (Machona),Machona
+3,16,Nênêm,Nênêm
+3,17,Augusta Carne-Molle,Carne Molle
+3,17,Alexandre,Alexandre
+3,17,Leandra (Machona),Leandra
+3,17,Augusta Carne-Molle,Augusta
+3,18,Alexandre,Alexandre
+3,19,Leocadia,Leocadia
+3,19,Bruno,Bruno
+3,20,Paula (Bruxa),Paula
+3,20,Paula (Bruxa),Bruxa
+3,21,João Romão,João Romão
+3,21,Marciana,Marciana
+3,21,Florinda,Florinda
+3,21,Florinda,Florinda
+3,22,Dona Isabel,Dona Isabel
+3,22,Dona Isabel,Isabel
+3,22,Dona Isabel,Isabel
+3,23,Pombinha,Pombinha
+3,24,João da Costa,João da Costa
+3,24,Dona Isabel,Dona Isabel
+3,24,Pombinha,Pombinha
+3,24,João da Costa,Costa
+3,31,Paula (Bruxa),Bruxa
+3,31,João da Costa,Costa
+3,32,Pombinha,Pombinha
+3,33,Albino,Albino
+3,33,Albino,Albino
+3,35,Dona Isabel,Isabel
+3,38,Alexandre,Alexandre
+3,38,Henrique,Henrique
+3,38,Leocadia,Leocadia
+3,38,Marciana,Marciana
+3,38,Miranda,Miranda
+3,38,Leandra (Machona),Machona
+3,38,Augusta Carne-Molle,Augusta
+3,38,Paula (Bruxa),Bruxa
+3,39,Leandra (Machona),Machona
+3,39,Rita Bahiana,Rita
+3,40,Rita Bahiana,Rita Bahiana
+3,41,Leocadia,Leocadia
+3,41,Firmo,Firmo
+3,42,Augusta Carne-Molle,Augusta
+3,42,Firmo,Firmo
+3,45,Leandra (Machona),Machona
+3,47,João Romão,João Romão
+3,50,Agostinho,Agostinho
+3,52,Nênêm,Nênêm
+3,54,Rita Bahiana,Rita Bahiana
+3,55,Augusta Carne-Molle,Augusta
+3,57,Firmo,Firmo
+3,59,Rita Bahiana,Rita
+3,62,João Romão,João Romão
+3,63,Rita Bahiana,Rita
+3,65,Estella,Dona Estella
+3,65,Miranda,Miranda
+3,65,Zulmira,Zulmira
+3,66,Domingos,Domingos
+3,66,Manoel,Manoel
+3,75,Domingos,Domingos
+3,77,Manoel,Manoel
+3,78,João Romão,João Romão
+3,78,Bertoleza,Bertoleza
+3,81,Domingos,Domingos
+4,1,João Romão,João Romão
+4,25,João Romão,João Romão
+4,29,Marciana,Marcianna
+4,29,Leocadia,Leocadia
+4,29,Leandra (Machona),Machona
+4,29,Augusta Carne-Molle,Augusta
+4,29,Paula (Bruxa),Bruxa
+4,31,Dona Isabel,Dona Isabel
+4,31,Florinda,Florinda
+4,31,Albino,Albino
+4,32,Anna das Dores,das Dores
+4,32,Nênêm,Nênêm
+4,33,Florinda,Florinda
+4,35,João Romão,João Romão
+4,38,João Romão,João Romão
+4,47,João Romão,João Romão
+4,48,Bruno,Bruno
+4,50,Bruno,Bruno
+4,65,João Romão,João Romão
+4,71,João Romão,Romão
+4,75,João Romão,João Romão
+4,79,João Romão,João Romão
+4,84,João Romão,João Romão
+4,91,Jeronymo,Jeronymo
+5,1,Jeronymo,Jeronymo
+5,2,Piedade de Jesus,Piedade de Jesus
+5,4,Jeronymo,Jeronymo
+5,4,Piedade de Jesus,Piedade
+5,5,Augusta Carne-Molle,Carne-molle
+5,5,Leandra (Machona),Machona
+5,5,Augusta Carne-Molle,Augusta
+5,6,João Romão,João Romão
+5,10,Leocadia,Leocadia
+5,11,Marciana,Marcianna
+5,11,Leocadia,Leocadia
+5,11,Florinda,Florinda
+5,11,Paula (Bruxa),Bruxa
+5,15,Dona Isabel,Dona Isabel
+5,16,Albino,Albino
+5,17,Augusta Carne-Molle,Augusta
+5,18,João Romão,João Romão
+5,18,Leocadia,Leocadia
+5,19,Leandra (Machona),Machona
+5,19,João Romão,Romão
+5,22,Jeronymo,Jeronymo
+5,22,Piedade de Jesus,Piedade
+5,24,Jeronymo,Jeronymo
+5,26,Jeronymo,Jeronymo
+5,28,Piedade de Jesus,Piedade
+5,29,Jeronymo,Jeronymo
+5,30,João Romão,João Romão
+5,30,Jeronymo,Jeronymo
+5,31,Jeronymo,Jeronymo
+5,32,Piedade de Jesus,Piedade de Jesus
+5,32,Alexandre,Alexandre
+5,32,Domingos,Domingos
+5,32,Jeronymo,Jeronymo
+5,32,Piedade de Jesus,Piedade
+5,32,Manoel,Manoel
+5,33,Jeronymo,Jeronymo
+5,35,Jeronymo,Jeronymo
+6,2,Agostinho,Agostinho
+6,2,Leandra (Machona),Machona
+6,2,Nênêm,Nênêm
+6,3,Miranda,Miranda
+6,3,Albino,Albino
+6,4,Domingos,Domingos
+6,4,Izaura,Izaura
+6,4,Leonor,Leonor
+6,4,Manoel,Manoel
+6,5,João Romão,João Romão
+6,5,Bertoleza,Bertoleza
+6,6,Rita Bahiana,Rita Bahiana
+6,11,Rita Bahiana,Rita Bahiana
+6,16,Rita Bahiana,Rita
+6,24,Firmo,Firmo
+6,28,Bruno,Bruno
+6,28,Rita Bahiana,Rita
+6,30,Leocadia,Leocadia
+6,31,Firmo,Firmo
+6,32,Rita Bahiana,Rita
+6,34,Augusta Carne-Molle,Augusta
+6,35,Rita Bahiana,Rita Bahiana
+6,36,Anna das Dores,das Dôres
+6,36,Marciana,Marcianna
+6,36,Florinda,Florinda
+6,36,Rita Bahiana,Rita
+6,39,Paula (Bruxa),Bruxa
+6,39,Rita Bahiana,Rita
+6,40,Paula (Bruxa),Paula
+6,41,Dona Isabel,Dona Isabel
+6,43,Pombinha,Pombinha
+6,44,Pombinha,Pombinha
+6,45,Dona Isabel,Dona Isabel
+6,45,Pombinha,Pombinha
+6,45,João da Costa,Costa
+6,45,Rita Bahiana,Rita
+6,46,Alexandre,Alexandre
+6,47,Rita Bahiana,Rita
+6,48,Libório,Liborio
+6,51,Rita Bahiana,Rita
+6,52,Rita Bahiana,Bahiana
+6,52,Libório,Liborio
+6,54,Rita Bahiana,Rita
+6,55,Rita Bahiana,Rita Bahiana
+6,56,Leocadia,Leocadinha
+6,56,Jeronymo,Jeronymo
+6,57,Jeronymo,Jeronymo
+6,57,Piedade de Jesus,Piedade
+6,58,Rita Bahiana,Rita
+6,59,Firmo,Firmo
+6,59,Rita Bahiana,Rita
+6,60,Rita Bahiana,Rita Bahiana
+6,60,Anna das Dores,das Dores
+6,60,Anna das Dores,das Dores
+6,60,Leocadia,Leocadia
+6,60,Florinda,Florinda
+6,60,Pombinha,Pombinha
+6,60,Augusta Carne-Molle,Augusta
+6,60,Albino,Albino
+6,61,Pombinha,Pombinha
+6,62,Pombinha,Pombinha
+6,63,Pombinha,Pombinha
+7,1,Firmo,Firmo
+7,2,Rita Bahiana,Rita Bahiana
+7,2,Firmo,Firmo
+7,4,Rita Bahiana,Rita Bahiana
+7,4,Rita Bahiana,Rita
+7,5,Rita Bahiana,Rita Bahiana
+7,5,Firmo,Firmo
+7,5,Firmo,Firmo
+7,5,Rita Bahiana,Rita
+7,6,Firmo,Firmo
+7,7,Rita Bahiana,Bahiana
+7,7,Rita Bahiana,Rita
+7,8,Anna das Dores,das Dôres
+7,8,Agostinho,Agostinho
+7,8,Leandra (Machona),Machona
+7,8,Nênêm,Nênêm
+7,10,Dona Isabel,Dona Isabel
+7,10,Anna das Dores,das Dôres
+7,10,Alexandre,Alexandre
+7,10,Marciana,Marcianna
+7,10,Leocadia,Leocadia
+7,10,Florinda,Florinda
+7,10,Pombinha,Pombinha
+7,10,Augusta Carne-Molle,Augusta
+7,10,Albino,Albino
+7,10,Bruno,Bruno
+7,10,Rita Bahiana,Rita
+7,11,Jeronymo,Jeronymo
+7,14,Anna das Dores,das Dôres
+7,14,Rita Bahiana,Rita
+7,15,Dona Isabel,Dona Isabel
+7,15,Anna das Dores,das Dôres
+7,15,Agostinho,Agostinho
+7,15,Florinda,Florinda
+7,15,Leandra (Machona),Machona
+7,15,Nênêm,Nênêm
+7,16,Rita Bahiana,Rita Bahiana
+7,16,Alexandre,Alexandre
+7,16,Leocadia,Leocadia
+7,16,Miranda,Miranda
+7,16,Albino,Albino
+7,16,Bruno,Bruno
+7,16,Firmo,Firmo
+7,17,Rita Bahiana,Rita
+7,18,Bruno,Bruno
+7,19,Firmo,Firmo
+7,22,Bruno,Bruno
+7,24,Alexandre,Alexandre
+7,26,Miranda,Miranda
+7,28,Miranda,Miranda
+7,31,Miranda,Miranda
+7,35,Estella,Dona Estella
+7,35,Henrique,Henriquinho
+7,35,Zulmira,Zulmira
+7,35,Botelho,Botelho
+7,36,Miranda,Miranda
+7,37,Alexandre,Alexandre
+7,37,Alexandre,Alexandre
+7,37,Miranda,Miranda
+7,39,Miranda,Miranda
+7,39,Firmo,Firmo
+7,39,Rita Bahiana,Rita
+7,41,Miranda,Miranda
+7,43,Rita Bahiana,Rita
+7,46,Libório,Liborio
+7,47,Libório,Liborio
+7,47,Libório,Liborio
+7,48,Rita Bahiana,Rita
+7,52,Alexandre,Alexandre
+7,52,Firmo,Firmo
+7,53,Leocadia,Leocadia
+7,53,Libório,Liborio
+7,56,Rita Bahiana,Rita
+7,59,Augusta Carne-Molle,Augusta
+7,59,Libório,Liborio
+7,63,Albino,Albino
+7,63,Rita Bahiana,Rita
+7,66,Albino,Albino
+7,66,Rita Bahiana,Rita
+7,67,Alexandre,Alexandre
+7,67,Albino,Albino
+7,67,Paula (Bruxa),Bruxa
+7,68,Leocadia,Leocadia
+7,68,Albino,Albino
+7,70,Albino,Albino
+7,72,Rita Bahiana,Rita
+7,74,Albino,Albino
+7,75,Leocadia,Leocadia
+7,75,Bruno,Bruno
+7,76,Alexandre,Alexandre
+7,76,Augusta Carne-Molle,Augusta
+7,76,Libório,Liborio
+7,76,Albino,Albino
+7,76,Bruno,Bruno
+7,76,Firmo,Firmo
+7,76,Rita Bahiana,Rita
+7,77,Rita Bahiana,Rita Bahiana
+7,77,Anna das Dores,das Dôres
+7,79,Miranda,Miranda
+7,80,Alexandre,Alexandre
+7,81,Rita Bahiana,Rita
+7,82,Estella,Dona Estella
+7,82,Henrique,Henrique
+7,82,Leocadia,Leocadia
+7,82,Miranda,Miranda
+7,83,Estella,Dona Estella
+7,83,Augusta Carne-Molle,Carne-molle
+7,83,Anna das Dores,das Dôres
+7,83,Augusta Carne-Molle,Augusta
+7,83,Nênêm,Nênêm
+7,84,Alexandre,Alexandre
+7,86,Alexandre,Alexandre
+7,86,Zulmira,Zulmira
+7,87,Anna das Dores,das Dôres
+7,91,Miranda,Miranda
+7,91,Firmo,Firmo
+7,92,Augusta Carne-Molle,Augusta
+7,94,Jeronymo,Jeronymo
+7,96,Miranda,Miranda
+7,98,Firmo,Firmo
+7,101,Jeronymo,Jeronymo
+7,104,Firmo,Firmo
+7,105,Jeronymo,Jeronymo
+7,105,Piedade de Jesus,Piedade
+7,106,Rita Bahiana,Rita Bahiana
+7,108,Alexandre,Alexandre
+7,108,Florinda,Florinda
+7,108,Albino,Albino
+7,108,Firmo,Firmo
+7,109,Rita Bahiana,Rita
+7,110,Jeronymo,Jeronymo
+7,111,Rita Bahiana,Rita Bahiana
+7,112,Jeronymo,Jeronymo
+7,113,Piedade de Jesus,Piedade
+7,115,João Romão,João Romão
+7,115,Bertoleza,Bertoleza
+7,115,Jeronymo,Jeronymo
+7,115,Miranda,Miranda
+7,115,Izaura,Izaura
+7,115,Leonor,Leonor
+7,115,Firmo,Firmo
+7,117,Rita Bahiana,Rita
+7,118,Jeronymo,Jeronymo
+7,118,Miranda,Miranda
+7,119,Jeronymo,Jeronymo
+8,1,João Romão,João Romão
+8,1,Jeronymo,Jeronymo
+8,9,Paula (Bruxa),Bruxa
+8,10,Jeronymo,Jeronymo
+8,10,Paula (Bruxa),Bruxa
+8,10,Rita Bahiana,Rita
+8,17,Jeronymo,Jeronymo
+8,23,Jeronymo,Jeronymo
+8,23,Piedade de Jesus,Piedade
+8,28,Piedade de Jesus,Piedade
+8,32,Jeronymo,Jeronymo
+8,34,Leocadia,Leocadia
+8,42,Rita Bahiana,Rita
+8,43,Piedade de Jesus,Piedade
+8,45,Rita Bahiana,Rita
+8,48,Jeronymo,Jeronymo
+8,48,Piedade de Jesus,Piedade
+8,51,Piedade de Jesus,Piedade
+8,53,Piedade de Jesus,Piedade
+8,53,Rita Bahiana,Rita
+8,59,Jeronymo,Jeronymo
+8,65,Piedade de Jesus,Piedade
+8,68,Rita Bahiana,Rita
+8,69,Jeronymo,Jeronymo
+8,70,Jeronymo,Jeronymo
+8,71,Piedade de Jesus,Piedade
+8,71,Rita Bahiana,Rita
+8,74,Rita Bahiana,Rita
+8,76,Piedade de Jesus,Piedade
+8,78,Jeronymo,Jeronymo
+8,78,Augusta Carne-Molle,Augusta
+8,78,Piedade de Jesus,Piedade
+8,78,Piedade de Jesus,Piedade
+8,79,Henrique,Henriquinho
+8,79,Leocadia,Leocadia
+8,79,Miranda,Miranda
+8,80,Henrique,Henrique
+8,80,Leocadia,Leocadia
+8,82,Henrique,Henrique
+8,82,Leocadia,Leocadia
+8,82,Miranda,Miranda
+8,86,Henrique,Henrique
+8,89,Henrique,Henrique
+8,89,Leocadia,Leocadia
+8,97,Augusta Carne-Molle,Carne Molle
+8,97,Augusta Carne-Molle,Augusta
+8,101,Henrique,Henrique
+8,101,Bruno,Bruno
+8,106,Leocadia,Leocadia
+8,124,Leocadia,Leocadia
+8,124,Leocadia,Leocadia
+8,124,Albino,Albino
+8,124,Bruno,Bruno
+8,124,Bruno,Bruno
+8,125,Dona Isabel,Dona Isabel
+8,125,Anna das Dores,das Dôres
+8,125,Leandra (Machona),Machona
+8,125,Augusta Carne-Molle,Augusta
+8,125,Bruno,Bruno
+8,125,Paula (Bruxa),Bruxa
+8,127,Agostinho,Agostinho
+8,127,Marciana,Marcianna
+8,127,Leocadia,Leocadia
+8,127,Florinda,Florinda
+8,127,Pombinha,Pombinha
+8,127,Leandra (Machona),Machona
+8,127,Libório,Liborio
+8,127,Nênêm,Nênêm
+8,127,Bruno,Bruno
+8,127,Rita Bahiana,Rita
+8,130,Bruno,Bruno
+8,131,Leocadia,Leocadia
+8,142,Leocadia,Leocadia
+8,144,João Romão,João Romão
+8,144,Bruno,Bruno
+8,155,Leocadia,Leocadia
+8,157,Alexandre,Alexandre
+8,157,Bruno,Bruno
+8,158,Bruno,Bruno
+8,159,Leocadia,Leocadia
+8,164,Alexandre,Alexandre
+8,167,Leocadia,Leocadia
+8,172,Leocadia,Leocadia
+8,173,Alexandre,Alexandre
+8,177,Rita Bahiana,Rita
+8,180,Albino,Albino
+8,180,Firmo,Firmo
+9,1,Jeronymo,Jeronymo
+9,3,Jeronymo,Jeronymo
+9,3,Jeronymo,Jeronymo
+9,5,Piedade de Jesus,Piedade de Jesus
+9,5,Jeronymo,Jeronymo
+9,8,Rita Bahiana,Rita
+9,9,Jeronymo,Jeronymo
+9,10,Jeronymo,Jeronymo
+9,10,Piedade de Jesus,Piedade
+9,10,Rita Bahiana,Rita
+9,11,Jeronymo,Jeronymo
+9,11,Piedade de Jesus,Piedade
+9,17,Piedade de Jesus,Piedade
+9,25,Rita Bahiana,Rita Bahiana
+9,25,Leocadia,Leocadia
+9,25,Jeronymo,Jeronymo
+9,25,Jeronymo,Jeronymo
+9,25,Rita Bahiana,Rita
+9,26,Rita Bahiana,Rita
+9,28,Leocadia,Leocadia
+9,28,Rita Bahiana,Rita
+9,29,Jeronymo,Jeronymo
+9,30,Rita Bahiana,Bahiana
+9,31,Leocadia,Leocadia
+9,36,Jeronymo,Jeronymo
+9,36,Rita Bahiana,Rita
+9,39,Piedade de Jesus,Piedade
+9,39,Paula (Bruxa),Bruxa
+9,42,Rita Bahiana,Rita Bahiana
+9,43,Paula (Bruxa),Bruxa
+9,44,Paula (Bruxa),Paula
+9,46,Piedade de Jesus,Piedade
+9,47,Jeronymo,Jeronymo
+9,47,Firmo,Firmo
+9,48,Firmo,Firmo
+9,48,Rita Bahiana,Rita
+9,48,Rita Bahiana,Rita
+9,50,Marciana,Marcianna
+9,50,Florinda,Florinda
+9,50,Jeronymo,Jeronymo
+9,50,Rita Bahiana,Rita
+9,51,Marciana,Marcianna
+9,51,Florinda,Florinda
+9,58,Paula (Bruxa),Bruxa
+9,61,Marciana,Marcianna
+9,70,Florinda,Florinda
+9,73,Marciana,Marcianna
+9,75,Augusta Carne-Molle,Augusta
+9,77,Anna das Dores,das Dôres
+9,77,Florinda,Florinda
+9,82,Domingos,Domingos
+9,83,Domingos,Domingos
+9,85,Marciana,Marcianna
+9,89,Domingos,Domingos
+9,89,Leonor,Leonor
+9,89,Manoel,Manoel
+9,90,Marciana,Marcianna
+9,91,João Romão,João Romão
+9,93,Bertoleza,Bertoleza
+9,98,João Romão,João Romão
+9,100,Domingos,Domingos
+9,101,Domingos,Domingos
+9,107,Florinda,Florinda
+9,110,Domingos,Domingos
+9,112,João Romão,João Romão
+9,112,Marciana,Marcianna
+9,112,Domingos,Domingos
+9,118,Domingos,Domingos
+9,131,Dona Isabel,Dona Isabel
+9,131,Leandra (Machona),Machona
+9,133,João Romão,João Romão
+9,140,Alexandre,Alexandre
+9,141,Domingos,Domingos
+9,150,Marciana,Marcianna
+9,156,João Romão,João Romão
+9,156,Domingos,Domingos
+9,167,Marciana,Marcianna
+9,168,Alexandre,Alexandre
+9,168,Augusta Carne-Molle,Augusta
+9,169,Alexandre,Alexandre
+9,169,Augusta Carne-Molle,Augusta
+9,170,Augusta Carne-Molle,Augusta
+9,172,Alexandre,Alexandre
+9,182,Rita Bahiana,Rita Bahiana
+9,182,Anna das Dores,das Dôres
+9,182,Piedade de Jesus,Piedade
+9,182,Albino,Albino
+9,182,Nênêm,Nênêm
+9,183,Leocadia,Leocadia
+9,184,Pombinha,Pombinha
+9,185,Augusta Carne-Molle,Augusta
+9,186,Dona Isabel,Dona Isabel
+9,187,João da Costa,Costa
+9,188,João da Costa,Costa
+9,189,Pombinha,Pombinha
+9,194,Augusta Carne-Molle,Augusta
+9,196,Agostinho,Agostinho
+9,209,Augusta Carne-Molle,Augusta
+9,211,Dona Isabel,Dona Isabel
+9,211,Alexandre,Alexandre
+9,211,Pombinha,Pombinha
+9,214,Pombinha,Pombinha
+9,216,Pombinha,Pombinha
+9,219,Dona Isabel,Dona Isabel
+9,222,Jeronymo,Jeronymo
+9,222,Rita Bahiana,Rita
+10,1,Miranda,Miranda
+10,2,Estella,Dona Estella
+10,2,Henrique,Henrique
+10,2,Pombinha,Pombinha
+10,2,Zulmira,Zulmira
+10,2,Botelho,Botelho
+10,2,Izaura,Izaura
+10,2,Leonor,Leonor
+10,5,Florinda,Florinda
+10,5,Domingos,Domingos
+10,8,Marciana,Marcianna
+10,14,João Romão,João Romão
+10,14,Bertoleza,Bertoleza
+10,17,Marciana,Marcianna
+10,18,Marciana,Marcianna
+10,23,Florinda,Florinda
+10,28,Marciana,Marcianna
+10,30,Rita Bahiana,Rita
+10,35,Marciana,Marcianna
+10,38,Marciana,Marcianna
+10,40,Bertoleza,Bertoleza
+10,41,Miranda,Miranda
+10,42,Estella,Dona Estella
+10,42,Miranda,Miranda
+10,42,Miranda,Miranda
+10,45,Bertoleza,Bertoleza
+10,48,João Romão,João Romão
+10,51,João Romão,João Romão
+10,51,Bertoleza,Bertoleza
+10,51,Manoel,Manoel
+10,53,Estella,Dona Estella
+10,53,Miranda,Miranda
+10,54,João Romão,João Romão
+10,54,João Romão,João Romão
+10,54,Miranda,Miranda
+10,54,Miranda,Miranda
+10,57,Bertoleza,Bertoleza
+10,61,Leandra (Machona),Machona
+10,61,Libório,Liborio
+10,65,Marciana,Marcianna
+10,65,Florinda,Florinda
+10,66,João Romão,João Romão
+10,70,Marciana,Marcianna
+10,71,João Romão,João Romão
+10,71,Marciana,Marcianna
+10,71,Marciana,Marcianna
+10,73,Augusta Carne-Molle,Augusta
+10,74,Rita Bahiana,Rita
+10,75,Marciana,Marcianna
+10,79,Paula (Bruxa),Bruxa
+10,80,Anna das Dores,das Dôres
+10,80,Henrique,Henrique
+10,80,Pombinha,Pombinha
+10,80,Miranda,Miranda
+10,80,Firmo,Firmo
+10,80,Rita Bahiana,Rita
+10,81,Rita Bahiana,Rita Bahiana
+10,81,João Romão,João Romão
+10,81,Bertoleza,Bertoleza
+10,81,Jeronymo,Jeronymo
+10,81,Jeronymo,Jeronymo
+10,81,Piedade de Jesus,Piedade
+10,82,João Romão,João Romão
+10,82,Miranda,Miranda
+10,83,Miranda,Miranda
+10,86,Bertoleza,Bertoleza
+10,86,Marciana,Marcianna
+10,88,João Romão,João Romão
+10,89,Marciana,Marcianna
+10,89,Paula (Bruxa),Bruxa
+10,91,Miranda,Miranda
+10,92,Rita Bahiana,Rita Bahiana
+10,93,Firmo,Firmo
+10,94,Jeronymo,Jeronymo
+10,97,Anna das Dores,das Dôres
+10,97,Nênêm,Nênêm
+10,98,Piedade de Jesus,Piedade
+10,98,Firmo,Firmo
+10,98,Rita Bahiana,Rita
+10,99,Jeronymo,Jeronymo
+10,99,Firmo,Firmo
+10,101,Jeronymo,Jeronymo
+10,105,Piedade de Jesus,Piedade
+10,108,Firmo,Firmo
+10,109,Jeronymo,Jeronymo
+10,111,Firmo,Firmo
+10,113,João Romão,João Romão
+10,113,Miranda,Miranda
+10,113,Piedade de Jesus,Piedade
+10,113,Bruno,Bruno
+10,113,Rita Bahiana,Rita
+10,114,Jeronymo,Jeronymo
+10,114,Firmo,Firmo
+10,115,Dona Isabel,Dona Isabel
+10,115,Anna das Dores,das Dôres
+10,115,Pombinha,Pombinha
+10,115,Leandra (Machona),Machona
+10,115,Augusta Carne-Molle,Augusta
+10,115,Piedade de Jesus,Piedade
+10,115,Albino,Albino
+10,116,Jeronymo,Jeronymo
+10,116,Firmo,Firmo
+10,119,Jeronymo,Jeronymo
+10,122,Firmo,Firmo
+10,124,Piedade de Jesus,Piedade
+10,124,Rita Bahiana,Rita
+10,128,João Romão,João Romão
+10,133,Jeronymo,Jeronymo
+10,140,Anna das Dores,das Dôres
+10,140,Leandra (Machona),Machona
+10,143,Bruno,Bruno
+10,148,Nênêm,Nênêm
+11,1,Marciana,Marcianna
+11,1,Paula (Bruxa),Bruxa
+11,3,João Romão,João Romão
+11,3,João Romão,João Romão
+11,6,João Romão,João Romão
+11,10,Jeronymo,Jeronymo
+11,10,Miranda,Miranda
+11,11,Jeronymo,Jeronymo
+11,11,Piedade de Jesus,Piedade
+11,11,Rita Bahiana,Rita
+11,12,Firmo,Firmo
+11,13,Rita Bahiana,Rita
+11,14,Jeronymo,Jeronymo
+11,14,Piedade de Jesus,Piedade
+11,14,Rita Bahiana,Rita
+11,16,João Romão,João Romão
+11,16,Bertoleza,Bertoleza
+11,19,Pombinha,Pombinha
+11,20,Dona Isabel,Dona Isabel
+11,27,Dona Isabel,Dona Isabel
+11,30,Dona Isabel,Dona Isabel
+11,36,Dona Isabel,Dona Isabel
+11,36,Pombinha,Pombinha
+11,45,Pombinha,Pombinha
+11,49,Pombinha,Pombinha
+11,53,Pombinha,Pombinha
+11,55,Pombinha,Pombinha
+11,60,Pombinha,Pombinha
+11,67,Pombinha,Pombinha
+11,89,Pombinha,Pombinha
+11,92,Dona Isabel,Dona Isabel
+11,92,Dona Isabel,Dona Isabel
+11,92,Pombinha,Pombinha
+11,93,Pombinha,Pombinha
+11,94,Pombinha,Pombinha
+11,98,Marciana,Marcianna
+11,98,Florinda,Florinda
+11,99,Dona Isabel,Dona Isabel
+11,122,Pombinha,Pombinha
+12,1,Dona Isabel,Dona Isabel
+12,1,Pombinha,Pombinha
+12,7,Pombinha,Pombinha
+12,9,João da Costa,João da Costa
+12,9,Dona Isabel,Dona Isabel
+12,9,Anna das Dores,das Dôres
+12,9,Pombinha,Pombinha
+12,9,Nênêm,Nênêm
+12,10,Dona Isabel,Dona Isabel
+12,11,Jeronymo,Jeronymo
+12,11,Piedade de Jesus,Piedade
+12,11,Firmo,Firmo
+12,11,Rita Bahiana,Rita
+12,12,Leocadia,Leocadia
+12,12,Bruno,Bruno
+12,12,Paula (Bruxa),Bruxa
+12,13,Dona Isabel,Dona Isabel
+12,13,Dona Isabel,Dona Isabel
+12,13,Pombinha,Pombinha
+12,13,João da Costa,Costa
+12,14,João da Costa,Costa
+12,15,Bruno,Bruno
+12,16,Pombinha,Pombinha
+12,17,Bruno,Bruno
+12,26,Leocadia,Leocadia
+12,26,Bruno,Bruno
+12,28,Bruno,Bruno
+12,33,Pombinha,Pombinha
+12,34,Bruno,Bruno
+12,39,Bruno,Bruno
+12,49,Pombinha,Pombinha
+12,50,Bruno,Bruno
+12,52,Pombinha,Pombinha
+12,52,Bruno,Bruno
+12,60,Domingos,Domingos
+12,60,Jeronymo,Jeronymo
+12,60,Miranda,Miranda
+12,60,Bruno,Bruno
+12,60,Firmo,Firmo
+12,61,Leocadia,Leocadia
+12,61,João da Costa,Costa
+12,63,Pombinha,Pombinha
+12,64,Dona Isabel,Dona Isabel
+12,64,Pombinha,Pombinha
+12,65,Leandra (Machona),Machona
+12,67,Alexandre,Alexandre
+12,68,Libório,Liborio
+12,68,João da Costa,Costa
+12,70,Nênêm,Nênêm
+13,1,Dona Isabel,Dona Isabel
+13,1,Pombinha,Pombinha
+13,2,João Romão,João Romão
+13,2,João Romão,João Romão
+13,2,Bertoleza,Bertoleza
+13,2,Anna das Dores,das Dôres
+13,2,Alexandre,Alexandre
+13,2,Leandra (Machona),Machona
+13,2,João Romão,Romão
+13,4,Jeronymo,Jeronymo
+13,4,Firmo,Firmo
+13,4,Firmo,Firmo
+13,4,Firmo,Firmo
+13,4,Rita Bahiana,Rita
+13,5,João Romão,João Romão
+13,5,Miranda,Miranda
+13,8,João Romão,João Romão
+13,8,Miranda,Miranda
+13,9,João Romão,João Romão
+13,9,Bertoleza,Bertoleza
+13,10,Miranda,Miranda
+13,10,Botelho,Botelho
+13,11,João Romão,João Romão
+13,11,Botelho,Botelho
+13,21,Botelho,Botelho
+13,22,Miranda,Miranda
+13,25,Miranda,Miranda
+13,35,Miranda,Miranda
+13,35,Botelho,Botelho
+13,38,Miranda,Miranda
+13,56,João Romão,João Romão
+13,56,Botelho,Botelho
+13,62,João Romão,João Romão
+13,62,Botelho,Botelho
+13,66,Leonor,Leonor
+13,67,Estella,Dona Estella
+13,67,João Romão,João Romão
+13,68,Estella,Dona Estella
+13,68,Zulmira,Zulmira
+13,69,Henrique,Henrique
+13,69,Miranda,Miranda
+13,69,Botelho,Botelho
+13,69,Leonor,Leonor
+13,70,João Romão,João Romão
+13,72,Bertoleza,Bertoleza
+13,79,Bertoleza,Bertoleza
+13,79,Paula (Bruxa),Bruxa
+13,80,João Romão,João Romão
+14,1,Firmo,Firmo
+14,6,Firmo,Firmo
+14,10,Firmo,Firmo
+14,10,Firmo,Firmo
+14,10,Rita Bahiana,Rita
+14,14,Jeronymo,Jeronymo
+14,14,João Romão,Romão
+14,14,Firmo,Firmo
+14,15,Firmo,Firmo
+14,16,Jeronymo,Jeronymo
+14,23,Firmo,Firmo
+14,32,Rita Bahiana,Rita Bahiana
+14,32,Jeronymo,Jeronymo
+14,33,Piedade de Jesus,Piedade
+14,36,Rita Bahiana,Rita
+14,37,Piedade de Jesus,Piedade
+14,40,Jeronymo,Jeronymo
+14,42,Jeronymo,Jeronymo
+14,45,Jeronymo,Jeronymo
+14,53,Firmo,Firmo
+14,54,Rita Bahiana,Rita
+14,58,Rita Bahiana,Rita
+14,64,Rita Bahiana,Rita
+14,72,Rita Bahiana,Rita
+14,84,Piedade de Jesus,Piedade
+14,87,Jeronymo,Jeronymo
+14,87,Rita Bahiana,Rita
+14,88,Jeronymo,Jeronymo
+14,91,Manoel,Manoel
+14,104,Rita Bahiana,Rita Bahiana
+14,106,Jeronymo,Jeronymo
+14,106,João Romão,Romão
+14,107,Rita Bahiana,Rita
+14,110,Jeronymo,Jeronymo
+14,118,Jeronymo,Jeronymo
+14,123,Jeronymo,Jeronymo
+14,125,Piedade de Jesus,Piedade
+14,128,João Romão,João Romão
+14,128,Jeronymo,Jeronymo
+14,128,Miranda,Miranda
+14,128,Zulmira,Zulmira
+14,128,Leandra (Machona),Machona
+14,128,Augusta Carne-Molle,Augusta
+14,128,Albino,Albino
+14,128,Rita Bahiana,Rita
+14,129,Jeronymo,Jeronymo
+14,133,Jeronymo,Jeronymo
+14,135,Jeronymo,Jeronymo
+14,145,Jeronymo,Jeronymo
+14,149,Jeronymo,Jeronymo
+14,149,Jeronymo,Jeronymo
+14,152,Piedade de Jesus,Piedade de Jesus
+14,157,Jeronymo,Jeronymo
+15,2,Firmo,Firmo
+15,4,Florinda,Florinda
+15,15,Florinda,Florinda
+15,19,Marciana,Marcianna
+15,19,Firmo,Firmo
+15,22,Florinda,Florinda
+15,25,Firmo,Firmo
+15,33,Firmo,Firmo
+15,35,Firmo,Firmo
+15,38,Jeronymo,Jeronymo
+15,41,Rita Bahiana,Rita
+15,43,Jeronymo,Jeronymo
+15,44,Rita Bahiana,Rita
+15,47,Firmo,Firmo
+15,62,Rita Bahiana,Rita
+15,67,Firmo,Firmo
+15,72,Firmo,Firmo
+15,76,Firmo,Firmo
+15,83,Jeronymo,Jeronymo
+15,87,Jeronymo,Jeronymo
+15,87,Firmo,Firmo
+15,89,Jeronymo,Jeronymo
+15,90,Jeronymo,Jeronymo
+15,90,Jeronymo,Jeronymo
+15,90,Rita Bahiana,Rita
+15,90,Rita Bahiana,Rita
+15,91,Jeronymo,Jeronymo
+15,92,Jeronymo,Jeronymo
+15,92,Rita Bahiana,Rita
+15,93,Jeronymo,Jeronymo
+15,93,Firmo,Firmo
+15,93,Firmo,Firmo
+15,95,Jeronymo,Jeronymo
+15,95,Firmo,Firmo
+15,99,Jeronymo,Jeronymo
+15,102,Rita Bahiana,Rita
+15,105,Firmo,Firmo
+15,115,Piedade de Jesus,Piedade
+15,116,Rita Bahiana,Rita
+15,122,Jeronymo,Jeronymo
+15,122,Rita Bahiana,Rita
+15,127,Jeronymo,Jeronymo
+16,1,Piedade de Jesus,Piedade de Jesus
+16,4,Jeronymo,Jeronymo
+16,5,Firmo,Firmo
+16,6,Piedade de Jesus,Piedade
+16,7,Anna das Dores,das Dôres
+16,7,Alexandre,Alexandre
+16,7,Jeronymo,Jeronymo
+16,7,Jeronymo,Jeronymo
+16,7,Augusta Carne-Molle,Augusta
+16,7,Piedade de Jesus,Piedade
+16,7,Rita Bahiana,Rita
+16,8,Piedade de Jesus,Piedade
+16,8,Piedade de Jesus,Piedade
+16,11,Piedade de Jesus,Piedade
+16,12,Leandra (Machona),Machona
+16,12,Piedade de Jesus,Piedade
+16,14,Piedade de Jesus,Piedade
+16,15,Leandra (Machona),Leandra
+16,23,Jeronymo,Jeronymo
+16,23,Piedade de Jesus,Piedade
+16,24,Augusta Carne-Molle,Augusta
+16,25,Leandra (Machona),Leandra
+16,27,Piedade de Jesus,Piedade
+16,29,Leandra (Machona),Machona
+16,30,Piedade de Jesus,Piedade
+16,31,Leandra (Machona),Leandra
+16,38,Piedade de Jesus,Piedade
+16,39,Jeronymo,Jeronymo
+16,41,Jeronymo,Jeronymo
+16,43,Jeronymo,Jeronymo
+16,43,Piedade de Jesus,Piedade
+16,45,Piedade de Jesus,Piedade
+16,45,Firmo,Firmo
+16,46,Firmo,Firmo
+16,48,João Romão,João Romão
+16,48,Alexandre,Alexandre
+16,48,Jeronymo,Jeronymo
+16,48,Jeronymo,Jeronymo
+16,48,Leandra (Machona),Machona
+16,48,Piedade de Jesus,Piedade
+16,48,Firmo,Firmo
+16,49,Piedade de Jesus,Piedade
+16,52,Firmo,Firmo
+16,52,Rita Bahiana,Rita
+16,53,Jeronymo,Jeronymo
+16,54,João Romão,João Romão
+16,54,Jeronymo,Jeronymo
+16,55,Piedade de Jesus,Piedade
+16,57,Rita Bahiana,Rita
+16,66,Rita Bahiana,Rita
+16,68,Piedade de Jesus,Piedade
+16,70,João Romão,João Romão
+16,70,Miranda,Miranda
+16,70,Rita Bahiana,Rita
+16,71,Piedade de Jesus,Piedade
+16,71,Rita Bahiana,Rita
+16,73,Piedade de Jesus,Piedade
+16,79,João Romão,João Romão
+16,79,Bertoleza,Bertoleza
+16,79,Miranda,Miranda
+16,81,Firmo,Firmo
+17,1,Agostinho,Agostinho
+17,1,João Romão,Romão
+17,1,Nênêm,Nênêm
+17,7,Botelho,Botelho
+17,13,Zulmira,Zulmira
+17,13,Paula (Bruxa),Bruxa
+17,16,Paula (Bruxa),Bruxa
+18,1,Bertoleza,Bertoleza
+18,1,Libório,Liborio
+18,3,João Romão,João Romão
+18,3,João Romão,João Romão
+18,3,Libório,Liborio
+18,4,Libório,Liborio
+18,6,João Romão,João Romão
+18,7,João Romão,João Romão
+18,7,Bertoleza,Bertoleza
+18,9,Augusta Carne-Molle,Carne Molle
+18,9,Anna das Dores,das Dôres
+18,9,Alexandre,Alexandre
+18,9,Leandra (Machona),Machona
+18,9,Augusta Carne-Molle,Augusta
+18,9,Augusta Carne-Molle,Augusta
+18,9,Piedade de Jesus,Piedade
+18,9,Libório,Liborio
+18,9,Bruno,Bruno
+18,9,Paula (Bruxa),Bruxa
+18,9,Rita Bahiana,Rita
+18,11,João Romão,João Romão
+18,11,Miranda,Miranda
+18,16,João Romão,João Romão
+18,17,Miranda,Miranda
+18,19,Miranda,Miranda
+18,23,João Romão,João Romão
+18,23,Bertoleza,Bertoleza
+18,23,Libório,Liborio
+18,29,João Romão,João Romão
+18,30,João Romão,João Romão
+18,30,Libório,Liborio
+18,31,João Romão,João Romão
+19,3,Leocadia,Leocadia
+19,3,Leocadia,Leocadia
+19,3,Pombinha,Pombinha
+19,3,Miranda,Miranda
+19,3,João Romão,Romão
+19,3,Bruno,Bruno
+19,4,Jeronymo,Jeronymo
+19,4,Piedade de Jesus,Piedade
+19,5,João Romão,João Romão
+19,5,Bertoleza,Bertoleza
+19,5,Miranda,Miranda
+19,6,João Romão,João Romão
+19,6,Botelho,Botelho
+19,8,Botelho,Botelho
+19,9,Miranda,Miranda
+19,11,João Romão,João Romão
+19,11,Bertoleza,Bertoleza
+19,11,Miranda,Miranda
+19,11,Miranda,Miranda
+19,11,Zulmira,Zulmira
+19,12,Bertoleza,Bertoleza
+19,13,Bertoleza,Bertoleza
+19,14,João Romão,João Romão
+19,14,Botelho,Botelho
+19,15,Botelho,Botelho
+19,26,Miranda,Miranda
+19,33,Jeronymo,Jeronymo
+19,33,Rita Bahiana,Rita
+19,34,Jeronymo,Jeronymo
+19,34,João Romão,Romão
+19,36,Rita Bahiana,Rita
+19,39,Jeronymo,Jeronymo
+19,39,Firmo,Firmo
+19,40,Piedade de Jesus,Piedade de Jesus
+19,40,Jeronymo,Jeronymo
+19,41,Piedade de Jesus,Piedade
+19,42,Piedade de Jesus,Piedade
+19,43,Pombinha,Pombinha
+19,44,Piedade de Jesus,Piedade
+19,45,Jeronymo,Jeronymo
+19,45,Jeronymo,Jeronymo
+19,46,Piedade de Jesus,Piedade
+19,47,Jeronymo,Jeronymo
+19,48,Jeronymo,Jeronymo
+19,50,Jeronymo,Jeronymo
+19,50,Piedade de Jesus,Piedade
+19,55,Jeronymo,Jeronymo
+19,55,Rita Bahiana,Rita
+19,56,Piedade de Jesus,Piedade
+19,57,Jeronymo,Jeronymo
+19,61,Jeronymo,Jeronymo
+19,62,Piedade de Jesus,Piedade
+19,66,Piedade de Jesus,Piedade
+19,66,Rita Bahiana,Rita
+19,67,Jeronymo,Jeronymo
+19,67,Piedade de Jesus,Piedade
+19,72,Jeronymo,Jeronymo
+19,73,Piedade de Jesus,Piedade
+19,77,Piedade de Jesus,Piedade
+19,87,Piedade de Jesus,Piedade
+19,90,Jeronymo,Jeronymo
+19,91,Rita Bahiana,Rita
+19,95,Jeronymo,Jeronymo
+19,99,Piedade de Jesus,Piedade
+20,1,Piedade de Jesus,Piedade
+20,4,Anna das Dores,das Dôres
+20,4,Agostinho,Agostinho
+20,4,Leandra (Machona),Machona
+20,5,Augusta Carne-Molle,Carne Molle
+20,5,João Romão,João Romão
+20,5,João Romão,João Romão
+20,5,João Romão,João Romão
+20,5,João Romão,João Romão
+20,5,Alexandre,Alexandre
+20,5,Alexandre,Alexandre
+20,5,Leocadia,Leocadia
+20,5,Leocadia,Leocadia
+20,5,Jeronymo,Jeronymo
+20,5,Miranda,Miranda
+20,5,Miranda,Miranda
+20,5,Leandra (Machona),Machona
+20,5,Augusta Carne-Molle,Augusta
+20,5,Augusta Carne-Molle,Augusta
+20,5,Albino,Albino
+20,5,Albino,Albino
+20,5,João Romão,Romão
+20,5,Nênêm,Nênêm
+20,5,Bruno,Bruno
+20,6,João Romão,Romão
+20,7,João Romão,João Romão
+20,8,Rita Bahiana,Rita
+20,9,Anna das Dores,das Dôres
+20,9,Piedade de Jesus,Piedade
+20,11,Piedade de Jesus,Piedade
+20,14,Anna das Dores,das Dôres
+20,16,João Romão,João Romão
+20,16,Miranda,Miranda
+20,16,Piedade de Jesus,Piedade
+20,16,Rita Bahiana,Rita
+20,19,Piedade de Jesus,Piedade
+20,21,João Romão,João Romão
+20,22,João Romão,João Romão
+20,22,Piedade de Jesus,Piedade
+20,25,Piedade de Jesus,Piedade
+20,28,Piedade de Jesus,Piedade
+20,29,Piedade de Jesus,Piedade
+20,32,Piedade de Jesus,Piedade
+20,33,Jeronymo,Jeronymo
+20,39,Piedade de Jesus,Piedade
+20,44,Piedade de Jesus,Piedade
+20,62,Piedade de Jesus,Piedade
+20,65,Piedade de Jesus,Piedade
+21,1,João Romão,João Romão
+21,2,Bertoleza,Bertoleza
+21,5,Estella,Dona Estella
+21,5,Miranda,Miranda
+21,5,Zulmira,Zulmira
+21,5,Botelho,Botelho
+21,6,Bertoleza,Bertoleza
+21,11,Estella,Dona Estella
+21,11,Miranda,Miranda
+21,14,Miranda,Miranda
+21,15,Bertoleza,Bertoleza
+21,16,Bertoleza,Bertoleza
+21,17,Bertoleza,Bertoleza
+21,17,Miranda,Miranda
+21,18,Bertoleza,Bertoleza
+21,20,João Romão,João Romão
+21,20,Bertoleza,Bertoleza
+21,22,João Romão,João Romão
+21,30,Bertoleza,Bertoleza
+21,37,João Romão,João Romão
+21,40,Estella,Dona Estella
+21,40,Miranda,Miranda
+21,46,Agostinho,Agostinho
+21,46,Leandra (Machona),Machona
+21,50,Anna das Dores,das Dôres
+21,50,Leandra (Machona),Machona
+21,50,Albino,Albino
+21,50,Nênêm,Nênêm
+21,54,João Romão,João Romão
+21,54,Agostinho,Agostinho
+21,55,Bertoleza,Bertoleza
+21,60,Botelho,Botelho
+21,64,João Romão,João Romão
+21,64,Agostinho,Agostinho
+21,66,João Romão,João Romão
+21,66,Botelho,Botelho
+21,70,Estella,Dona Estella
+21,70,Zulmira,Zulmirinha
+21,75,João Romão,João Romão
+21,77,Botelho,Botelho
+21,82,Estella,Dona Estella
+21,82,Miranda,Miranda
+21,84,João Romão,João Romão
+21,85,Botelho,Botelho
+21,88,Botelho,Botelho
+21,98,João Romão,João Romão
+21,98,Bertoleza,Bertoleza
+21,101,Miranda,Miranda
+21,102,Botelho,Botelho
+21,108,João Romão,João Romão
+21,109,Botelho,Botelho
+21,117,João Romão,João Romão
+21,117,Bertoleza,Bertoleza
+21,117,Botelho,Botelho
+21,120,Botelho,Botelho
+21,129,João Romão,João Romão
+22,1,Bertoleza,Bertoleza
+22,2,João Romão,João Romão
+22,2,João Romão,João Romão
+22,3,Rita Bahiana,Rita Bahiana
+22,3,João Romão,João Romão
+22,3,Agostinho,Agostinho
+22,3,Alexandre,Alexandre
+22,3,Marciana,Marcianna
+22,3,Florinda,Florinda
+22,3,Pombinha,Pombinha
+22,3,Leandra (Machona),Machona
+22,3,João Romão,Romão
+22,3,Nênêm,Nênêm
+22,4,Pombinha,Pombinha
+22,5,Dona Isabel,Dona Isabel
+22,5,Dona Isabel,Dona Isabel
+22,5,Dona Isabel,Dona Isabel
+22,5,Pombinha,Pombinha
+22,5,Pombinha,Pombinha
+22,5,Pombinha,Pombinha
+22,5,Pombinha,Pombinha
+22,5,Pombinha,Pombinha
+22,6,Pombinha,Pombinha
+22,6,Pombinha,Pombinha
+22,6,Jeronymo,Jeronymo
+22,6,Augusta Carne-Molle,Augusta
+22,6,João Romão,Romão
+22,7,Pombinha,Pombinha
+22,7,Piedade de Jesus,Piedade
+22,8,João Romão,João Romão
+22,8,Pombinha,Pombinha
+22,9,João Romão,Romão
+23,1,João Romão,João Romão
+23,1,Miranda,Miranda
+23,2,João Romão,João Romão
+23,3,Estella,Dona Estella
+23,3,Estella,Dona Estella
+23,3,João Romão,João Romão
+23,3,Miranda,Miranda
+23,3,Zulmira,Zulmira
+23,3,Zulmira,Zulmira
+23,5,Estella,Dona Estella
+23,5,Estella,Dona Estella
+23,5,João Romão,João Romão
+23,5,João Romão,João Romão
+23,5,Miranda,Miranda
+23,5,Zulmira,Zulmira
+23,5,Botelho,Botelho
+23,6,Miranda,Miranda
+23,6,Botelho,Botelho
+23,7,João Romão,João Romão
+23,7,João Romão,João Romão
+23,7,Miranda,Miranda
+23,7,Zulmira,Zulmira
+23,7,Botelho,Botelho
+23,9,João Romão,João Romão
+23,27,Botelho,Botelho
+23,33,Miranda,Miranda
+23,35,Henrique,Henrique
+23,35,Pombinha,Pombinha
+23,35,Botelho,Botelho
+23,36,João Romão,João Romão
+23,40,João Romão,João Romão
+23,40,Botelho,Botelho
+23,43,João Romão,João Romão
+23,46,Botelho,Botelho
+23,49,João Romão,João Romão
+23,51,João Romão,João Romão
+23,57,João Romão,João Romão
+23,57,Botelho,Botelho
+23,58,Bertoleza,Bertoleza
+23,63,Bertoleza,Bertoleza
+23,65,João Romão,João Romão
