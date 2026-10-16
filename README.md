@@ -51,6 +51,7 @@ mencionados, relações entre personagens que não dividem capítulo, nomeação
 ## Conteúdo do curso utilizado
 
 | conceito | semana | onde aparece | para que serviu |
+|---|---|---|---|
 | Tipos de grafo (não dirigido, ponderado), nó, aresta, peso | 2 | `src/04_construir_redes.py`; `src/08_paragrafo_e_ambientes.py` (`grafo_paragrafo`, l. 41) | definir o modelo das redes por capítulo e por parágrafo |
 | Atributos de nó | 2 | `data/processed/ambientes.csv`; `src/05_calcular_metricas.py` (l. 57); `src/08` (l. 46) | comparar a posição de cada ambiente |
 | Rede bipartida (capítulo x personagem), matriz de incidência e projeção | 6 | `data/processed/presenca.csv` (incidência); `src/04_construir_redes.py` (l. 15, `Bp.T @ Bp`) | obter a rede de personagens por capítulo |
@@ -71,6 +72,7 @@ Ferramentas **de fora do curso** (complementares, não substituem as acima): coe
 (`nx.attribute_assortativity_coefficient`, `src/08` l. 60) e teste de permutação com 1.000 sorteios dos ambientes
 (`src/08` l. 58 a 70), usados para saber se a separação entre cortiço e sobrado é maior que o acaso. No lugar de NER
 (semana 6), usamos um dicionário de personagens feito à mão.
+
 
 ## Como executar
 
