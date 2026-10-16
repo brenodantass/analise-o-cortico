@@ -1,0 +1,13 @@
+periodo,ambiente,personagens,grau_norm_medio,forca_media,betweenness_medio,core_medio
+inicio,cortico,22,0.462,32.409,0.045,9.818
+inicio,outros,2,0.29,18.5,0.017,6.5
+inicio,sobrado,8,0.327,24.0,0.072,6.375
+meio,cortico,22,0.35,21.545,0.058,6.864
+meio,outros,2,0.316,21.5,0.003,7.0
+meio,sobrado,7,0.343,15.0,0.032,6.714
+fim,cortico,20,0.48,18.6,0.049,8.1
+fim,outros,1,0.04,1.0,0.0,1.0
+fim,sobrado,5,0.28,19.0,0.035,5.0
+completa,cortico,22,0.648,70.864,0.045,13.455
+completa,outros,2,0.468,40.5,0.0,11.0
+completa,sobrado,8,0.472,49.0,0.049,10.875

@@ -1,5 +1,9 @@
 periodo,tipo,arestas,peso_total
-completa,mesmo_ambiente,472,3005
-fim,mesmo_ambiente,237,412
-inicio,mesmo_ambiente,470,1526
-meio,mesmo_ambiente,446,1067
+completa,entre_ambientes,212,1042
+completa,mesmo_ambiente,260,1963
+fim,entre_ambientes,67,110
+fim,mesmo_ambiente,170,302
+inicio,entre_ambientes,210,520
+inicio,mesmo_ambiente,260,1006
+meio,entre_ambientes,195,412
+meio,mesmo_ambiente,251,655

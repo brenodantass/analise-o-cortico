@@ -1,122 +1,122 @@
 periodo,personagem,n_cap,grau,forca,betweenness,closeness,core,ambiente
-completa,Agostinho,9,30,163,0.0,4.4778,29,A_VERIFICAR
-completa,Albino,11,30,206,0.0,5.2956,29,A_VERIFICAR
-completa,Alexandre,12,30,214,0.0,5.4703,29,A_VERIFICAR
-completa,Anna das Dores,13,30,236,0.0011,5.816,29,A_VERIFICAR
-completa,Augusta Carne-Molle,13,30,230,0.0,5.7504,29,A_VERIFICAR
-completa,Bertoleza,14,30,220,0.0,5.4472,29,A_VERIFICAR
-completa,Botelho,8,30,110,0.0,4.0197,29,A_VERIFICAR
-completa,Bruno,10,30,189,0.0,4.934,29,A_VERIFICAR
-completa,Domingos,6,30,129,0.0,3.7841,29,A_VERIFICAR
-completa,Dona Isabel,12,30,229,0.0002,5.7645,29,A_VERIFICAR
-completa,Estella,8,31,124,0.0,4.1412,29,A_VERIFICAR
-completa,Firmo,13,30,227,0.0002,5.6313,29,A_VERIFICAR
-completa,Florinda,11,30,202,0.0,5.2269,29,A_VERIFICAR
-completa,Henrique,7,31,131,0.0,3.9677,29,A_VERIFICAR
-completa,Izaura,5,31,113,0.0,3.393,29,A_VERIFICAR
-completa,Jeronymo,16,30,252,0.0,5.9419,29,A_VERIFICAR
-completa,João Romão,21,31,302,0.2247,6.9621,29,A_VERIFICAR
-completa,João da Costa,4,29,90,0.0,2.8256,29,A_VERIFICAR
-completa,Leandra (Machona),16,30,272,0.0266,6.4013,29,A_VERIFICAR
-completa,Leocadia,10,30,187,0.0,5.0022,29,A_VERIFICAR
-completa,Leonor,7,31,151,0.0,4.2881,29,A_VERIFICAR
-completa,Libório,6,30,127,0.0,3.6894,29,A_VERIFICAR
-completa,Manoel,6,30,123,0.0,3.7349,29,A_VERIFICAR
-completa,Marciana,11,30,202,0.0,5.2269,29,A_VERIFICAR
-completa,Miranda,17,31,253,0.0165,6.1098,29,A_VERIFICAR
-completa,Nênêm,12,30,217,0.0002,5.5027,29,A_VERIFICAR
-completa,Paula (Bruxa),13,30,232,0.0019,5.8424,29,A_VERIFICAR
-completa,Piedade de Jesus,15,30,235,0.0,5.7691,29,A_VERIFICAR
-completa,Pombinha,12,30,222,0.0024,5.5927,29,A_VERIFICAR
-completa,Rita Bahiana,16,30,264,0.0076,6.2039,29,A_VERIFICAR
-completa,Valentim,1,8,8,0.0,0.9245,8,A_VERIFICAR
-completa,Zulmira,11,31,150,0.0,4.6826,29,A_VERIFICAR
-inicio,Agostinho,4,30,100,0.0001,2.797,29,A_VERIFICAR
-inicio,Albino,6,30,125,0.001,3.3214,29,A_VERIFICAR
-inicio,Alexandre,5,30,113,0.0008,3.1208,29,A_VERIFICAR
-inicio,Anna das Dores,5,30,112,0.0001,3.0244,29,A_VERIFICAR
-inicio,Augusta Carne-Molle,6,30,125,0.001,3.3214,29,A_VERIFICAR
-inicio,Bertoleza,4,30,83,0.0,2.4571,29,A_VERIFICAR
-inicio,Botelho,2,28,35,0.0,1.4531,27,A_VERIFICAR
-inicio,Bruno,5,30,112,0.0001,3.0244,29,A_VERIFICAR
-inicio,Domingos,3,29,65,0.0,2.0328,29,A_VERIFICAR
-inicio,Dona Isabel,6,30,125,0.001,3.3214,29,A_VERIFICAR
-inicio,Estella,4,31,65,0.0,2.1882,29,A_VERIFICAR
-inicio,Firmo,4,30,100,0.0001,2.797,29,A_VERIFICAR
-inicio,Florinda,6,30,125,0.001,3.3214,29,A_VERIFICAR
-inicio,Henrique,4,31,82,0.0,2.4734,29,A_VERIFICAR
-inicio,Izaura,4,31,87,0.0011,2.6124,29,A_VERIFICAR
-inicio,Jeronymo,5,30,99,0.0,2.7313,29,A_VERIFICAR
-inicio,João Romão,8,31,137,0.1838,3.7576,29,A_VERIFICAR
-inicio,João da Costa,2,29,52,0.0,1.6727,29,A_VERIFICAR
-inicio,Leandra (Machona),6,30,125,0.001,3.3214,29,A_VERIFICAR
-inicio,Leocadia,6,30,125,0.001,3.3214,29,A_VERIFICAR
-inicio,Leonor,4,31,87,0.0011,2.6124,29,A_VERIFICAR
-inicio,Libório,3,30,74,0.0,2.1882,29,A_VERIFICAR
-inicio,Manoel,3,29,65,0.0,2.0328,29,A_VERIFICAR
-inicio,Marciana,6,30,125,0.001,3.3214,29,A_VERIFICAR
-inicio,Miranda,6,31,112,0.0259,3.2069,29,A_VERIFICAR
-inicio,Nênêm,5,30,112,0.0001,3.0244,29,A_VERIFICAR
-inicio,Paula (Bruxa),6,30,125,0.001,3.3214,29,A_VERIFICAR
-inicio,Piedade de Jesus,4,30,87,0.0,2.48,29,A_VERIFICAR
-inicio,Pombinha,4,30,100,0.0001,2.797,29,A_VERIFICAR
-inicio,Rita Bahiana,4,30,100,0.0001,2.797,29,A_VERIFICAR
-inicio,Valentim,1,8,8,0.0,0.8532,8,A_VERIFICAR
-inicio,Zulmira,4,31,65,0.0,2.1882,29,A_VERIFICAR
-meio,Agostinho,1,22,22,0.0,0.8824,22,A_VERIFICAR
-meio,Albino,3,30,58,0.0001,1.7561,26,A_VERIFICAR
-meio,Alexandre,4,29,64,0.0,1.9565,26,A_VERIFICAR
-meio,Anna das Dores,5,30,90,0.0111,2.4931,26,A_VERIFICAR
-meio,Augusta Carne-Molle,4,30,68,0.0001,1.9651,26,A_VERIFICAR
-meio,Bertoleza,5,30,85,0.0007,2.3047,26,A_VERIFICAR
-meio,Botelho,2,27,42,0.0,1.4302,26,A_VERIFICAR
-meio,Bruno,2,29,42,0.0,1.3825,26,A_VERIFICAR
-meio,Domingos,3,30,64,0.0017,1.9355,26,A_VERIFICAR
-meio,Dona Isabel,5,30,91,0.0083,2.5105,26,A_VERIFICAR
-meio,Estella,2,27,42,0.0,1.4302,26,A_VERIFICAR
-meio,Firmo,8,30,116,0.063,2.8866,26,A_VERIFICAR
-meio,Florinda,4,30,64,0.0001,1.9313,26,A_VERIFICAR
-meio,Henrique,2,27,42,0.0,1.4302,26,A_VERIFICAR
-meio,Izaura,1,26,26,0.0,0.9302,26,A_VERIFICAR
-meio,Jeronymo,8,30,116,0.063,2.8866,26,A_VERIFICAR
-meio,João Romão,6,30,95,0.0053,2.4896,26,A_VERIFICAR
-meio,João da Costa,2,25,38,0.0,1.3878,24,A_VERIFICAR
-meio,Leandra (Machona),6,30,100,0.0266,2.6946,26,A_VERIFICAR
-meio,Leocadia,2,25,38,0.0,1.3878,24,A_VERIFICAR
-meio,Leonor,3,30,64,0.0007,1.9178,26,A_VERIFICAR
-meio,Libório,2,29,42,0.0,1.3825,26,A_VERIFICAR
-meio,Manoel,3,30,58,0.0001,1.7561,26,A_VERIFICAR
-meio,Marciana,4,30,64,0.0001,1.9313,26,A_VERIFICAR
-meio,Miranda,6,29,89,0.0023,2.3653,26,A_VERIFICAR
-meio,Nênêm,3,30,64,0.0017,1.9355,26,A_VERIFICAR
-meio,Paula (Bruxa),5,30,91,0.0083,2.5105,26,A_VERIFICAR
-meio,Piedade de Jesus,7,30,100,0.0128,2.5915,26,A_VERIFICAR
-meio,Pombinha,5,30,91,0.0083,2.5105,26,A_VERIFICAR
-meio,Rita Bahiana,8,30,116,0.063,2.8866,26,A_VERIFICAR
-meio,Zulmira,3,27,52,0.0,1.7415,26,A_VERIFICAR
-fim,Agostinho,4,22,41,0.0025,1.5244,15,A_VERIFICAR
-fim,Albino,2,17,23,0.0,1.0933,15,A_VERIFICAR
-fim,Alexandre,3,20,37,0.0014,1.4706,15,A_VERIFICAR
-fim,Anna das Dores,3,19,34,0.0008,1.3761,15,A_VERIFICAR
-fim,Augusta Carne-Molle,3,20,37,0.0014,1.4706,15,A_VERIFICAR
-fim,Bertoleza,5,25,52,0.0188,1.7301,15,A_VERIFICAR
-fim,Botelho,4,19,33,0.0012,1.4851,15,A_VERIFICAR
-fim,Bruno,3,20,35,0.0012,1.4151,15,A_VERIFICAR
-fim,Dona Isabel,1,13,13,0.0,0.797,13,A_VERIFICAR
-fim,Estella,2,12,17,0.0,1.0989,11,A_VERIFICAR
-fim,Firmo,1,11,11,0.0,0.7519,11,A_VERIFICAR
-fim,Florinda,1,13,13,0.0,0.797,13,A_VERIFICAR
-fim,Henrique,1,7,7,0.0,0.7264,7,A_VERIFICAR
-fim,Jeronymo,3,21,37,0.0042,1.4706,15,A_VERIFICAR
-fim,João Romão,7,25,70,0.4064,2.0576,15,A_VERIFICAR
-fim,Leandra (Machona),4,23,47,0.0131,1.6575,15,A_VERIFICAR
-fim,Leocadia,2,18,24,0.0,1.1219,15,A_VERIFICAR
-fim,Libório,1,11,11,0.0,0.7538,11,A_VERIFICAR
-fim,Marciana,1,13,13,0.0,0.797,13,A_VERIFICAR
-fim,Miranda,5,22,52,0.0261,1.7261,15,A_VERIFICAR
-fim,Nênêm,4,22,41,0.0025,1.5244,15,A_VERIFICAR
-fim,Paula (Bruxa),2,15,16,0.0,1.0571,14,A_VERIFICAR
-fim,Piedade de Jesus,4,23,48,0.0157,1.6854,15,A_VERIFICAR
-fim,Pombinha,3,21,31,0.0056,1.4085,15,A_VERIFICAR
-fim,Rita Bahiana,4,23,48,0.0157,1.6854,15,A_VERIFICAR
-fim,Zulmira,4,19,33,0.0012,1.4851,15,A_VERIFICAR
+completa,Agostinho,9,30,163,0.0,4.4778,29,cortico
+completa,Albino,11,30,206,0.0,5.2956,29,cortico
+completa,Alexandre,12,30,214,0.0,5.4703,29,cortico
+completa,Anna das Dores,13,30,236,0.0011,5.816,29,cortico
+completa,Augusta Carne-Molle,13,30,230,0.0,5.7504,29,cortico
+completa,Bertoleza,14,30,220,0.0,5.4472,29,cortico
+completa,Botelho,8,30,110,0.0,4.0197,29,sobrado
+completa,Bruno,10,30,189,0.0,4.934,29,cortico
+completa,Domingos,6,30,129,0.0,3.7841,29,cortico
+completa,Dona Isabel,12,30,229,0.0002,5.7645,29,cortico
+completa,Estella,8,31,124,0.0,4.1412,29,sobrado
+completa,Firmo,13,30,227,0.0002,5.6313,29,outros
+completa,Florinda,11,30,202,0.0,5.2269,29,cortico
+completa,Henrique,7,31,131,0.0,3.9677,29,sobrado
+completa,Izaura,5,31,113,0.0,3.393,29,sobrado
+completa,Jeronymo,16,30,252,0.0,5.9419,29,cortico
+completa,João Romão,21,31,302,0.2247,6.9621,29,cortico
+completa,João da Costa,4,29,90,0.0,2.8256,29,outros
+completa,Leandra (Machona),16,30,272,0.0266,6.4013,29,cortico
+completa,Leocadia,10,30,187,0.0,5.0022,29,cortico
+completa,Leonor,7,31,151,0.0,4.2881,29,sobrado
+completa,Libório,6,30,127,0.0,3.6894,29,cortico
+completa,Manoel,6,30,123,0.0,3.7349,29,cortico
+completa,Marciana,11,30,202,0.0,5.2269,29,cortico
+completa,Miranda,17,31,253,0.0165,6.1098,29,sobrado
+completa,Nênêm,12,30,217,0.0002,5.5027,29,cortico
+completa,Paula (Bruxa),13,30,232,0.0019,5.8424,29,cortico
+completa,Piedade de Jesus,15,30,235,0.0,5.7691,29,cortico
+completa,Pombinha,12,30,222,0.0024,5.5927,29,cortico
+completa,Rita Bahiana,16,30,264,0.0076,6.2039,29,cortico
+completa,Valentim,1,8,8,0.0,0.9245,8,sobrado
+completa,Zulmira,11,31,150,0.0,4.6826,29,sobrado
+inicio,Agostinho,4,30,100,0.0001,2.797,29,cortico
+inicio,Albino,6,30,125,0.001,3.3214,29,cortico
+inicio,Alexandre,5,30,113,0.0008,3.1208,29,cortico
+inicio,Anna das Dores,5,30,112,0.0001,3.0244,29,cortico
+inicio,Augusta Carne-Molle,6,30,125,0.001,3.3214,29,cortico
+inicio,Bertoleza,4,30,83,0.0,2.4571,29,cortico
+inicio,Botelho,2,28,35,0.0,1.4531,27,sobrado
+inicio,Bruno,5,30,112,0.0001,3.0244,29,cortico
+inicio,Domingos,3,29,65,0.0,2.0328,29,cortico
+inicio,Dona Isabel,6,30,125,0.001,3.3214,29,cortico
+inicio,Estella,4,31,65,0.0,2.1882,29,sobrado
+inicio,Firmo,4,30,100,0.0001,2.797,29,outros
+inicio,Florinda,6,30,125,0.001,3.3214,29,cortico
+inicio,Henrique,4,31,82,0.0,2.4734,29,sobrado
+inicio,Izaura,4,31,87,0.0011,2.6124,29,sobrado
+inicio,Jeronymo,5,30,99,0.0,2.7313,29,cortico
+inicio,João Romão,8,31,137,0.1838,3.7576,29,cortico
+inicio,João da Costa,2,29,52,0.0,1.6727,29,outros
+inicio,Leandra (Machona),6,30,125,0.001,3.3214,29,cortico
+inicio,Leocadia,6,30,125,0.001,3.3214,29,cortico
+inicio,Leonor,4,31,87,0.0011,2.6124,29,sobrado
+inicio,Libório,3,30,74,0.0,2.1882,29,cortico
+inicio,Manoel,3,29,65,0.0,2.0328,29,cortico
+inicio,Marciana,6,30,125,0.001,3.3214,29,cortico
+inicio,Miranda,6,31,112,0.0259,3.2069,29,sobrado
+inicio,Nênêm,5,30,112,0.0001,3.0244,29,cortico
+inicio,Paula (Bruxa),6,30,125,0.001,3.3214,29,cortico
+inicio,Piedade de Jesus,4,30,87,0.0,2.48,29,cortico
+inicio,Pombinha,4,30,100,0.0001,2.797,29,cortico
+inicio,Rita Bahiana,4,30,100,0.0001,2.797,29,cortico
+inicio,Valentim,1,8,8,0.0,0.8532,8,sobrado
+inicio,Zulmira,4,31,65,0.0,2.1882,29,sobrado
+meio,Agostinho,1,22,22,0.0,0.8824,22,cortico
+meio,Albino,3,30,58,0.0001,1.7561,26,cortico
+meio,Alexandre,4,29,64,0.0,1.9565,26,cortico
+meio,Anna das Dores,5,30,90,0.0111,2.4931,26,cortico
+meio,Augusta Carne-Molle,4,30,68,0.0001,1.9651,26,cortico
+meio,Bertoleza,5,30,85,0.0007,2.3047,26,cortico
+meio,Botelho,2,27,42,0.0,1.4302,26,sobrado
+meio,Bruno,2,29,42,0.0,1.3825,26,cortico
+meio,Domingos,3,30,64,0.0017,1.9355,26,cortico
+meio,Dona Isabel,5,30,91,0.0083,2.5105,26,cortico
+meio,Estella,2,27,42,0.0,1.4302,26,sobrado
+meio,Firmo,8,30,116,0.063,2.8866,26,outros
+meio,Florinda,4,30,64,0.0001,1.9313,26,cortico
+meio,Henrique,2,27,42,0.0,1.4302,26,sobrado
+meio,Izaura,1,26,26,0.0,0.9302,26,sobrado
+meio,Jeronymo,8,30,116,0.063,2.8866,26,cortico
+meio,João Romão,6,30,95,0.0053,2.4896,26,cortico
+meio,João da Costa,2,25,38,0.0,1.3878,24,outros
+meio,Leandra (Machona),6,30,100,0.0266,2.6946,26,cortico
+meio,Leocadia,2,25,38,0.0,1.3878,24,cortico
+meio,Leonor,3,30,64,0.0007,1.9178,26,sobrado
+meio,Libório,2,29,42,0.0,1.3825,26,cortico
+meio,Manoel,3,30,58,0.0001,1.7561,26,cortico
+meio,Marciana,4,30,64,0.0001,1.9313,26,cortico
+meio,Miranda,6,29,89,0.0023,2.3653,26,sobrado
+meio,Nênêm,3,30,64,0.0017,1.9355,26,cortico
+meio,Paula (Bruxa),5,30,91,0.0083,2.5105,26,cortico
+meio,Piedade de Jesus,7,30,100,0.0128,2.5915,26,cortico
+meio,Pombinha,5,30,91,0.0083,2.5105,26,cortico
+meio,Rita Bahiana,8,30,116,0.063,2.8866,26,cortico
+meio,Zulmira,3,27,52,0.0,1.7415,26,sobrado
+fim,Agostinho,4,22,41,0.0025,1.5244,15,cortico
+fim,Albino,2,17,23,0.0,1.0933,15,cortico
+fim,Alexandre,3,20,37,0.0014,1.4706,15,cortico
+fim,Anna das Dores,3,19,34,0.0008,1.3761,15,cortico
+fim,Augusta Carne-Molle,3,20,37,0.0014,1.4706,15,cortico
+fim,Bertoleza,5,25,52,0.0188,1.7301,15,cortico
+fim,Botelho,4,19,33,0.0012,1.4851,15,sobrado
+fim,Bruno,3,20,35,0.0012,1.4151,15,cortico
+fim,Dona Isabel,1,13,13,0.0,0.797,13,cortico
+fim,Estella,2,12,17,0.0,1.0989,11,sobrado
+fim,Firmo,1,11,11,0.0,0.7519,11,outros
+fim,Florinda,1,13,13,0.0,0.797,13,cortico
+fim,Henrique,1,7,7,0.0,0.7264,7,sobrado
+fim,Jeronymo,3,21,37,0.0042,1.4706,15,cortico
+fim,João Romão,7,25,70,0.4064,2.0576,15,cortico
+fim,Leandra (Machona),4,23,47,0.0131,1.6575,15,cortico
+fim,Leocadia,2,18,24,0.0,1.1219,15,cortico
+fim,Libório,1,11,11,0.0,0.7538,11,cortico
+fim,Marciana,1,13,13,0.0,0.797,13,cortico
+fim,Miranda,5,22,52,0.0261,1.7261,15,sobrado
+fim,Nênêm,4,22,41,0.0025,1.5244,15,cortico
+fim,Paula (Bruxa),2,15,16,0.0,1.0571,14,cortico
+fim,Piedade de Jesus,4,23,48,0.0157,1.6854,15,cortico
+fim,Pombinha,3,21,31,0.0056,1.4085,15,cortico
+fim,Rita Bahiana,4,23,48,0.0157,1.6854,15,cortico
+fim,Zulmira,4,19,33,0.0012,1.4851,15,sobrado

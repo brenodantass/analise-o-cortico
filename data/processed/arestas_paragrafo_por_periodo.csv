@@ -1,0 +1,801 @@
+periodo,a,b,peso
+inicio,Agostinho,Anna das Dores,3
+inicio,Agostinho,Leandra (Machona),5
+inicio,Agostinho,Nênêm,5
+inicio,Agostinho,Dona Isabel,1
+inicio,Agostinho,Florinda,2
+inicio,Agostinho,Bruno,1
+inicio,Agostinho,Leocadia,1
+inicio,Agostinho,Libório,1
+inicio,Agostinho,Marciana,1
+inicio,Agostinho,Pombinha,1
+inicio,Agostinho,Rita Bahiana,1
+inicio,Albino,Dona Isabel,2
+inicio,Albino,Florinda,4
+inicio,Albino,Miranda,2
+inicio,Albino,Anna das Dores,2
+inicio,Albino,Augusta Carne-Molle,3
+inicio,Albino,Leocadia,5
+inicio,Albino,Pombinha,2
+inicio,Albino,Rita Bahiana,6
+inicio,Albino,Alexandre,5
+inicio,Albino,Bruno,4
+inicio,Albino,Marciana,1
+inicio,Albino,Firmo,4
+inicio,Albino,Paula (Bruxa),1
+inicio,Albino,Libório,1
+inicio,Alexandre,Augusta Carne-Molle,4
+inicio,Alexandre,Leandra (Machona),2
+inicio,Alexandre,Henrique,1
+inicio,Alexandre,Leocadia,3
+inicio,Alexandre,Marciana,2
+inicio,Alexandre,Miranda,3
+inicio,Alexandre,Paula (Bruxa),2
+inicio,Alexandre,Domingos,1
+inicio,Alexandre,Jeronymo,1
+inicio,Alexandre,Manoel,1
+inicio,Alexandre,Piedade de Jesus,1
+inicio,Alexandre,Anna das Dores,1
+inicio,Alexandre,Bruno,4
+inicio,Alexandre,Dona Isabel,1
+inicio,Alexandre,Florinda,2
+inicio,Alexandre,Pombinha,1
+inicio,Alexandre,Rita Bahiana,3
+inicio,Alexandre,Firmo,4
+inicio,Alexandre,Libório,1
+inicio,Alexandre,Zulmira,1
+inicio,Anna das Dores,Leandra (Machona),5
+inicio,Anna das Dores,Nênêm,5
+inicio,Anna das Dores,Florinda,4
+inicio,Anna das Dores,Marciana,2
+inicio,Anna das Dores,Rita Bahiana,5
+inicio,Anna das Dores,Augusta Carne-Molle,4
+inicio,Anna das Dores,Leocadia,2
+inicio,Anna das Dores,Pombinha,2
+inicio,Anna das Dores,Bruno,2
+inicio,Anna das Dores,Dona Isabel,3
+inicio,Anna das Dores,Estella,1
+inicio,Anna das Dores,Paula (Bruxa),1
+inicio,Augusta Carne-Molle,Leandra (Machona),5
+inicio,Augusta Carne-Molle,Henrique,1
+inicio,Augusta Carne-Molle,Leocadia,4
+inicio,Augusta Carne-Molle,Marciana,3
+inicio,Augusta Carne-Molle,Miranda,1
+inicio,Augusta Carne-Molle,Paula (Bruxa),3
+inicio,Augusta Carne-Molle,Firmo,2
+inicio,Augusta Carne-Molle,Florinda,2
+inicio,Augusta Carne-Molle,Pombinha,2
+inicio,Augusta Carne-Molle,Rita Bahiana,3
+inicio,Augusta Carne-Molle,Bruno,3
+inicio,Augusta Carne-Molle,Dona Isabel,2
+inicio,Augusta Carne-Molle,Libório,2
+inicio,Augusta Carne-Molle,Estella,1
+inicio,Augusta Carne-Molle,Nênêm,1
+inicio,Augusta Carne-Molle,Jeronymo,1
+inicio,Augusta Carne-Molle,Piedade de Jesus,1
+inicio,Bertoleza,João Romão,8
+inicio,Bertoleza,Firmo,1
+inicio,Bertoleza,Izaura,1
+inicio,Bertoleza,Jeronymo,1
+inicio,Bertoleza,Leonor,1
+inicio,Bertoleza,Miranda,1
+inicio,Botelho,Henrique,3
+inicio,Botelho,Miranda,2
+inicio,Botelho,Estella,4
+inicio,Botelho,Valentim,1
+inicio,Botelho,Zulmira,1
+inicio,Bruno,Leocadia,6
+inicio,Bruno,Rita Bahiana,5
+inicio,Bruno,Dona Isabel,2
+inicio,Bruno,Florinda,2
+inicio,Bruno,Marciana,2
+inicio,Bruno,Pombinha,2
+inicio,Bruno,Firmo,2
+inicio,Bruno,Miranda,1
+inicio,Bruno,Libório,2
+inicio,Bruno,Henrique,1
+inicio,Bruno,Leandra (Machona),2
+inicio,Bruno,Paula (Bruxa),1
+inicio,Bruno,Nênêm,1
+inicio,Bruno,João Romão,1
+inicio,Domingos,Manoel,3
+inicio,Domingos,Jeronymo,1
+inicio,Domingos,Piedade de Jesus,1
+inicio,Domingos,Izaura,1
+inicio,Domingos,Leonor,1
+inicio,Dona Isabel,João da Costa,2
+inicio,Dona Isabel,Pombinha,3
+inicio,Dona Isabel,Florinda,3
+inicio,Dona Isabel,Rita Bahiana,2
+inicio,Dona Isabel,Leocadia,1
+inicio,Dona Isabel,Marciana,1
+inicio,Dona Isabel,Leandra (Machona),2
+inicio,Dona Isabel,Nênêm,1
+inicio,Dona Isabel,Paula (Bruxa),1
+inicio,Estella,Miranda,11
+inicio,Estella,Zulmira,7
+inicio,Estella,João Romão,2
+inicio,Estella,Henrique,5
+inicio,Estella,Valentim,4
+inicio,Estella,Izaura,1
+inicio,Estella,Leonor,1
+inicio,Estella,Leocadia,1
+inicio,Estella,Nênêm,1
+inicio,Firmo,Leocadia,2
+inicio,Firmo,Rita Bahiana,6
+inicio,Firmo,Miranda,4
+inicio,Firmo,Libório,1
+inicio,Firmo,Florinda,1
+inicio,Firmo,Izaura,1
+inicio,Firmo,Jeronymo,1
+inicio,Firmo,João Romão,1
+inicio,Firmo,Leonor,1
+inicio,Florinda,João Romão,1
+inicio,Florinda,Marciana,5
+inicio,Florinda,Leocadia,4
+inicio,Florinda,Paula (Bruxa),1
+inicio,Florinda,Rita Bahiana,4
+inicio,Florinda,Pombinha,3
+inicio,Florinda,Leandra (Machona),2
+inicio,Florinda,Nênêm,2
+inicio,Florinda,Libório,1
+inicio,Henrique,Miranda,6
+inicio,Henrique,Leandra (Machona),1
+inicio,Henrique,Leocadia,6
+inicio,Henrique,Marciana,1
+inicio,Henrique,Paula (Bruxa),1
+inicio,Henrique,Zulmira,1
+inicio,Izaura,João Romão,2
+inicio,Izaura,Leonor,3
+inicio,Izaura,Miranda,3
+inicio,Izaura,Valentim,1
+inicio,Izaura,Manoel,1
+inicio,Izaura,Jeronymo,1
+inicio,Jeronymo,Piedade de Jesus,8
+inicio,Jeronymo,João Romão,3
+inicio,Jeronymo,Manoel,1
+inicio,Jeronymo,Leocadia,1
+inicio,Jeronymo,Leonor,1
+inicio,Jeronymo,Miranda,2
+inicio,Jeronymo,Paula (Bruxa),1
+inicio,Jeronymo,Rita Bahiana,1
+inicio,João Romão,Miranda,6
+inicio,João Romão,Leonor,2
+inicio,João Romão,Valentim,1
+inicio,João Romão,Marciana,1
+inicio,João Romão,Leocadia,1
+inicio,João Romão,Leandra (Machona),1
+inicio,João da Costa,Pombinha,2
+inicio,João da Costa,Paula (Bruxa),1
+inicio,João da Costa,Rita Bahiana,1
+inicio,Leandra (Machona),Nênêm,5
+inicio,Leandra (Machona),Leocadia,3
+inicio,Leandra (Machona),Marciana,3
+inicio,Leandra (Machona),Miranda,1
+inicio,Leandra (Machona),Paula (Bruxa),3
+inicio,Leandra (Machona),Rita Bahiana,2
+inicio,Leandra (Machona),Libório,1
+inicio,Leandra (Machona),Pombinha,1
+inicio,Leocadia,Marciana,5
+inicio,Leocadia,Miranda,5
+inicio,Leocadia,Paula (Bruxa),3
+inicio,Leocadia,Pombinha,3
+inicio,Leocadia,Rita Bahiana,4
+inicio,Leocadia,Libório,2
+inicio,Leocadia,Nênêm,1
+inicio,Leonor,Miranda,2
+inicio,Leonor,Valentim,1
+inicio,Leonor,Manoel,1
+inicio,Libório,Rita Bahiana,3
+inicio,Libório,Marciana,1
+inicio,Libório,Nênêm,1
+inicio,Libório,Pombinha,1
+inicio,Manoel,Piedade de Jesus,1
+inicio,Marciana,Miranda,1
+inicio,Marciana,Paula (Bruxa),3
+inicio,Marciana,Rita Bahiana,3
+inicio,Marciana,Pombinha,2
+inicio,Marciana,Nênêm,1
+inicio,Miranda,Zulmira,4
+inicio,Miranda,Valentim,2
+inicio,Miranda,Paula (Bruxa),1
+inicio,Miranda,Rita Bahiana,2
+inicio,Nênêm,Pombinha,1
+inicio,Nênêm,Rita Bahiana,1
+inicio,Paula (Bruxa),Rita Bahiana,2
+inicio,Piedade de Jesus,Rita Bahiana,2
+inicio,Pombinha,Rita Bahiana,4
+inicio,Valentim,Zulmira,1
+meio,Albino,Anna das Dores,2
+meio,Albino,Nênêm,1
+meio,Albino,Piedade de Jesus,2
+meio,Albino,Rita Bahiana,2
+meio,Albino,Augusta Carne-Molle,2
+meio,Albino,Dona Isabel,1
+meio,Albino,Leandra (Machona),2
+meio,Albino,Pombinha,1
+meio,Albino,Jeronymo,1
+meio,Albino,João Romão,1
+meio,Albino,Miranda,1
+meio,Albino,Zulmira,1
+meio,Alexandre,Augusta Carne-Molle,3
+meio,Alexandre,Dona Isabel,1
+meio,Alexandre,Pombinha,1
+meio,Alexandre,Anna das Dores,2
+meio,Alexandre,Bertoleza,1
+meio,Alexandre,João Romão,2
+meio,Alexandre,Leandra (Machona),2
+meio,Alexandre,Jeronymo,2
+meio,Alexandre,Piedade de Jesus,2
+meio,Alexandre,Rita Bahiana,1
+meio,Alexandre,Firmo,1
+meio,Anna das Dores,Florinda,1
+meio,Anna das Dores,Nênêm,3
+meio,Anna das Dores,Piedade de Jesus,3
+meio,Anna das Dores,Rita Bahiana,3
+meio,Anna das Dores,Firmo,1
+meio,Anna das Dores,Henrique,1
+meio,Anna das Dores,Miranda,1
+meio,Anna das Dores,Pombinha,3
+meio,Anna das Dores,Augusta Carne-Molle,2
+meio,Anna das Dores,Dona Isabel,2
+meio,Anna das Dores,Leandra (Machona),3
+meio,Anna das Dores,João da Costa,1
+meio,Anna das Dores,Bertoleza,1
+meio,Anna das Dores,João Romão,1
+meio,Anna das Dores,Jeronymo,1
+meio,Augusta Carne-Molle,Dona Isabel,1
+meio,Augusta Carne-Molle,Leandra (Machona),2
+meio,Augusta Carne-Molle,Piedade de Jesus,2
+meio,Augusta Carne-Molle,Pombinha,1
+meio,Augusta Carne-Molle,Jeronymo,2
+meio,Augusta Carne-Molle,João Romão,1
+meio,Augusta Carne-Molle,Miranda,1
+meio,Augusta Carne-Molle,Rita Bahiana,2
+meio,Augusta Carne-Molle,Zulmira,1
+meio,Bertoleza,João Romão,7
+meio,Bertoleza,Manoel,1
+meio,Bertoleza,Jeronymo,1
+meio,Bertoleza,Piedade de Jesus,1
+meio,Bertoleza,Rita Bahiana,1
+meio,Bertoleza,Marciana,1
+meio,Bertoleza,Leandra (Machona),1
+meio,Bertoleza,Paula (Bruxa),1
+meio,Bertoleza,Miranda,1
+meio,Botelho,Estella,1
+meio,Botelho,Henrique,2
+meio,Botelho,Izaura,1
+meio,Botelho,Leonor,2
+meio,Botelho,Pombinha,1
+meio,Botelho,Zulmira,1
+meio,Botelho,Miranda,3
+meio,Botelho,João Romão,3
+meio,Bruno,João Romão,1
+meio,Bruno,Miranda,2
+meio,Bruno,Piedade de Jesus,1
+meio,Bruno,Rita Bahiana,1
+meio,Bruno,Leocadia,2
+meio,Bruno,Paula (Bruxa),1
+meio,Bruno,Pombinha,1
+meio,Bruno,Domingos,1
+meio,Bruno,Firmo,1
+meio,Bruno,Jeronymo,1
+meio,Domingos,Leonor,1
+meio,Domingos,Manoel,1
+meio,Domingos,João Romão,2
+meio,Domingos,Marciana,1
+meio,Domingos,Florinda,1
+meio,Domingos,Firmo,1
+meio,Domingos,Jeronymo,1
+meio,Domingos,Miranda,1
+meio,Dona Isabel,Leandra (Machona),2
+meio,Dona Isabel,Pombinha,9
+meio,Dona Isabel,Piedade de Jesus,1
+meio,Dona Isabel,João da Costa,2
+meio,Dona Isabel,Nênêm,1
+meio,Estella,Henrique,1
+meio,Estella,Izaura,1
+meio,Estella,Leonor,1
+meio,Estella,Pombinha,1
+meio,Estella,Zulmira,2
+meio,Estella,Miranda,2
+meio,Estella,João Romão,1
+meio,Firmo,Jeronymo,12
+meio,Firmo,Rita Bahiana,7
+meio,Firmo,Henrique,1
+meio,Firmo,Miranda,2
+meio,Firmo,Pombinha,1
+meio,Firmo,Piedade de Jesus,4
+meio,Firmo,João Romão,2
+meio,Firmo,Marciana,1
+meio,Firmo,Leandra (Machona),1
+meio,Florinda,Jeronymo,1
+meio,Florinda,Marciana,4
+meio,Florinda,Rita Bahiana,1
+meio,Henrique,Izaura,1
+meio,Henrique,Leonor,2
+meio,Henrique,Pombinha,2
+meio,Henrique,Zulmira,1
+meio,Henrique,Miranda,2
+meio,Henrique,Rita Bahiana,1
+meio,Izaura,Leonor,1
+meio,Izaura,Pombinha,1
+meio,Izaura,Zulmira,1
+meio,Jeronymo,Piedade de Jesus,11
+meio,Jeronymo,Rita Bahiana,17
+meio,Jeronymo,Leocadia,1
+meio,Jeronymo,Marciana,1
+meio,Jeronymo,João Romão,6
+meio,Jeronymo,Miranda,3
+meio,Jeronymo,Leandra (Machona),2
+meio,Jeronymo,Zulmira,1
+meio,João Romão,Marciana,2
+meio,João Romão,Manoel,1
+meio,João Romão,Miranda,8
+meio,João Romão,Piedade de Jesus,3
+meio,João Romão,Rita Bahiana,4
+meio,João Romão,Leandra (Machona),3
+meio,João Romão,Zulmira,1
+meio,João da Costa,Nênêm,1
+meio,João da Costa,Pombinha,2
+meio,João da Costa,Leocadia,1
+meio,João da Costa,Libório,1
+meio,Leandra (Machona),Libório,1
+meio,Leandra (Machona),Piedade de Jesus,3
+meio,Leandra (Machona),Pombinha,1
+meio,Leandra (Machona),Miranda,1
+meio,Leandra (Machona),Rita Bahiana,1
+meio,Leandra (Machona),Zulmira,1
+meio,Leocadia,Rita Bahiana,2
+meio,Leocadia,Paula (Bruxa),1
+meio,Leonor,Manoel,1
+meio,Leonor,Pombinha,1
+meio,Leonor,Zulmira,1
+meio,Leonor,Miranda,1
+meio,Marciana,Rita Bahiana,1
+meio,Marciana,Paula (Bruxa),2
+meio,Miranda,Pombinha,1
+meio,Miranda,Rita Bahiana,4
+meio,Miranda,Piedade de Jesus,1
+meio,Miranda,Zulmira,1
+meio,Nênêm,Piedade de Jesus,1
+meio,Nênêm,Rita Bahiana,1
+meio,Nênêm,Pombinha,1
+meio,Paula (Bruxa),Piedade de Jesus,1
+meio,Piedade de Jesus,Rita Bahiana,11
+meio,Piedade de Jesus,Pombinha,1
+meio,Pombinha,Zulmira,1
+meio,Pombinha,Rita Bahiana,1
+meio,Rita Bahiana,Zulmira,1
+fim,Agostinho,João Romão,4
+fim,Agostinho,Nênêm,2
+fim,Agostinho,Anna das Dores,1
+fim,Agostinho,Leandra (Machona),3
+fim,Agostinho,Alexandre,1
+fim,Agostinho,Florinda,1
+fim,Agostinho,Marciana,1
+fim,Agostinho,Pombinha,1
+fim,Agostinho,Rita Bahiana,1
+fim,Albino,Alexandre,1
+fim,Albino,Augusta Carne-Molle,1
+fim,Albino,Bruno,1
+fim,Albino,Jeronymo,1
+fim,Albino,João Romão,1
+fim,Albino,Leandra (Machona),2
+fim,Albino,Leocadia,1
+fim,Albino,Miranda,1
+fim,Albino,Nênêm,2
+fim,Albino,Anna das Dores,1
+fim,Alexandre,Anna das Dores,1
+fim,Alexandre,Augusta Carne-Molle,2
+fim,Alexandre,Bruno,2
+fim,Alexandre,Leandra (Machona),3
+fim,Alexandre,Libório,1
+fim,Alexandre,Paula (Bruxa),1
+fim,Alexandre,Piedade de Jesus,1
+fim,Alexandre,Rita Bahiana,2
+fim,Alexandre,Jeronymo,1
+fim,Alexandre,João Romão,2
+fim,Alexandre,Leocadia,1
+fim,Alexandre,Miranda,1
+fim,Alexandre,Nênêm,2
+fim,Alexandre,Florinda,1
+fim,Alexandre,Marciana,1
+fim,Alexandre,Pombinha,1
+fim,Anna das Dores,Augusta Carne-Molle,1
+fim,Anna das Dores,Bruno,1
+fim,Anna das Dores,Leandra (Machona),3
+fim,Anna das Dores,Libório,1
+fim,Anna das Dores,Paula (Bruxa),1
+fim,Anna das Dores,Piedade de Jesus,2
+fim,Anna das Dores,Rita Bahiana,1
+fim,Anna das Dores,Nênêm,1
+fim,Augusta Carne-Molle,Bruno,2
+fim,Augusta Carne-Molle,Leandra (Machona),2
+fim,Augusta Carne-Molle,Libório,1
+fim,Augusta Carne-Molle,Paula (Bruxa),1
+fim,Augusta Carne-Molle,Piedade de Jesus,1
+fim,Augusta Carne-Molle,Rita Bahiana,1
+fim,Augusta Carne-Molle,Jeronymo,2
+fim,Augusta Carne-Molle,João Romão,2
+fim,Augusta Carne-Molle,Leocadia,1
+fim,Augusta Carne-Molle,Miranda,1
+fim,Augusta Carne-Molle,Nênêm,1
+fim,Augusta Carne-Molle,Pombinha,1
+fim,Bertoleza,Libório,2
+fim,Bertoleza,João Romão,7
+fim,Bertoleza,Miranda,3
+fim,Bertoleza,Zulmira,1
+fim,Bertoleza,Botelho,1
+fim,Botelho,João Romão,8
+fim,Botelho,Estella,2
+fim,Botelho,Miranda,4
+fim,Botelho,Zulmira,3
+fim,Botelho,Henrique,1
+fim,Botelho,Pombinha,1
+fim,Bruno,Leandra (Machona),2
+fim,Bruno,Libório,1
+fim,Bruno,Paula (Bruxa),1
+fim,Bruno,Piedade de Jesus,1
+fim,Bruno,Rita Bahiana,1
+fim,Bruno,João Romão,2
+fim,Bruno,Leocadia,2
+fim,Bruno,Miranda,2
+fim,Bruno,Pombinha,1
+fim,Bruno,Jeronymo,1
+fim,Bruno,Nênêm,1
+fim,Dona Isabel,Pombinha,1
+fim,Estella,Miranda,6
+fim,Estella,Zulmira,4
+fim,Estella,João Romão,2
+fim,Firmo,Jeronymo,1
+fim,Florinda,João Romão,1
+fim,Florinda,Leandra (Machona),1
+fim,Florinda,Marciana,1
+fim,Florinda,Nênêm,1
+fim,Florinda,Pombinha,1
+fim,Florinda,Rita Bahiana,1
+fim,Henrique,Pombinha,1
+fim,Jeronymo,Piedade de Jesus,4
+fim,Jeronymo,Rita Bahiana,2
+fim,Jeronymo,João Romão,3
+fim,Jeronymo,Leandra (Machona),1
+fim,Jeronymo,Leocadia,1
+fim,Jeronymo,Miranda,1
+fim,Jeronymo,Nênêm,1
+fim,Jeronymo,Pombinha,1
+fim,João Romão,Nênêm,3
+fim,João Romão,Libório,3
+fim,João Romão,Miranda,10
+fim,João Romão,Leocadia,2
+fim,João Romão,Pombinha,4
+fim,João Romão,Zulmira,4
+fim,João Romão,Leandra (Machona),2
+fim,João Romão,Piedade de Jesus,2
+fim,João Romão,Rita Bahiana,2
+fim,João Romão,Marciana,1
+fim,Leandra (Machona),Libório,1
+fim,Leandra (Machona),Paula (Bruxa),1
+fim,Leandra (Machona),Piedade de Jesus,1
+fim,Leandra (Machona),Rita Bahiana,2
+fim,Leandra (Machona),Leocadia,1
+fim,Leandra (Machona),Miranda,1
+fim,Leandra (Machona),Nênêm,3
+fim,Leandra (Machona),Marciana,1
+fim,Leandra (Machona),Pombinha,1
+fim,Leocadia,Miranda,2
+fim,Leocadia,Pombinha,1
+fim,Leocadia,Nênêm,1
+fim,Libório,Paula (Bruxa),1
+fim,Libório,Piedade de Jesus,1
+fim,Libório,Rita Bahiana,1
+fim,Marciana,Nênêm,1
+fim,Marciana,Pombinha,1
+fim,Marciana,Rita Bahiana,1
+fim,Miranda,Pombinha,1
+fim,Miranda,Zulmira,5
+fim,Miranda,Nênêm,1
+fim,Miranda,Piedade de Jesus,1
+fim,Miranda,Rita Bahiana,1
+fim,Nênêm,Pombinha,1
+fim,Nênêm,Rita Bahiana,1
+fim,Paula (Bruxa),Zulmira,1
+fim,Paula (Bruxa),Piedade de Jesus,1
+fim,Paula (Bruxa),Rita Bahiana,1
+fim,Piedade de Jesus,Rita Bahiana,3
+fim,Piedade de Jesus,Pombinha,1
+fim,Pombinha,Rita Bahiana,1
+completa,Agostinho,Anna das Dores,4
+completa,Agostinho,Leandra (Machona),8
+completa,Agostinho,Nênêm,7
+completa,Agostinho,Dona Isabel,1
+completa,Agostinho,Florinda,3
+completa,Agostinho,Bruno,1
+completa,Agostinho,Leocadia,1
+completa,Agostinho,Libório,1
+completa,Agostinho,Marciana,2
+completa,Agostinho,Pombinha,2
+completa,Agostinho,Rita Bahiana,2
+completa,Agostinho,João Romão,4
+completa,Agostinho,Alexandre,1
+completa,Albino,Dona Isabel,3
+completa,Albino,Florinda,4
+completa,Albino,Miranda,4
+completa,Albino,Anna das Dores,5
+completa,Albino,Augusta Carne-Molle,6
+completa,Albino,Leocadia,6
+completa,Albino,Pombinha,3
+completa,Albino,Rita Bahiana,8
+completa,Albino,Alexandre,6
+completa,Albino,Bruno,5
+completa,Albino,Marciana,1
+completa,Albino,Firmo,4
+completa,Albino,Paula (Bruxa),1
+completa,Albino,Libório,1
+completa,Albino,Nênêm,3
+completa,Albino,Piedade de Jesus,2
+completa,Albino,Leandra (Machona),4
+completa,Albino,Jeronymo,2
+completa,Albino,João Romão,2
+completa,Albino,Zulmira,1
+completa,Alexandre,Augusta Carne-Molle,9
+completa,Alexandre,Leandra (Machona),7
+completa,Alexandre,Henrique,1
+completa,Alexandre,Leocadia,4
+completa,Alexandre,Marciana,3
+completa,Alexandre,Miranda,4
+completa,Alexandre,Paula (Bruxa),3
+completa,Alexandre,Domingos,1
+completa,Alexandre,Jeronymo,4
+completa,Alexandre,Manoel,1
+completa,Alexandre,Piedade de Jesus,4
+completa,Alexandre,Anna das Dores,4
+completa,Alexandre,Bruno,6
+completa,Alexandre,Dona Isabel,2
+completa,Alexandre,Florinda,3
+completa,Alexandre,Pombinha,3
+completa,Alexandre,Rita Bahiana,6
+completa,Alexandre,Firmo,5
+completa,Alexandre,Libório,2
+completa,Alexandre,Zulmira,1
+completa,Alexandre,Bertoleza,1
+completa,Alexandre,João Romão,4
+completa,Alexandre,Nênêm,2
+completa,Anna das Dores,Leandra (Machona),11
+completa,Anna das Dores,Nênêm,9
+completa,Anna das Dores,Florinda,5
+completa,Anna das Dores,Marciana,2
+completa,Anna das Dores,Rita Bahiana,9
+completa,Anna das Dores,Augusta Carne-Molle,7
+completa,Anna das Dores,Leocadia,2
+completa,Anna das Dores,Pombinha,5
+completa,Anna das Dores,Bruno,3
+completa,Anna das Dores,Dona Isabel,5
+completa,Anna das Dores,Estella,1
+completa,Anna das Dores,Paula (Bruxa),2
+completa,Anna das Dores,Piedade de Jesus,5
+completa,Anna das Dores,Firmo,1
+completa,Anna das Dores,Henrique,1
+completa,Anna das Dores,Miranda,1
+completa,Anna das Dores,João da Costa,1
+completa,Anna das Dores,Bertoleza,1
+completa,Anna das Dores,João Romão,1
+completa,Anna das Dores,Jeronymo,1
+completa,Anna das Dores,Libório,1
+completa,Augusta Carne-Molle,Leandra (Machona),9
+completa,Augusta Carne-Molle,Henrique,1
+completa,Augusta Carne-Molle,Leocadia,5
+completa,Augusta Carne-Molle,Marciana,3
+completa,Augusta Carne-Molle,Miranda,3
+completa,Augusta Carne-Molle,Paula (Bruxa),4
+completa,Augusta Carne-Molle,Firmo,2
+completa,Augusta Carne-Molle,Florinda,2
+completa,Augusta Carne-Molle,Pombinha,4
+completa,Augusta Carne-Molle,Rita Bahiana,6
+completa,Augusta Carne-Molle,Bruno,5
+completa,Augusta Carne-Molle,Dona Isabel,3
+completa,Augusta Carne-Molle,Libório,3
+completa,Augusta Carne-Molle,Estella,1
+completa,Augusta Carne-Molle,Nênêm,2
+completa,Augusta Carne-Molle,Jeronymo,5
+completa,Augusta Carne-Molle,Piedade de Jesus,4
+completa,Augusta Carne-Molle,João Romão,3
+completa,Augusta Carne-Molle,Zulmira,1
+completa,Bertoleza,João Romão,22
+completa,Bertoleza,Firmo,1
+completa,Bertoleza,Izaura,1
+completa,Bertoleza,Jeronymo,2
+completa,Bertoleza,Leonor,1
+completa,Bertoleza,Miranda,5
+completa,Bertoleza,Manoel,1
+completa,Bertoleza,Piedade de Jesus,1
+completa,Bertoleza,Rita Bahiana,1
+completa,Bertoleza,Marciana,1
+completa,Bertoleza,Leandra (Machona),1
+completa,Bertoleza,Paula (Bruxa),1
+completa,Bertoleza,Libório,2
+completa,Bertoleza,Zulmira,1
+completa,Bertoleza,Botelho,1
+completa,Botelho,Henrique,6
+completa,Botelho,Miranda,9
+completa,Botelho,Estella,7
+completa,Botelho,Valentim,1
+completa,Botelho,Zulmira,5
+completa,Botelho,Izaura,1
+completa,Botelho,Leonor,2
+completa,Botelho,Pombinha,2
+completa,Botelho,João Romão,11
+completa,Bruno,Leocadia,10
+completa,Bruno,Rita Bahiana,7
+completa,Bruno,Dona Isabel,2
+completa,Bruno,Florinda,2
+completa,Bruno,Marciana,2
+completa,Bruno,Pombinha,4
+completa,Bruno,Firmo,3
+completa,Bruno,Miranda,5
+completa,Bruno,Libório,3
+completa,Bruno,Henrique,1
+completa,Bruno,Leandra (Machona),4
+completa,Bruno,Paula (Bruxa),3
+completa,Bruno,Nênêm,2
+completa,Bruno,João Romão,4
+completa,Bruno,Piedade de Jesus,2
+completa,Bruno,Domingos,1
+completa,Bruno,Jeronymo,2
+completa,Domingos,Manoel,4
+completa,Domingos,Jeronymo,2
+completa,Domingos,Piedade de Jesus,1
+completa,Domingos,Izaura,1
+completa,Domingos,Leonor,2
+completa,Domingos,João Romão,2
+completa,Domingos,Marciana,1
+completa,Domingos,Florinda,1
+completa,Domingos,Firmo,1
+completa,Domingos,Miranda,1
+completa,Dona Isabel,João da Costa,4
+completa,Dona Isabel,Pombinha,13
+completa,Dona Isabel,Florinda,3
+completa,Dona Isabel,Rita Bahiana,2
+completa,Dona Isabel,Leocadia,1
+completa,Dona Isabel,Marciana,1
+completa,Dona Isabel,Leandra (Machona),4
+completa,Dona Isabel,Nênêm,2
+completa,Dona Isabel,Paula (Bruxa),1
+completa,Dona Isabel,Piedade de Jesus,1
+completa,Estella,Miranda,19
+completa,Estella,Zulmira,13
+completa,Estella,João Romão,5
+completa,Estella,Henrique,6
+completa,Estella,Valentim,4
+completa,Estella,Izaura,2
+completa,Estella,Leonor,2
+completa,Estella,Leocadia,1
+completa,Estella,Nênêm,1
+completa,Estella,Pombinha,1
+completa,Firmo,Leocadia,2
+completa,Firmo,Rita Bahiana,13
+completa,Firmo,Miranda,6
+completa,Firmo,Libório,1
+completa,Firmo,Florinda,1
+completa,Firmo,Izaura,1
+completa,Firmo,Jeronymo,14
+completa,Firmo,João Romão,3
+completa,Firmo,Leonor,1
+completa,Firmo,Henrique,1
+completa,Firmo,Pombinha,1
+completa,Firmo,Piedade de Jesus,4
+completa,Firmo,Marciana,1
+completa,Firmo,Leandra (Machona),1
+completa,Florinda,João Romão,2
+completa,Florinda,Marciana,10
+completa,Florinda,Leocadia,4
+completa,Florinda,Paula (Bruxa),1
+completa,Florinda,Rita Bahiana,6
+completa,Florinda,Pombinha,4
+completa,Florinda,Leandra (Machona),3
+completa,Florinda,Nênêm,3
+completa,Florinda,Libório,1
+completa,Florinda,Jeronymo,1
+completa,Henrique,Miranda,8
+completa,Henrique,Leandra (Machona),1
+completa,Henrique,Leocadia,6
+completa,Henrique,Marciana,1
+completa,Henrique,Paula (Bruxa),1
+completa,Henrique,Zulmira,2
+completa,Henrique,Izaura,1
+completa,Henrique,Leonor,2
+completa,Henrique,Pombinha,3
+completa,Henrique,Rita Bahiana,1
+completa,Izaura,João Romão,2
+completa,Izaura,Leonor,4
+completa,Izaura,Miranda,3
+completa,Izaura,Valentim,1
+completa,Izaura,Manoel,1
+completa,Izaura,Jeronymo,1
+completa,Izaura,Pombinha,1
+completa,Izaura,Zulmira,1
+completa,Jeronymo,Piedade de Jesus,23
+completa,Jeronymo,João Romão,12
+completa,Jeronymo,Manoel,1
+completa,Jeronymo,Leocadia,3
+completa,Jeronymo,Leonor,1
+completa,Jeronymo,Miranda,6
+completa,Jeronymo,Paula (Bruxa),1
+completa,Jeronymo,Rita Bahiana,20
+completa,Jeronymo,Marciana,1
+completa,Jeronymo,Leandra (Machona),3
+completa,Jeronymo,Zulmira,1
+completa,Jeronymo,Nênêm,1
+completa,Jeronymo,Pombinha,1
+completa,João Romão,Miranda,24
+completa,João Romão,Leonor,2
+completa,João Romão,Valentim,1
+completa,João Romão,Marciana,4
+completa,João Romão,Leocadia,3
+completa,João Romão,Leandra (Machona),6
+completa,João Romão,Manoel,1
+completa,João Romão,Piedade de Jesus,5
+completa,João Romão,Rita Bahiana,6
+completa,João Romão,Zulmira,5
+completa,João Romão,Nênêm,3
+completa,João Romão,Libório,3
+completa,João Romão,Pombinha,4
+completa,João da Costa,Pombinha,4
+completa,João da Costa,Paula (Bruxa),1
+completa,João da Costa,Rita Bahiana,1
+completa,João da Costa,Nênêm,1
+completa,João da Costa,Leocadia,1
+completa,João da Costa,Libório,1
+completa,Leandra (Machona),Nênêm,8
+completa,Leandra (Machona),Leocadia,4
+completa,Leandra (Machona),Marciana,4
+completa,Leandra (Machona),Miranda,3
+completa,Leandra (Machona),Paula (Bruxa),4
+completa,Leandra (Machona),Rita Bahiana,5
+completa,Leandra (Machona),Libório,3
+completa,Leandra (Machona),Pombinha,3
+completa,Leandra (Machona),Piedade de Jesus,4
+completa,Leandra (Machona),Zulmira,1
+completa,Leocadia,Marciana,5
+completa,Leocadia,Miranda,7
+completa,Leocadia,Paula (Bruxa),4
+completa,Leocadia,Pombinha,4
+completa,Leocadia,Rita Bahiana,6
+completa,Leocadia,Libório,2
+completa,Leocadia,Nênêm,2
+completa,Leonor,Miranda,3
+completa,Leonor,Valentim,1
+completa,Leonor,Manoel,2
+completa,Leonor,Pombinha,1
+completa,Leonor,Zulmira,1
+completa,Libório,Rita Bahiana,4
+completa,Libório,Marciana,1
+completa,Libório,Nênêm,1
+completa,Libório,Pombinha,1
+completa,Libório,Paula (Bruxa),1
+completa,Libório,Piedade de Jesus,1
+completa,Manoel,Piedade de Jesus,1
+completa,Marciana,Miranda,1
+completa,Marciana,Paula (Bruxa),5
+completa,Marciana,Rita Bahiana,5
+completa,Marciana,Pombinha,3
+completa,Marciana,Nênêm,2
+completa,Miranda,Zulmira,10
+completa,Miranda,Valentim,2
+completa,Miranda,Paula (Bruxa),1
+completa,Miranda,Rita Bahiana,7
+completa,Miranda,Pombinha,2
+completa,Miranda,Piedade de Jesus,2
+completa,Miranda,Nênêm,1
+completa,Nênêm,Pombinha,3
+completa,Nênêm,Rita Bahiana,3
+completa,Nênêm,Piedade de Jesus,1
+completa,Paula (Bruxa),Rita Bahiana,3
+completa,Paula (Bruxa),Piedade de Jesus,2
+completa,Paula (Bruxa),Zulmira,1
+completa,Piedade de Jesus,Rita Bahiana,16
+completa,Piedade de Jesus,Pombinha,2
+completa,Pombinha,Rita Bahiana,6
+completa,Pombinha,Zulmira,1
+completa,Rita Bahiana,Zulmira,1
+completa,Valentim,Zulmira,1

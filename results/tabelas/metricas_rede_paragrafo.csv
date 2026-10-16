@@ -1,0 +1,5 @@
+periodo,nos,arestas,densidade,clustering_medio,componentes,diametro_gcc,eficiencia_global,degenerescencia,assortatividade_ambiente,p_permutacao
+inicio,32,207,0.417,0.716,1,3,0.696,11,0.315,0.001
+meio,31,161,0.346,0.587,2,3,0.628,9,0.295,0.001
+fim,26,138,0.425,0.71,1,3,0.699,9,0.3,0.001
+completa,32,294,0.593,0.764,1,3,0.795,14,0.238,0.001
