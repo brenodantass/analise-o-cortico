@@ -36,17 +36,32 @@ a família, os hóspedes (Henrique, Botelho) e a criadagem (Izaura, Leonor, Vale
 Costa, que aparecem como visitantes ou vêm de fora.
 ## Modelagem
 
-| Elemento | Definição |
+|| Elemento | Definição |
 |---|---|
-| Nó | Personagem (variantes unificadas no dicionário) |
-| Aresta | Dois personagens aparecem no mesmo capítulo |
-| Peso | Nº de capítulos compartilhados (também Jaccard como peso normalizado) |
-| Direção | Não direcionado |
-| Atributos | `n_cap` (capítulos em que aparece), `ambiente` |
-| Recortes | Início (caps. I–VIII), meio (IX–XVI), fim (XVII–XXIII) e obra completa |
+| Nó | Personagem (variantes de nome unificadas no dicionário) |
+| Aresta | Dois personagens coocorrem. Duas versões: **capítulo** (aparecem no mesmo capítulo) e **parágrafo** (aparecem no mesmo parágrafo) |
+| Peso | Nº de janelas compartilhadas (capítulos ou parágrafos). Na rede por capítulo também o índice de Jaccard, como peso normalizado |
+| Direção | Não direcionado (coocorrência é simétrica) |
+| Atributos | `ambiente` (cortico, sobrado, outros); `n_cap` / `n_par` (em quantos capítulos / parágrafos aparece) |
+| Recortes | Início (caps. I a VIII, 762 parágrafos), meio (IX a XVI, 1.026) e fim (XVII a XXIII, 439), mais a obra completa |
 
-**O que ficou de fora:** _preencha (ex.: o cortiço como "personagem", coletivos como "as lavadeiras", personagens só
-mencionados, relações entre personagens que não dividem capítulo, nomeação ≠ presença)._
+**Qual rede é a principal.** A rede por capítulo é quase um grafo completo (densidade 0,95, diâmetro 2): quase todo
+mundo aparece com quase todo mundo, e as métricas quase não distinguem os personagens (no início, oito personagens
+empatam em força 125). Por isso a **rede por parágrafo** é a principal para responder à pergunta. A rede por capítulo
+fica como comparação e como análise de sensibilidade da janela.
+
+**Por que distância = 1/peso.** Em betweenness e closeness, pares que dividem mais parágrafos ficam "mais perto".
+É uma escolha de modelagem; sem ela, toda aresta valeria o mesmo.
+
+**O que ficou de fora:**
+
+- O cortiço como "personagem" e coletivos ("as lavadeiras", "a gentalha").
+- Personagens secundários não incluídos no dicionário. Entre os candidatos há nomes que parecem personagens, como
+  Léonie, Porfiro, Pataca, Jujú e Zé Carlos (veja `candidatos_a_nome.csv`; não foram verificados um a um).
+- Menções por pronome ("ele", "ela"): não há resolução de correferência, então personagens muito referidos por
+  pronome têm ligações subestimadas.
+- Relações entre personagens que nunca aparecem juntos (ex.: quem só se relaciona por cartas ou por terceiros).
+- Nomeação não é presença: ser citado de passagem conta como aparecer.
 
 ## Conteúdo do curso utilizado
 
@@ -87,6 +102,79 @@ Resultados em `data/processed/` e `results/` (tabelas e figuras).
 
 ## Resultados
 
+Janela por parágrafo, 23 capítulos, 32 personagens. Os números abaixo estão em `results/tabelas/`.
+
+**1. A janela de coocorrência muda a rede.** Por capítulo, quase tudo se liga a tudo (obra completa: densidade 0,95;
+clustering 0,99; 472 arestas). Por parágrafo, a densidade cai para 0,59 na obra completa (294 arestas) e fica entre 0,35 e 0,43 nas
+três fases. A aresta mais pesada é a mesma nas duas janelas (João Romão e Miranda: 16 capítulos, 24 parágrafos).
+
+![janela](results/grafos/janela_capitulo_vs_paragrafo.png)
+
+**2. Cortiço e sobrado formam grupos distintos, em todas as fases.** O coeficiente de assortatividade por ambiente fica
+em torno de 0,3 (0,315 no início, 0,295 no meio e 0,300 no fim). Nenhuma das 1.000 permutações aleatórias de ambientes igualou esses
+valores (p ≈ 0,001, o mínimo possível com 1.000 sorteios): quem é do mesmo ambiente coocorre mais do que o acaso
+explicaria. Entre 62% e 70% do peso das arestas liga dois personagens do cortiço, e só 9% a 14% liga dois do sobrado.
+
+**3. Os dois mundos se aproximam ao longo do romance.** A fatia do peso total que liga cortiço e sobrado cresce:
+12,3% no início, 14,8% no meio e 19,2% no fim.
+
+| período | personagens | arestas | densidade | clustering | componentes | assortatividade | cortiço-sobrado (% do peso) |
+|---|---|---|---|---|---|---|---|
+| início | 32 | 207 | 0,417 | 0,716 | 1 | 0,315 | 12,3 |
+| meio | 31 | 161 | 0,346 | 0,587 | 2 | 0,295 | 14,8 |
+| fim | 26 | 138 | 0,425 | 0,710 | 1 | 0,300 | 19,2 |
+
+**4. Quem liga os grupos muda.** Pelo betweenness (distância 1/peso), o maior ponto de passagem no início é Miranda
+(0,38, do sobrado), no meio é João Romão (0,39) e no fim João Romão de novo, agora com 0,61, o valor mais alto de
+qualquer personagem em qualquer fase. Miranda cai para 0,08 no fim, embora continue o segundo em força (41). Em força
+(parágrafos compartilhados), João Romão é o 1º no fim (65). Isso é compatível com a trama (a ascensão de João Romão e sua
+aproximação do sobrado), mas a rede sozinha não prova essa interpretação.
+
+![rede por parágrafo](results/grafos/rede_paragrafo_por_periodo.png)
+
+**5. Posição por ambiente.** O cortiço tem grau normalizado médio maior no início (0,46 contra 0,33) e no fim (0,48
+contra 0,28), mas no meio os dois ambientes quase empatam (0,35 e 0,34). "Outros" tem 2, 2 e 1 personagens nas três
+fases, pouco para interpretar, e ficou fora das comparações.
+
+![ambientes](results/grafos/ambientes_por_periodo.png)
+
+**6. As ausências contam a cronologia.** Os personagens do sobrado entram nos capítulos I e II; as lavadeiras e a
+vizinhança do cortiço entram em bloco no capítulo III; Jeronymo e Piedade chegam nos capítulos IV e V
+(`results/tabelas/capitulo_de_entrada.csv`). No fim, seis personagens somem da rede (Domingos, Manoel, Izaura,
+Leonor, Valentim e João da Costa), e a rede por capítulo é a única fase em que deixa de ser quase completa (0,73).
+
+**7. Esqueleto por Jaccard (rede por capítulo).** Com o corte em 0,6, o sobrado se separa visivelmente do cortiço e,
+no fim, a rede se parte em 3 componentes (`results/tabelas/esqueleto_jaccard.csv`).
+
+![rede por capítulo, esqueleto](results/grafos/redes_por_periodo.png)
+
+## Limitações e próximos passos
+
+**Limitações**
+
+- Coocorrência não é interação: dois personagens no mesmo parágrafo não necessariamente se encontram ou conversam,
+  e um parágrafo curto de diálogo pesa o mesmo que uma cena longa.
+- Dicionário manual de 32 personagens. Há candidatos a personagem fora dele (ver "O que ficou de fora"), e a falta de
+  correferência subestima ligações de quem é citado por pronome. Os resultados valem para este conjunto de 32.
+- Só 273 dos 2.227 parágrafos têm dois ou mais personagens do dicionário, então a rede por parágrafo é construída
+  sobre poucas cenas.
+- Os períodos têm tamanhos desiguais (762, 1.026 e 439 parágrafos). Compare densidade e arestas entre fases com
+  cuidado; por isso usamos medidas normalizadas (grau normalizado) nas comparações entre ambientes.
+- O ambiente é fixo por personagem (onde mora ou trabalha). Quem circula entre os mundos, como Izaura e Leonor,
+  que frequentam a venda, aparece só em um deles. O grupo "outros" é pequeno demais para conclusões.
+- A distância 1/peso e o limiar de Jaccard (0,6) e de peso (2) nas figuras são escolhas nossas; outros valores mudam
+  os números (por isso a tabela de sensibilidade em `esqueleto_jaccard.csv`).
+- A leitura literária (ex.: ascensão de João Romão) é consistente com os números, mas estes são descritivos, não
+  provam causa. Com cerca de 30 nós, o custo computacional é desprezível; um livro com centenas de personagens
+  exigiria rever o cálculo de betweenness.
+
+**Próximos passos**
+
+- Acrescentar os personagens secundários que faltam e classificar seus ambientes.
+- Substituir o dicionário por NER com resolução de correferência.
+- Testar janelas deslizantes (ex.: 3 ou 5 parágrafos) e rede capítulo a capítulo, em vez de três fases.
+- Detectar comunidades (fora do curso) e comparar com a classificação manual de ambientes.
+- Repetir o método em outra obra para ver se a aproximação entre mundos sociais é característica do romance.
 ## Referências
 
 - Azevedo, A. *O Cortiço*. Project Gutenberg #69187.
