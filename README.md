@@ -34,6 +34,7 @@ Critério de classificação: onde o personagem mora ou trabalha, segundo o text
 e também João Romão, Bertoleza e os caixeiros da venda, que ficam à entrada da estalagem. Sobrado de Miranda (8):
 a família, os hóspedes (Henrique, Botelho) e a criadagem (Izaura, Leonor, Valentim). Outros (2): Firmo e João da
 Costa, que aparecem como visitantes ou vêm de fora.
+
 ## Modelagem
 
 || Elemento | Definição |
