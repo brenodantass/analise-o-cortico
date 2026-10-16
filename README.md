@@ -37,7 +37,7 @@ Costa, que aparecem como visitantes ou vêm de fora.
 
 ## Modelagem
 
-|| Elemento | Definição |
+| Elemento | Definição |
 |---|---|
 | Nó | Personagem (variantes de nome unificadas no dicionário) |
 | Aresta | Dois personagens coocorrem. Duas versões: **capítulo** (aparecem no mesmo capítulo) e **parágrafo** (aparecem no mesmo parágrafo) |
